@@ -1,0 +1,1282 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Aranha2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eba8ee650a4d7f029c1bd1790496690a}{%
+           family={Aranha},
+           familyi={A\bibinitperiod},
+           given={Maria\bibnamedelimb Salete\bibnamedelima Fábio},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{eba8ee650a4d7f029c1bd1790496690a}
+      \strng{fullhash}{eba8ee650a4d7f029c1bd1790496690a}
+      \strng{bibnamehash}{eba8ee650a4d7f029c1bd1790496690a}
+      \strng{authorbibnamehash}{eba8ee650a4d7f029c1bd1790496690a}
+      \strng{authornamehash}{eba8ee650a4d7f029c1bd1790496690a}
+      \strng{authorfullhash}{eba8ee650a4d7f029c1bd1790496690a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista do Ministério Público do Trabalho}
+      \field{number}{21}
+      \field{title}{Paradigmas da relação da sociedade com as pessoas com deficiência.}
+      \field{volume}{11}
+      \field{year}{2001}
+      \field{pages}{160\bibrangedash 173}
+      \range{pages}{14}
+    \endentry
+    \entry{Beckner2009}{article}{}
+      \name{author}{10}{}{%
+        {{hash=88941fc479ee7017be09e7006124fad5}{%
+           family={Beckner},
+           familyi={B\bibinitperiod},
+           given={Clay},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c5ad696a55f435c55cedf8bce1df10c4}{%
+           family={Blythe},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c6d56334b09b519b603f53d40e69b892}{%
+           family={Bybee},
+           familyi={B\bibinitperiod},
+           given={Joan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=30e62c17dca3f002c0bde7864b8f96fc}{%
+           family={Christiansen},
+           familyi={C\bibinitperiod},
+           given={Morten\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b04ec902fecc6ee3aa901faf48874ea5}{%
+           family={Croft},
+           familyi={C\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8593cd1ddb7c8530c8b89be4255ddc80}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Nick\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b79534c935b12a1be8505373667beef1}{%
+           family={Holland},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f750d32952155e3dbfd87422b98a1721}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Jinyun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=26c2661514d63f5fb4d07f8c3c968e18}{%
+           family={Larsen-Freeman},
+           familyi={L\bibinithyphendelim F\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fb21acc7eac70e47c7f86af76c4c2b6d}{%
+           family={Shoenemann},
+           familyi={S\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b7d28f69ff7a41f92b0676f6126e59c}
+      \strng{fullhash}{7d23314a963e271ce5a7b554ca610c80}
+      \strng{bibnamehash}{7d23314a963e271ce5a7b554ca610c80}
+      \strng{authorbibnamehash}{7d23314a963e271ce5a7b554ca610c80}
+      \strng{authornamehash}{1b7d28f69ff7a41f92b0676f6126e59c}
+      \strng{authorfullhash}{7d23314a963e271ce5a7b554ca610c80}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language Learning}
+      \field{number}{Suppl. 1}
+      \field{title}{Language is a complex adaptive system: Position paper.}
+      \field{volume}{59}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 26}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1111/j.1467-9922.2009.00533.x
+      \endverb
+    \endentry
+    \entry{Bishop2004a}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b522eda0ba6f658deaaaa81ed5d9d00a}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Dorothy\bibnamedelimb V.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ac7aac6273beb003469b3b53b1bc00bc}{%
+           family={Snowling},
+           familyi={S\bibinitperiod},
+           given={Margaret\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d707de206d92aa523ef7ed1366ff9a73}
+      \strng{fullhash}{d707de206d92aa523ef7ed1366ff9a73}
+      \strng{bibnamehash}{d707de206d92aa523ef7ed1366ff9a73}
+      \strng{authorbibnamehash}{d707de206d92aa523ef7ed1366ff9a73}
+      \strng{authornamehash}{d707de206d92aa523ef7ed1366ff9a73}
+      \strng{authorfullhash}{d707de206d92aa523ef7ed1366ff9a73}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{number}{6}
+      \field{title}{Developmental Dyslexia and Specific Language Impairment: Same or Different?}
+      \field{volume}{130}
+      \field{year}{2004}
+      \field{pages}{858\bibrangedash 886}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1037/0033-2909.130.6.858
+      \endverb
+    \endentry
+    \entry{Chapman2000}{article}{}
+      \name{author}{2}{}{%
+        {{hash=43a73a9e75eb46d61a9706b1a04d2e66}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=173de08b3fb650c386be85ecbb985893}{%
+           family={Hesketh},
+           familyi={H\bibinitperiod},
+           given={Linda\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{449537a78c0942509e56fb8bec48906f}
+      \strng{fullhash}{449537a78c0942509e56fb8bec48906f}
+      \strng{bibnamehash}{449537a78c0942509e56fb8bec48906f}
+      \strng{authorbibnamehash}{449537a78c0942509e56fb8bec48906f}
+      \strng{authornamehash}{449537a78c0942509e56fb8bec48906f}
+      \strng{authorfullhash}{449537a78c0942509e56fb8bec48906f}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mental Retardation and Developmental Disability Research Reviews}
+      \field{title}{Behavioural phenotype of individuals with Down syndrome.}
+      \field{volume}{6}
+      \field{year}{2000}
+      \field{pages}{84\bibrangedash 95}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/1098-2779(2000)6:2<84::aid-mrdd2>3.0.co;2-p
+      \endverb
+    \endentry
+    \entry{Chapman2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=43a73a9e75eb46d61a9706b1a04d2e66}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=173de08b3fb650c386be85ecbb985893}{%
+           family={Hesketh},
+           familyi={H\bibinitperiod},
+           given={Linda\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{449537a78c0942509e56fb8bec48906f}
+      \strng{fullhash}{449537a78c0942509e56fb8bec48906f}
+      \strng{bibnamehash}{449537a78c0942509e56fb8bec48906f}
+      \strng{authorbibnamehash}{449537a78c0942509e56fb8bec48906f}
+      \strng{authornamehash}{449537a78c0942509e56fb8bec48906f}
+      \strng{authorfullhash}{449537a78c0942509e56fb8bec48906f}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Down Syndrome Research and Practice}
+      \field{number}{1}
+      \field{title}{Language, cognition and short-term memory in individuals with Down Syndrome.}
+      \field{volume}{7}
+      \field{year}{2001}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.3104/reviews.108
+      \endverb
+    \endentry
+    \entry{Cossu1993}{article}{}
+      \name{author}{3}{}{%
+        {{hash=06e7c4117657dfb22d6aefa2f53dad3d}{%
+           family={Cossu},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f7d7ed42ca706d50beb2b0fe3a49d9cc}{%
+           family={Rossini},
+           familyi={R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=59baa31e1d2d232e4af220ec8ac26d1f}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={J.C.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b2f1ae72a5558e41e302b507d026792}
+      \strng{fullhash}{c8c8018ef0965a0faf48994f24ce0198}
+      \strng{bibnamehash}{c8c8018ef0965a0faf48994f24ce0198}
+      \strng{authorbibnamehash}{c8c8018ef0965a0faf48994f24ce0198}
+      \strng{authornamehash}{5b2f1ae72a5558e41e302b507d026792}
+      \strng{authorfullhash}{c8c8018ef0965a0faf48994f24ce0198}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{number}{2}
+      \field{title}{When reading is acquired but phonemic awareness is not: A study of literacy in Down{'}s syndrome}
+      \field{volume}{46}
+      \field{year}{1993}
+      \field{pages}{129\bibrangedash 138}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/0010-0277(93)90016-o
+      \endverb
+    \endentry
+    \entry{Cupples2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=dd2ca29934dec8c783ed6038fe74b8d1}{%
+           family={Cupples},
+           familyi={C\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2dad4705a1e7aa08b58e1a50fff986fd}{%
+           family={Iacono},
+           familyi={I\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d047699f6de25eb7037c3ccf769c489}
+      \strng{fullhash}{7d047699f6de25eb7037c3ccf769c489}
+      \strng{bibnamehash}{7d047699f6de25eb7037c3ccf769c489}
+      \strng{authorbibnamehash}{7d047699f6de25eb7037c3ccf769c489}
+      \strng{authornamehash}{7d047699f6de25eb7037c3ccf769c489}
+      \strng{authorfullhash}{7d047699f6de25eb7037c3ccf769c489}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reading and Writing}
+      \field{number}{5}
+      \field{title}{The efficacy of whole word versus analytic reading instruction for children with Down syndrome.}
+      \field{volume}{15}
+      \field{year}{2002}
+      \field{pages}{549\bibrangedash 574}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1023/A:1016385114848
+      \endverb
+    \endentry
+    \entry{Fuentes1995}{article}{}
+      \name{author}{6}{}{%
+        {{hash=b741f49e14794a6b407ed5ecbd76b4df}{%
+           family={Fuentes},
+           familyi={F\bibinitperiod},
+           given={Juan-José},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=fc52b01b075a1cea825fc5bf04add2e5}{%
+           family={Pritchard},
+           familyi={P\bibinitperiod},
+           given={Melanie\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=edf4bd2aca2f57a7db1737a6d2fb7436}{%
+           family={Planas},
+           familyi={P\bibinitperiod},
+           given={Anna\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a71a54e4c01bbd252f1971e31f0b4a47}{%
+           family={Bosch},
+           familyi={B\bibinitperiod},
+           given={Assumpciò},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3da60675fddb9cd551248d038cf45c50}{%
+           family={Ferrer},
+           familyi={F\bibinitperiod},
+           given={Isidre},
+           giveni={I\bibinitperiod}}}%
+        {{hash=acc17666a35ab7b9de588ab8470dbe7f}{%
+           family={Estivill},
+           familyi={E\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{22b881bcd5a14218c0c92cb90414e3dd}
+      \strng{fullhash}{8fa2a7d445043e57eb3e64f99d7d629e}
+      \strng{bibnamehash}{8fa2a7d445043e57eb3e64f99d7d629e}
+      \strng{authorbibnamehash}{8fa2a7d445043e57eb3e64f99d7d629e}
+      \strng{authornamehash}{22b881bcd5a14218c0c92cb90414e3dd}
+      \strng{authorfullhash}{8fa2a7d445043e57eb3e64f99d7d629e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Molecular Genetics}
+      \field{number}{10}
+      \field{title}{A new human gene from the Down syndrome critical region encodes a proline-rich protein highly expressed in fetal brain and heart.}
+      \field{volume}{4}
+      \field{year}{1995}
+      \field{pages}{1935\bibrangedash 1944}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1093/hmg/4.10.1935
+      \endverb
+    \endentry
+    \entry{Herault2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2aa84d6846d8dab1aec8e033d83ca884}{%
+           family={Herault},
+           familyi={H\bibinitperiod},
+           given={Yannet},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=012241592123fbe183c989b71ad2fdb7}{%
+           family={Delabar},
+           familyi={D\bibinitperiod},
+           given={Jean\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5b0a00102e6be2ea0f4e753941c9ad73}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Elisabeth\bibnamedelimb M.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3391eefdff0b057192519b90c91bb0c9}{%
+           family={Tybulewicz},
+           familyi={T\bibinitperiod},
+           given={Victor\bibnamedelimb L.\bibnamedelimi J.},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fd93cccd0e05af6c8422cd16ecbadf52}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d65e2456b5e024a841e7265e076d3670}{%
+           family={Brault},
+           familyi={B\bibinitperiod},
+           given={Veronique},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0bde461690476aadf7f08c8bcd9bdf9}
+      \strng{fullhash}{7995ea7474e2c9b7fb85ee4f8481d16c}
+      \strng{bibnamehash}{7995ea7474e2c9b7fb85ee4f8481d16c}
+      \strng{authorbibnamehash}{7995ea7474e2c9b7fb85ee4f8481d16c}
+      \strng{authornamehash}{f0bde461690476aadf7f08c8bcd9bdf9}
+      \strng{authorfullhash}{7995ea7474e2c9b7fb85ee4f8481d16c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Disease and Model Mechanisms.}
+      \field{number}{10}
+      \field{title}{Rodent models in Down syndrome research: impact and future opportunities.}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{pages}{1165\bibrangedash 1186}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1242/dmm.029728
+      \endverb
+    \endentry
+    \entry{Hulme2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c3faa3df8258a1b24dd0363eed387717}{%
+           family={Hulme},
+           familyi={H\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cf18aec896785580b4b2dbc179ce281c}{%
+           family={Goetz},
+           familyi={G\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b7f591bd31fe2be155b5f05a2fe22edf}{%
+           family={Brigstocke},
+           familyi={B\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ac7aac6273beb003469b3b53b1bc00bc}{%
+           family={Snowling},
+           familyi={S\bibinitperiod},
+           given={Margaret\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{869da1eecf63be4699cd32d9ab1bbac1}
+      \strng{fullhash}{41628d2c5f6a4ca226c54ab3aff26163}
+      \strng{bibnamehash}{41628d2c5f6a4ca226c54ab3aff26163}
+      \strng{authorbibnamehash}{41628d2c5f6a4ca226c54ab3aff26163}
+      \strng{authornamehash}{869da1eecf63be4699cd32d9ab1bbac1}
+      \strng{authorfullhash}{41628d2c5f6a4ca226c54ab3aff26163}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Developmental Science}
+      \field{title}{The growth of reading skills in children with Down Syndrome.}
+      \field{volume}{15}
+      \field{year}{2012}
+      \field{pages}{320\bibrangedash 329}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1467-7687.2011.01129.x
+      \endverb
+    \endentry
+    \entry{KarmiloffSmith1992}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dc2c89dd99910b6d65d0e1ba0e63ae0e}{%
+           family={Karmiloff-Smith},
+           familyi={K\bibinithyphendelim S\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge (MA)}%
+      }
+      \list{publisher}{1}{%
+        {The {MIT} Press}%
+      }
+      \strng{namehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{fullhash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{bibnamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authorbibnamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authornamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authorfullhash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Beyond Modularity: a developmental perspective on cognitive science.}
+      \field{year}{1992}
+      \verb{doi}
+      \verb 10.7551/mitpress/1579.001.0001
+      \endverb
+    \endentry
+    \entry{KarmiloffSmith1998}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dc2c89dd99910b6d65d0e1ba0e63ae0e}{%
+           family={Karmiloff-Smith},
+           familyi={K\bibinithyphendelim S\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{fullhash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{bibnamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authorbibnamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authornamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authorfullhash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{number}{10}
+      \field{title}{Development itself is the key to understanding developmental disorders.}
+      \field{volume}{2}
+      \field{year}{1998}
+      \field{pages}{389\bibrangedash 398}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.4324/9781315516691-5
+      \endverb
+    \endentry
+    \entry{KarmiloffSmith2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dc2c89dd99910b6d65d0e1ba0e63ae0e}{%
+           family={Karmiloff-Smith},
+           familyi={K\bibinithyphendelim S\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{fullhash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{bibnamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authorbibnamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authornamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authorfullhash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \field{extraname}{3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Brain Mapping}
+      \field{number}{6}
+      \field{title}{Neuroimaging of the developing brain: Taking {“}developing{”} seriously}
+      \field{volume}{31}
+      \field{year}{2010}
+      \field{pages}{934\bibrangedash 941}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1002/hbm.21074
+      \endverb
+    \endentry
+    \entry{KarmiloffSmith2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=dc2c89dd99910b6d65d0e1ba0e63ae0e}{%
+           family={Karmiloff-Smith},
+           familyi={K\bibinithyphendelim S\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=bcef4c672bede03020c0a242c028f7d2}{%
+           family={Marti},
+           familyi={M\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=317981cb4b719da34cf2b3030c5578a8}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Brunswick, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Transaction Pub}%
+      }
+      \strng{namehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{fullhash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{bibnamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authorbibnamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authornamehash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{authorfullhash}{dc2c89dd99910b6d65d0e1ba0e63ae0e}
+      \strng{editorbibnamehash}{a65adf6afc714c21055353c46b985687}
+      \strng{editornamehash}{a65adf6afc714c21055353c46b985687}
+      \strng{editorfullhash}{a65adf6afc714c21055353c46b985687}
+      \field{extraname}{4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{After Piaget}
+      \field{title}{From Constructivism to Neuroconstructivism: The Activity-Dependent Structuring of the Human Brain}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.4324/9781315082899-1
+      \endverb
+    \endentry
+    \entry{KarmiloffSmith2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dc2c89dd99910b6d65d0e1ba0e63ae0e}{%
+           family={Karmiloff-Smith},
+           familyi={K\bibinithyphendelim S\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b778044f8c404b9d6bf141253783c8d7}{%
+           family={Al-Janabi},
+           familyi={A\bibinithyphendelim J\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=06af6e551e8896fb18e4979febc00ade}{%
+           family={D'souza},
+           familyi={D\bibinitperiod},
+           given={Hana},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{370602ea5647ec9b9ac78a26c50253ba}
+      \strng{fullhash}{5943030cb2312d8d67beaa36c628bc46}
+      \strng{bibnamehash}{5943030cb2312d8d67beaa36c628bc46}
+      \strng{authorbibnamehash}{5943030cb2312d8d67beaa36c628bc46}
+      \strng{authornamehash}{370602ea5647ec9b9ac78a26c50253ba}
+      \strng{authorfullhash}{5943030cb2312d8d67beaa36c628bc46}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{F1000Research}
+      \field{number}{389}
+      \field{title}{The importance of understanding individual differences in Down syndrome.}
+      \field{volume}{5}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.12688/f1000research.7506.1
+      \endverb
+    \endentry
+    \entry{Konrad2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ddd261b3c7db0c21f10880cedfe72d8f}{%
+           family={Konrad},
+           familyi={K\bibinitperiod},
+           given={Jordana\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=aed5147fc181fd3cebdbb02185a3737f}{%
+           family={Lorandi},
+           familyi={L\bibinitperiod},
+           given={Aline},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{92c656613e04b239d7ed633b7861619d}
+      \strng{fullhash}{92c656613e04b239d7ed633b7861619d}
+      \strng{bibnamehash}{92c656613e04b239d7ed633b7861619d}
+      \strng{authorbibnamehash}{92c656613e04b239d7ed633b7861619d}
+      \strng{authornamehash}{92c656613e04b239d7ed633b7861619d}
+      \strng{authorfullhash}{92c656613e04b239d7ed633b7861619d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Letras de Hoje}
+      \field{number}{2}
+      \field{title}{Relação entre consciência fonológica e compreensão leitora em crianças: revisão sistemática de pesquisas brasileiras.}
+      \field{volume}{54}
+      \field{year}{2019}
+      \field{pages}{274\bibrangedash 283}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.15448/1984-7726.2019.2.32525
+      \endverb
+    \endentry
+    \entry{Lanfranchi2019}{book}{}
+      \name{author}{1}{}{%
+        {{hash=50811ce3d87dfbd358ea62cc7857c012}{%
+           family={Lanfranchi},
+           familyi={L\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{50811ce3d87dfbd358ea62cc7857c012}
+      \strng{fullhash}{50811ce3d87dfbd358ea62cc7857c012}
+      \strng{bibnamehash}{50811ce3d87dfbd358ea62cc7857c012}
+      \strng{authorbibnamehash}{50811ce3d87dfbd358ea62cc7857c012}
+      \strng{authornamehash}{50811ce3d87dfbd358ea62cc7857c012}
+      \strng{authorfullhash}{50811ce3d87dfbd358ea62cc7857c012}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{International Review of Research in Developmental Disabilities: State of the Art of Research on Down Syndrome.}
+      \field{volume}{56}
+      \field{year}{2019}
+    \endentry
+    \entry{LarsenFreeman1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=26c2661514d63f5fb4d07f8c3c968e18}{%
+           family={Larsen-Freeman},
+           familyi={L\bibinithyphendelim F\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{fullhash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{bibnamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authorbibnamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authornamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authorfullhash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Linguistics}
+      \field{title}{Chaos/Complexity Science and Second Language Acquisition.}
+      \field{volume}{18}
+      \field{year}{1997}
+      \field{pages}{141\bibrangedash 165}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1093/applin/18.2.141
+      \endverb
+    \endentry
+    \entry{LarsenFreeman2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=26c2661514d63f5fb4d07f8c3c968e18}{%
+           family={Larsen-Freeman},
+           familyi={L\bibinithyphendelim F\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{fullhash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{bibnamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authorbibnamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authornamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authorfullhash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language Teaching}
+      \field{title}{Complex, dynamic systems: A new transdisciplinary theme for applied linguistics? Plenary Speeches.}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1017/S0261444811000061
+      \endverb
+    \endentry
+    \entry{LarsenFreeman2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=26c2661514d63f5fb4d07f8c3c968e18}{%
+           family={Larsen-Freeman},
+           familyi={L\bibinithyphendelim F\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5b98f6a78b33f809f45f9bd8c48b9c08}{%
+           family={Atkinson},
+           familyi={A\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{fullhash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{bibnamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authorbibnamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authornamehash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{authorfullhash}{26c2661514d63f5fb4d07f8c3c968e18}
+      \strng{editorbibnamehash}{5b98f6a78b33f809f45f9bd8c48b9c08}
+      \strng{editornamehash}{5b98f6a78b33f809f45f9bd8c48b9c08}
+      \strng{editorfullhash}{5b98f6a78b33f809f45f9bd8c48b9c08}
+      \field{extraname}{3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Alternative approaches to second language acquisition.}
+      \field{title}{A complexity theory approach to second language development/acquisition.}
+      \field{year}{2012}
+      \field{pages}{48\bibrangedash 72}
+      \range{pages}{25}
+    \endentry
+    \entry{LarsenFreeman2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=26c2661514d63f5fb4d07f8c3c968e18}{%
+           family={Larsen-Freeman},
+           familyi={L\bibinithyphendelim F\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod}}}%
+        {{hash=453ae281c07277dd9a91ab7df27c2d29}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={Lynne},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad5fa0c1deebcef90703b37db827b5e5}
+      \strng{fullhash}{ad5fa0c1deebcef90703b37db827b5e5}
+      \strng{bibnamehash}{ad5fa0c1deebcef90703b37db827b5e5}
+      \strng{authorbibnamehash}{ad5fa0c1deebcef90703b37db827b5e5}
+      \strng{authornamehash}{ad5fa0c1deebcef90703b37db827b5e5}
+      \strng{authorfullhash}{ad5fa0c1deebcef90703b37db827b5e5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Modern Language Journal}
+      \field{number}{ii}
+      \field{title}{Research methodology on language development from a complex systems perspective.}
+      \field{volume}{92}
+      \field{year}{2008}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/j.1540-4781.2008.00714.x
+      \endverb
+    \endentry
+    \entry{Laws2004}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0a3908fb364742062e6fb9d586fc9cd3}{%
+           family={Laws},
+           familyi={L\bibinitperiod},
+           given={Glynis},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b522eda0ba6f658deaaaa81ed5d9d00a}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Dorothy\bibnamedelimb V.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{12596f60cc0cffdc075422b608ab2f6e}
+      \strng{fullhash}{12596f60cc0cffdc075422b608ab2f6e}
+      \strng{bibnamehash}{12596f60cc0cffdc075422b608ab2f6e}
+      \strng{authorbibnamehash}{12596f60cc0cffdc075422b608ab2f6e}
+      \strng{authornamehash}{12596f60cc0cffdc075422b608ab2f6e}
+      \strng{authorfullhash}{12596f60cc0cffdc075422b608ab2f6e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Language \& Communication Disorders.}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Verbal deficits in Down’s syndrome and specific language impairment: a comparison.}
+      \field{volume}{39}
+      \field{year}{2004}
+      \field{pages}{423\bibrangedash 451}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1080/13682820410001681207
+      \endverb
+    \endentry
+    \entry{Lorandi2019}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=aed5147fc181fd3cebdbb02185a3737f}{%
+           family={Lorandi},
+           familyi={L\bibinitperiod},
+           given={Aline},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=bd94ead8bfdd14ffe79adcf90110e4c1}{%
+           family={Mota},
+           familyi={M\bibinitperiod},
+           given={Mailce\bibnamedelima Borges},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=bf0920ae324b941d229dbda76c323ea7}{%
+           family={Name},
+           familyi={N\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tubarão}%
+      }
+      \list{publisher}{1}{%
+        {Copiart}%
+      }
+      \strng{namehash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{fullhash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{bibnamehash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{authorbibnamehash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{authornamehash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{authorfullhash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{editorbibnamehash}{5d5242242cfd60da5a5f9489d5b9ccef}
+      \strng{editornamehash}{5d5242242cfd60da5a5f9489d5b9ccef}
+      \strng{editorfullhash}{5d5242242cfd60da5a5f9489d5b9ccef}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Interface linguagem e cognição: contribuições da Psicolinguística.}
+      \field{title}{Consciência fonológica, leitura e escrita em indivíduos com síndrome de Down.}
+      \field{volume}{1}
+      \field{year}{2019}
+      \field{pages}{263\bibrangedash 288}
+      \range{pages}{26}
+    \endentry
+    \entry{Lorandi2021}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=aed5147fc181fd3cebdbb02185a3737f}{%
+           family={Lorandi},
+           familyi={L\bibinitperiod},
+           given={Aline},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=dc7742aff2ecb2c127282224e9f79655}{%
+           family={Rigatti-Scherer},
+           familyi={R\bibinithyphendelim S\bibinitperiod},
+           given={Ana\bibnamedelima Paula},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=b37edc8a91607aa6e932fb3f7df16eb6}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Clarice\bibnamedelima Lehnen},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Editora Appris}%
+      }
+      \strng{namehash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{fullhash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{bibnamehash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{authorbibnamehash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{authornamehash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{authorfullhash}{aed5147fc181fd3cebdbb02185a3737f}
+      \strng{editorbibnamehash}{d1422923ca3c611c2705ebc5882c377c}
+      \strng{editornamehash}{d1422923ca3c611c2705ebc5882c377c}
+      \strng{editorfullhash}{d1422923ca3c611c2705ebc5882c377c}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Consciência linguística na escola: experiências e vivências na sala de aula e formação de professores}
+      \field{title}{Consciência linguística e alfabetização.}
+      \field{year}{2021}
+      \field{pages}{41\bibrangedash 59}
+      \range{pages}{19}
+    \endentry
+    \entry{Mareschal2007a}{book}{}
+      \name{author}{6}{ul=2}{%
+        {{hash=a4e496ae2da51d8baa3cbe52723dd0eb}{%
+           family={Mareschal},
+           familyi={M\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5e04dbb2994823420ed1ae65ae8cb8ef}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Mark\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=337033d44fb8bcddae9236d0d5a5c1b8}{%
+           family={Sirois},
+           familyi={S\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bdd1fc79ffd07d27bdfac16117aa9c5c}{%
+           family={Spratling},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6fa30c65737cca3a742cc928cdc19178}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Michael\bibnamedelimb S.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a81954a150fdb56c60873622d27fb652}{%
+           family={Westermann},
+           familyi={W\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{544955e39af67abe3de8f221d947f3b5}
+      \strng{fullhash}{62416e586f6b5b32b2844873e0efe1f1}
+      \strng{bibnamehash}{62416e586f6b5b32b2844873e0efe1f1}
+      \strng{authorbibnamehash}{62416e586f6b5b32b2844873e0efe1f1}
+      \strng{authornamehash}{544955e39af67abe3de8f221d947f3b5}
+      \strng{authorfullhash}{62416e586f6b5b32b2844873e0efe1f1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neuroconstructivism, Vol. I: How the brain constructs cognition.}
+      \field{year}{2007}
+    \endentry
+    \entry{Mareschal2007b}{book}{}
+      \name{author}{4}{ul=2}{%
+        {{hash=a4e496ae2da51d8baa3cbe52723dd0eb}{%
+           family={Mareschal},
+           familyi={M\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=337033d44fb8bcddae9236d0d5a5c1b8}{%
+           family={Sirois},
+           familyi={S\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a81954a150fdb56c60873622d27fb652}{%
+           family={Westermann},
+           familyi={W\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5e04dbb2994823420ed1ae65ae8cb8ef}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Mark\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5c3c1a38563b4016acec7c3bc0985aa2}
+      \strng{fullhash}{dcaf2217c3e65bccec7dfc2c61765d2e}
+      \strng{bibnamehash}{dcaf2217c3e65bccec7dfc2c61765d2e}
+      \strng{authorbibnamehash}{dcaf2217c3e65bccec7dfc2c61765d2e}
+      \strng{authornamehash}{5c3c1a38563b4016acec7c3bc0985aa2}
+      \strng{authorfullhash}{dcaf2217c3e65bccec7dfc2c61765d2e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neuroconstructivism, Vol. 2: Perspectives and prospects.}
+      \field{year}{2007}
+    \endentry
+    \entry{Marques2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=c96b6f03ba76ea4816955a4dd223ab2e}{%
+           family={Marques},
+           familyi={M\bibinitperiod},
+           given={Débora\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {(Mestrado em Linguística Aplicada) - Universidade do Vale do Rio dos Sinos - UNISINOS}%
+      }
+      \strng{namehash}{c96b6f03ba76ea4816955a4dd223ab2e}
+      \strng{fullhash}{c96b6f03ba76ea4816955a4dd223ab2e}
+      \strng{bibnamehash}{c96b6f03ba76ea4816955a4dd223ab2e}
+      \strng{authorbibnamehash}{c96b6f03ba76ea4816955a4dd223ab2e}
+      \strng{authornamehash}{c96b6f03ba76ea4816955a4dd223ab2e}
+      \strng{authorfullhash}{c96b6f03ba76ea4816955a4dd223ab2e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O impacto da estimulação da consciência fonológica nas habilidades de leitura e escrita em indivíduos de desenvolvimento atípico - uma revisão crítica da literatura.}
+      \field{type}{mathesis}
+      \field{year}{2018}
+    \endentry
+    \entry{Murray1996}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cfc8e40df900345e7a0b2bec56fc3028}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=018647fa38a8d412365a41ae7dbfdf07}{%
+           family={Stahl},
+           familyi={S\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8999034aa359a76843e648add87a89df}{%
+           family={Ivey},
+           familyi={I\bibinitperiod},
+           given={Gay},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb9b625b4f051be72fab44b2045c0e13}
+      \strng{fullhash}{a3920167a9f209630e8dafd1203d8a8a}
+      \strng{bibnamehash}{a3920167a9f209630e8dafd1203d8a8a}
+      \strng{authorbibnamehash}{a3920167a9f209630e8dafd1203d8a8a}
+      \strng{authornamehash}{bb9b625b4f051be72fab44b2045c0e13}
+      \strng{authorfullhash}{a3920167a9f209630e8dafd1203d8a8a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reading and Writing}
+      \field{title}{Developing phoneme awareness through alphabet books.}
+      \field{volume}{8}
+      \field{year}{1996}
+      \field{pages}{307\bibrangedash 322}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/bf00395111
+      \endverb
+    \endentry
+    \entry{Saussure[1916]1969}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bb17d9f07970a67196f1264271701ad5}{%
+           family={Saussure},
+           familyi={S\bibinitperiod},
+           given={Ferdinand\bibnamedelima {de}},
+           giveni={F\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Cultrix}%
+      }
+      \strng{namehash}{bb17d9f07970a67196f1264271701ad5}
+      \strng{fullhash}{bb17d9f07970a67196f1264271701ad5}
+      \strng{bibnamehash}{bb17d9f07970a67196f1264271701ad5}
+      \strng{authorbibnamehash}{bb17d9f07970a67196f1264271701ad5}
+      \strng{authornamehash}{bb17d9f07970a67196f1264271701ad5}
+      \strng{authorfullhash}{bb17d9f07970a67196f1264271701ad5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Curso de linguística geral.}
+      \field{year}{[1916]1969}
+      \field{pages}{312}
+      \range{pages}{1}
+    \endentry
+    \entry{Schwartzman1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e23b08cc4a02a16f4cdbb609c1f28470}{%
+           family={Schwartzman},
+           familyi={S\bibinitperiod},
+           given={João\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Mackenzie: Memnon}%
+      }
+      \strng{namehash}{e23b08cc4a02a16f4cdbb609c1f28470}
+      \strng{fullhash}{e23b08cc4a02a16f4cdbb609c1f28470}
+      \strng{bibnamehash}{e23b08cc4a02a16f4cdbb609c1f28470}
+      \strng{authorbibnamehash}{e23b08cc4a02a16f4cdbb609c1f28470}
+      \strng{authornamehash}{e23b08cc4a02a16f4cdbb609c1f28470}
+      \strng{authorfullhash}{e23b08cc4a02a16f4cdbb609c1f28470}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Síndrome de Down}
+      \field{year}{1999}
+    \endentry
+    \entry{Soares2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0ca72bfaf7ad8aa21e8a2f05b6752e45}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Magda},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Editora Contexto}%
+      }
+      \strng{namehash}{0ca72bfaf7ad8aa21e8a2f05b6752e45}
+      \strng{fullhash}{0ca72bfaf7ad8aa21e8a2f05b6752e45}
+      \strng{bibnamehash}{0ca72bfaf7ad8aa21e8a2f05b6752e45}
+      \strng{authorbibnamehash}{0ca72bfaf7ad8aa21e8a2f05b6752e45}
+      \strng{authornamehash}{0ca72bfaf7ad8aa21e8a2f05b6752e45}
+      \strng{authorfullhash}{0ca72bfaf7ad8aa21e8a2f05b6752e45}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Alfabetização e letramento}
+      \field{year}{2017}
+    \endentry
+    \entry{Sommer2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=485b28d2bacf70274c9bc161877a9885}{%
+           family={Sommer},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8e34a335971edd82afe3dd8123f78780}{%
+           family={Henrique-Silva},
+           familyi={H\bibinithyphendelim S\bibinitperiod},
+           given={Flávio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c4e625a3659513aad71d71b15291d5c}
+      \strng{fullhash}{4c4e625a3659513aad71d71b15291d5c}
+      \strng{bibnamehash}{4c4e625a3659513aad71d71b15291d5c}
+      \strng{authorbibnamehash}{4c4e625a3659513aad71d71b15291d5c}
+      \strng{authornamehash}{4c4e625a3659513aad71d71b15291d5c}
+      \strng{authorfullhash}{4c4e625a3659513aad71d71b15291d5c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brazilian Journal of Biology.}
+      \field{number}{2}
+      \field{title}{Trisomy 21 and Down Syndrome: a short review.}
+      \field{volume}{68}
+      \field{year}{2008}
+      \field{pages}{447\bibrangedash 452}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1590/s1519-69842008000200031
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{RTENews2020}
+\endrefsection
+\endinput
+

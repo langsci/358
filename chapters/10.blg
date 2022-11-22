@@ -1,0 +1,20 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is '10.blg'
+[73] biber:340> INFO - === Fri May  6, 2022, 09:42:22
+[86] Biber.pm:415> INFO - Reading '10.bcf'
+[152] Biber.pm:952> INFO - Found 52 citekeys in bib section 0
+[163] Biber.pm:4340> INFO - Processing section 0
+[172] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography_.bib' for section 0
+[204] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1265] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography_.bib'
+[1275] Utils.pm:395> WARN - Possible typo (case mismatch) between datasource keys: 'McLeod2017' and 'Mcleod2017' in file '../localbibliography_.bib'
+[1541] Utils.pm:395> WARN - legacy year field 'no prelo' in entry 'Castronoprelo' is not an integer - this will probably not sort properly.
+[1602] Utils.pm:395> WARN - legacy year field 'em prep.' in entry 'Alvesemprep.' is not an integer - this will probably not sort properly.
+[1617] Utils.pm:395> WARN - I didn't find a database entry for 'Shaywitz2003' (section 0)
+[1689] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1689] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1689] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'pt-PT'
+[1689] Biber.pm:4174> INFO - No sort tailoring available for locale 'pt-PT'
+[1750] bbl.pm:654> INFO - Writing '10.bbl' with encoding 'UTF-8'
+[1781] bbl.pm:757> INFO - Output to 10.bbl
+[1781] Biber.pm:128> INFO - WARNINGS: 4

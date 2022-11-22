@@ -1,0 +1,19 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is '18.blg'
+[66] biber:340> INFO - === Mon May  9, 2022, 11:41:31
+[80] Biber.pm:415> INFO - Reading '18.bcf'
+[147] Biber.pm:952> INFO - Found 33 citekeys in bib section 0
+[158] Biber.pm:4340> INFO - Processing section 0
+[168] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography_.bib' for section 0
+[200] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1216] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography_.bib'
+[1227] Utils.pm:395> WARN - Possible typo (case mismatch) between datasource keys: 'McLeod2017' and 'Mcleod2017' in file '../localbibliography_.bib'
+[1368] Utils.pm:395> WARN - legacy year field '[1916]1969' in entry 'Saussure[1916]1969' is not an integer - this will probably not sort properly.
+[1442] Utils.pm:395> WARN - I didn't find a database entry for 'RTENews2020' (section 0)
+[1486] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1486] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1487] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'pt-PT'
+[1487] Biber.pm:4174> INFO - No sort tailoring available for locale 'pt-PT'
+[1515] bbl.pm:654> INFO - Writing '18.bbl' with encoding 'UTF-8'
+[1532] bbl.pm:757> INFO - Output to 18.bbl
+[1532] Biber.pm:128> INFO - WARNINGS: 3

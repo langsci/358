@@ -1,0 +1,3881 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Abrantes2019}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=90a0765de86a458dd96af27308f76388}{%
+           family={Abrantes},
+           familyi={A\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de Aveiro}%
+      }
+      \strng{namehash}{90a0765de86a458dd96af27308f76388}
+      \strng{fullhash}{90a0765de86a458dd96af27308f76388}
+      \strng{bibnamehash}{90a0765de86a458dd96af27308f76388}
+      \strng{authorbibnamehash}{90a0765de86a458dd96af27308f76388}
+      \strng{authornamehash}{90a0765de86a458dd96af27308f76388}
+      \strng{authorfullhash}{90a0765de86a458dd96af27308f76388}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Desenvolvimento e Validação de um Programa de Intervenção em Competências de Processamento Auditivo.}
+      \field{type}{mathesis}
+      \field{year}{2019}
+    \endentry
+    \entry{Alexandre2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=974e57c8ac5a08a5a09ad50e6fdc0b91}{%
+           family={Alexandre},
+           familyi={A\bibinitperiod},
+           given={Neusa\bibnamedelimb Maria\bibnamedelima Costa},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=cce7428c464a973a9d4a8cc8c047af39}{%
+           family={Coluci},
+           familyi={C\bibinitperiod},
+           given={Marina\bibnamedelimb Zambon\bibnamedelima Orpinelli},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dfe81fcb5317507f727c93ab41c6d62}
+      \strng{fullhash}{6dfe81fcb5317507f727c93ab41c6d62}
+      \strng{bibnamehash}{6dfe81fcb5317507f727c93ab41c6d62}
+      \strng{authorbibnamehash}{6dfe81fcb5317507f727c93ab41c6d62}
+      \strng{authornamehash}{6dfe81fcb5317507f727c93ab41c6d62}
+      \strng{authorfullhash}{6dfe81fcb5317507f727c93ab41c6d62}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ciência \& Saúde Coletiva}
+      \field{number}{7}
+      \field{title}{Validade de conteúdo nos processos de construção e adaptação de instrumentos de medidas}
+      \field{volume}{16}
+      \field{year}{2011}
+      \field{pages}{3061\bibrangedash 3068}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1590/s1413-81232011000800006
+      \endverb
+    \endentry
+    \entry{AAA2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=226405fc1232cb51024cf2231a127bde}{%
+           family={{American Academy of Audiology}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Academy of Audiology}%
+      }
+      \strng{namehash}{226405fc1232cb51024cf2231a127bde}
+      \strng{fullhash}{226405fc1232cb51024cf2231a127bde}
+      \strng{bibnamehash}{226405fc1232cb51024cf2231a127bde}
+      \strng{authorbibnamehash}{226405fc1232cb51024cf2231a127bde}
+      \strng{authornamehash}{226405fc1232cb51024cf2231a127bde}
+      \strng{authorfullhash}{226405fc1232cb51024cf2231a127bde}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{American Academy of Audiology Clinical Practice Guidelines: Diagnosis, Treatment and management of Children and Adults with Central Auditory Processing Disorder.}
+      \field{year}{2010}
+    \endentry
+    \entry{ASHA1996}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eceb5e5aefcb8d3a81da9a8a5237b162}{%
+           family={{American Speech-Language-Hearing Association}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{fullhash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{bibnamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authorbibnamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authornamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authorfullhash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Audiology}
+      \field{title}{Central Auditory Processing: Current Status of Research and Implications for Clinical Practice.}
+      \field{volume}{5}
+      \field{year}{1996}
+      \verb{doi}
+      \verb 10.1044/1059-0889.0502.41
+      \endverb
+    \endentry
+    \entry{ASHA2005a}{report}{}
+      \name{author}{1}{}{%
+        {{hash=eceb5e5aefcb8d3a81da9a8a5237b162}{%
+           family={{American Speech-Language-Hearing Association}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {American Speech-Language-Hearing Association}%
+      }
+      \strng{namehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{fullhash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{bibnamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authorbibnamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authornamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authorfullhash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{(Central) Auditory Processing Disorders}
+      \field{type}{techreport}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1044/policy.tr2005-00043
+      \endverb
+    \endentry
+    \entry{ASHA2005}{report}{}
+      \name{author}{1}{}{%
+        {{hash=eceb5e5aefcb8d3a81da9a8a5237b162}{%
+           family={{American Speech-Language-Hearing Association}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{fullhash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{bibnamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authorbibnamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authornamehash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \strng{authorfullhash}{eceb5e5aefcb8d3a81da9a8a5237b162}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{(Central) Auditory Processing Disorders [Technical Report].}
+      \field{type}{techreport}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb www.asha.org/policy
+      \endverb
+      \verb{url}
+      \verb www.asha.org/policy
+      \endverb
+    \endentry
+    \entry{Anderson1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7a682ea8476511978f4ae6c36522700e}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e4967cbc085c34ab6776b581c8f1d7bf}{%
+           family={Smaldino},
+           familyi={S\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff1608dc8fa6a57f500614b39dd076a7}
+      \strng{fullhash}{ff1608dc8fa6a57f500614b39dd076a7}
+      \strng{bibnamehash}{ff1608dc8fa6a57f500614b39dd076a7}
+      \strng{authorbibnamehash}{ff1608dc8fa6a57f500614b39dd076a7}
+      \strng{authornamehash}{ff1608dc8fa6a57f500614b39dd076a7}
+      \strng{authorfullhash}{ff1608dc8fa6a57f500614b39dd076a7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Hearing Journal}
+      \field{number}{10}
+      \field{title}{Listening Inventories for Education}
+      \field{volume}{52}
+      \field{year}{1999}
+      \field{pages}{74}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1097/00025572-199910000-00009
+      \endverb
+    \endentry
+    \entry{Aquino2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=55190cce36722ec5d9f1b24d8baf8d04}{%
+           family={Aquino},
+           familyi={A\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Editora Lovise}%
+      }
+      \strng{namehash}{55190cce36722ec5d9f1b24d8baf8d04}
+      \strng{fullhash}{55190cce36722ec5d9f1b24d8baf8d04}
+      \strng{bibnamehash}{55190cce36722ec5d9f1b24d8baf8d04}
+      \strng{authorbibnamehash}{55190cce36722ec5d9f1b24d8baf8d04}
+      \strng{authornamehash}{55190cce36722ec5d9f1b24d8baf8d04}
+      \strng{authorfullhash}{55190cce36722ec5d9f1b24d8baf8d04}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Processamento Auditivo - Electrofisiologia e psicoacústica.}
+      \field{year}{2002}
+    \endentry
+    \entry{Aquino2002a}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=9c16f5c9b0cb4b3d50217d5490d8fc24}{%
+           family={Aquino},
+           familyi={A\bibinitperiod},
+           given={A\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9d236e977f5c211d6e5e75336b54a0b5}{%
+           family={Araújo},
+           familyi={A\bibinitperiod},
+           given={M\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Lovise}%
+      }
+      \strng{namehash}{63ce6a59fd3acdb65189a243b733d31b}
+      \strng{fullhash}{63ce6a59fd3acdb65189a243b733d31b}
+      \strng{bibnamehash}{63ce6a59fd3acdb65189a243b733d31b}
+      \strng{authorbibnamehash}{63ce6a59fd3acdb65189a243b733d31b}
+      \strng{authornamehash}{63ce6a59fd3acdb65189a243b733d31b}
+      \strng{authorfullhash}{63ce6a59fd3acdb65189a243b733d31b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Processamento Auditivo-Electrofisiologia e Psicoacústica.}
+      \field{title}{Vias Auditivas: Periférica e Central.}
+      \field{year}{2002}
+      \field{pages}{17\bibrangedash 31}
+      \range{pages}{15}
+    \endentry
+    \entry{Bamiou2001}{article}{}
+      \name{author}{3}{}{%
+        {{hash=90c5cd3830e9b9cf36a914cb2a0d07a7}{%
+           family={Bamiou},
+           familyi={B\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3a36cf98d7b6188f42e669e5be3bced}{%
+           family={Luxon},
+           familyi={L\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{64c109dd2c51e20265e4a87ca3f03992}
+      \strng{fullhash}{93b4c1f2ab05086dd90ec6caece935a7}
+      \strng{bibnamehash}{93b4c1f2ab05086dd90ec6caece935a7}
+      \strng{authorbibnamehash}{93b4c1f2ab05086dd90ec6caece935a7}
+      \strng{authornamehash}{64c109dd2c51e20265e4a87ca3f03992}
+      \strng{authorfullhash}{93b4c1f2ab05086dd90ec6caece935a7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives of Disease in Childhood}
+      \field{number}{5}
+      \field{title}{Aetiology and clinical presentations of auditory processing disorders: a review.}
+      \field{volume}{85}
+      \field{year}{2001}
+      \field{pages}{361\bibrangedash 365}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1136/adc.85.5.361
+      \endverb
+    \endentry
+    \entry{Barry2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fd3c7abc2482e57868a637b9cfb6db64}{%
+           family={Barry},
+           familyi={B\bibinitperiod},
+           given={Johanna\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=8b4b4b1b4c10e688b2ede242680f5c73}{%
+           family={Tomlin},
+           familyi={T\bibinitperiod},
+           given={Danielle},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fde060dbbae04bcf9a34a857c2e89ac2}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=452177648f06a312318f61fe78a30a91}{%
+           family={Dillon},
+           familyi={D\bibinitperiod},
+           given={Harvey},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b45302641c4278a262da2fffc63225e}
+      \strng{fullhash}{33ca20e195a60e1cd29523b1b80bc5f1}
+      \strng{bibnamehash}{33ca20e195a60e1cd29523b1b80bc5f1}
+      \strng{authorbibnamehash}{33ca20e195a60e1cd29523b1b80bc5f1}
+      \strng{authornamehash}{8b45302641c4278a262da2fffc63225e}
+      \strng{authorfullhash}{33ca20e195a60e1cd29523b1b80bc5f1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ear \& Hearing}
+      \field{number}{6}
+      \field{title}{Use of Questionnaire-Based Measures in the Assessment of Listening Difficulties in School-Aged Children}
+      \field{volume}{36}
+      \field{year}{2015}
+      \field{pages}{e300\bibrangedash e313}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1097/aud.0000000000000180
+      \endverb
+    \endentry
+    \entry{Bellis2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8868c51b42eaf8d88b6ffbbe37c870d4}{%
+           family={Bellis},
+           familyi={B\bibinitperiod},
+           given={T\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Clifton Park, NY}%
+      }
+      \list{publisher}{1}{%
+        {Thomson-Delmar Learning}%
+      }
+      \strng{namehash}{8868c51b42eaf8d88b6ffbbe37c870d4}
+      \strng{fullhash}{8868c51b42eaf8d88b6ffbbe37c870d4}
+      \strng{bibnamehash}{8868c51b42eaf8d88b6ffbbe37c870d4}
+      \strng{authorbibnamehash}{8868c51b42eaf8d88b6ffbbe37c870d4}
+      \strng{authornamehash}{8868c51b42eaf8d88b6ffbbe37c870d4}
+      \strng{authorfullhash}{8868c51b42eaf8d88b6ffbbe37c870d4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2ª}
+      \field{title}{Assessment and Managment of Central Auditory Processing Disorders in the Education Setting: From Science to Practice.}
+      \field{year}{2003}
+    \endentry
+    \entry{Bellis2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8868c51b42eaf8d88b6ffbbe37c870d4}{%
+           family={Bellis},
+           familyi={B\bibinitperiod},
+           given={T\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=41c0bc2e3637c03dac311a5455279cdf}{%
+           family={Chermak},
+           familyi={C\bibinitperiod},
+           given={G\bibnamedelima D},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=62a1ec5ba70b6d56a7f759cc8afbf08b}{%
+           family={Weihing},
+           familyi={W\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=86ce53da78a3a0f3a7dafd958d006c61}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F\bibnamedelima E},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e80196d8e0cf9fa5a7ce22a329a74525}
+      \strng{fullhash}{91be30b5613165b89ae96ad55dec8ed6}
+      \strng{bibnamehash}{91be30b5613165b89ae96ad55dec8ed6}
+      \strng{authorbibnamehash}{91be30b5613165b89ae96ad55dec8ed6}
+      \strng{authornamehash}{e80196d8e0cf9fa5a7ce22a329a74525}
+      \strng{authorfullhash}{91be30b5613165b89ae96ad55dec8ed6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language, Speech, and Hearing Services in Schools}
+      \field{number}{3}
+      \field{title}{Efficacy of auditory interventions for central auditory processing disorder: a response to Fey et al.}
+      \field{volume}{43}
+      \field{year}{2012}
+      \field{pages}{381\bibrangedash 386}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1044/0161-1461(2012/11-0085)
+      \endverb
+    \endentry
+    \entry{Bellis1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8868c51b42eaf8d88b6ffbbe37c870d4}{%
+           family={Bellis},
+           familyi={B\bibinitperiod},
+           given={T\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5acd3fe7ddd904f866a9fbdb68bd0945}{%
+           family={Ferre},
+           familyi={F\bibinitperiod},
+           given={J\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a75e80af0d53cb514d82ab148e56049d}
+      \strng{fullhash}{a75e80af0d53cb514d82ab148e56049d}
+      \strng{bibnamehash}{a75e80af0d53cb514d82ab148e56049d}
+      \strng{authorbibnamehash}{a75e80af0d53cb514d82ab148e56049d}
+      \strng{authornamehash}{a75e80af0d53cb514d82ab148e56049d}
+      \strng{authorfullhash}{a75e80af0d53cb514d82ab148e56049d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Academy of Audiology}
+      \field{title}{Multidimensional approach to the differential diagnosis of central auditory processing disorders in children.}
+      \field{volume}{10}
+      \field{year}{1999}
+      \field{pages}{319\bibrangedash 328}
+      \range{pages}{10}
+    \endentry
+    \entry{Bellis2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=64f8ce9aa37155fc696779cbabff3c2a}{%
+           family={Bellis},
+           familyi={B\bibinitperiod},
+           given={Teri\bibnamedelima James},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=cdb6433160cb379271f52c86c61de986}{%
+           family={Anzalone},
+           familyi={A\bibinitperiod},
+           given={Ashley\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{dced9f986b67cba73f448e2697420f33}
+      \strng{fullhash}{dced9f986b67cba73f448e2697420f33}
+      \strng{bibnamehash}{dced9f986b67cba73f448e2697420f33}
+      \strng{authorbibnamehash}{dced9f986b67cba73f448e2697420f33}
+      \strng{authornamehash}{dced9f986b67cba73f448e2697420f33}
+      \strng{authorfullhash}{dced9f986b67cba73f448e2697420f33}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Contemporary Issues in Communication Science and Disorders}
+      \field{month}{10}
+      \field{title}{Intervention Approaches for Individuals With (Central) Auditory Processing Disorder}
+      \field{volume}{35}
+      \field{year}{2008}
+      \field{pages}{143\bibrangedash 153}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1044/cicsd_35_f_143
+      \endverb
+    \endentry
+    \entry{Bellis2015}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=64f8ce9aa37155fc696779cbabff3c2a}{%
+           family={Bellis},
+           familyi={B\bibinitperiod},
+           given={Teri\bibnamedelima James},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=71f5b1d7c73f74405472fa00272f99b9}{%
+           family={Bellis},
+           familyi={B\bibinitperiod},
+           given={Jennifer\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{43a40f2c99e42935239f8d04b8571899}
+      \strng{fullhash}{43a40f2c99e42935239f8d04b8571899}
+      \strng{bibnamehash}{43a40f2c99e42935239f8d04b8571899}
+      \strng{authorbibnamehash}{43a40f2c99e42935239f8d04b8571899}
+      \strng{authornamehash}{43a40f2c99e42935239f8d04b8571899}
+      \strng{authorfullhash}{43a40f2c99e42935239f8d04b8571899}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Clinical Neurology}
+      \field{edition}{3rd}
+      \field{title}{Central auditory processing disorders in children and adults}
+      \field{year}{2015}
+      \field{pages}{537\bibrangedash 556}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/b978-0-444-62630-1.00030-5
+      \endverb
+    \endentry
+    \entry{Bluestone2004}{book}{}
+      \name{author}{2}{}{%
+        {{hash=31dbf602a3469a80af75315d26de35a0}{%
+           family={Bluestone},
+           familyi={B\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=650e1b6aabbb468fa24c5df75c76371e}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {Saunders}%
+      }
+      \strng{namehash}{688724f7ef617c3c5c669efb3d9c3af2}
+      \strng{fullhash}{688724f7ef617c3c5c669efb3d9c3af2}
+      \strng{bibnamehash}{688724f7ef617c3c5c669efb3d9c3af2}
+      \strng{authorbibnamehash}{688724f7ef617c3c5c669efb3d9c3af2}
+      \strng{authornamehash}{688724f7ef617c3c5c669efb3d9c3af2}
+      \strng{authorfullhash}{688724f7ef617c3c5c669efb3d9c3af2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Otitis media in infants and children}
+      \field{year}{2004}
+    \endentry
+    \entry{Bocca1954}{article}{}
+      \name{author}{3}{}{%
+        {{hash=416c32ed5d1099a7b9ed7cdf400fa78e}{%
+           family={Bocca},
+           familyi={B\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f0586392064690fabcb57369ad6fc24f}{%
+           family={Calearo},
+           familyi={C\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cc33b8dfa0d569cab302db7e84c5c41b}{%
+           family={Cassinari},
+           familyi={C\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{150c2daf971af23b27c706c8c2186450}
+      \strng{fullhash}{5d807766ad14d27b90a1a7951305d15d}
+      \strng{bibnamehash}{5d807766ad14d27b90a1a7951305d15d}
+      \strng{authorbibnamehash}{5d807766ad14d27b90a1a7951305d15d}
+      \strng{authornamehash}{150c2daf971af23b27c706c8c2186450}
+      \strng{authorfullhash}{5d807766ad14d27b90a1a7951305d15d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Otolaryngologica}
+      \field{number}{3}
+      \field{title}{A New Method for Testing Hearing in Temporal Lobe Tumors.}
+      \field{volume}{44}
+      \field{year}{1954}
+      \field{pages}{219\bibrangedash 221}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.3109/00016485409128700
+      \endverb
+    \endentry
+    \entry{Bonaldi2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a25ef4284af18b62cda7894fa1a2d273}{%
+           family={Bonaldi},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Livraria Santos Editora}%
+      }
+      \strng{namehash}{a25ef4284af18b62cda7894fa1a2d273}
+      \strng{fullhash}{a25ef4284af18b62cda7894fa1a2d273}
+      \strng{bibnamehash}{a25ef4284af18b62cda7894fa1a2d273}
+      \strng{authorbibnamehash}{a25ef4284af18b62cda7894fa1a2d273}
+      \strng{authornamehash}{a25ef4284af18b62cda7894fa1a2d273}
+      \strng{authorfullhash}{a25ef4284af18b62cda7894fa1a2d273}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bases Anatónicas da Audição e do Equilíbrio}
+      \field{year}{2004}
+    \endentry
+    \entry{BSA2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3c4107dba05635d12c5b7c340017b138}{%
+           family={BSA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{fullhash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{bibnamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authorbibnamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authornamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authorfullhash}{3c4107dba05635d12c5b7c340017b138}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{British Society of Audiology Steering Group.}
+      \field{title}{Auditory Processing Disorders. s.l.}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb www.thebsa.org.uk/apd/BSA_APD_Position_statemant_Final_Draft_Feb_2007.pdf
+      \endverb
+      \verb{url}
+      \verb www.thebsa.org.uk/apd/BSA_APD_Position_statemant_Final_Draft_Feb_2007.pdf
+      \endverb
+    \endentry
+    \entry{BSA2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3c4107dba05635d12c5b7c340017b138}{%
+           family={BSA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {British Society of Audiology}%
+      }
+      \strng{namehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{fullhash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{bibnamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authorbibnamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authornamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authorfullhash}{3c4107dba05635d12c5b7c340017b138}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Practice Guidance An overview of current management of auditory processing disorder (APD).}
+      \field{year}{2011}
+    \endentry
+    \entry{BSA2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3c4107dba05635d12c5b7c340017b138}{%
+           family={BSA},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {British Society of Audiology}%
+      }
+      \strng{namehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{fullhash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{bibnamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authorbibnamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authornamehash}{3c4107dba05635d12c5b7c340017b138}
+      \strng{authorfullhash}{3c4107dba05635d12c5b7c340017b138}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Position Statement and Practice Guidance Auditory Processing Disorder (APD).}
+      \field{year}{2018}
+    \endentry
+    \entry{Chermak1997}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0b95d659b29c07f111064d96922df40a}{%
+           family={Chermak},
+           familyi={C\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego/London}%
+      }
+      \list{publisher}{1}{%
+        {Singular Publishing Group, inc.}%
+      }
+      \strng{namehash}{6ca3a72832723631e90e0a37ce61c1a3}
+      \strng{fullhash}{6ca3a72832723631e90e0a37ce61c1a3}
+      \strng{bibnamehash}{6ca3a72832723631e90e0a37ce61c1a3}
+      \strng{authorbibnamehash}{6ca3a72832723631e90e0a37ce61c1a3}
+      \strng{authornamehash}{6ca3a72832723631e90e0a37ce61c1a3}
+      \strng{authorfullhash}{6ca3a72832723631e90e0a37ce61c1a3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Central Auditory Processing Disorders: New perspectives.}
+      \field{year}{1997}
+    \endentry
+    \entry{Chermak2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ba32baa17f24de81020474c8cc64b71a}{%
+           family={Chermak},
+           familyi={C\bibinitperiod},
+           given={Gail\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=09187b1fd0021ae4e05172d40f924d59}{%
+           family={Bamiou},
+           familyi={B\bibinitperiod},
+           given={Doris-Eva},
+           giveni={D\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=eb5f959ad67048c7d440a7e9f46a87b4}{%
+           family={Iliadou},
+           familyi={I\bibinitperiod},
+           given={Vasiliki\bibnamedelima (Vivian)},
+           giveni={V\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+        {{hash=ba3d19bb7933e83140513f576e36c146}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={Frank\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{63ed4296366571042fa3eb0f84cd1109}
+      \strng{fullhash}{726553b6111241bc3c3656c5d366ef66}
+      \strng{bibnamehash}{726553b6111241bc3c3656c5d366ef66}
+      \strng{authorbibnamehash}{726553b6111241bc3c3656c5d366ef66}
+      \strng{authornamehash}{63ed4296366571042fa3eb0f84cd1109}
+      \strng{authorfullhash}{726553b6111241bc3c3656c5d366ef66}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Audiology}
+      \field{number}{7}
+      \field{title}{Practical guidelines to minimise language and cognitive confounds in the diagnosis of {CAPD}: a brief tutorial}
+      \field{volume}{56}
+      \field{year}{2017}
+      \field{pages}{499\bibrangedash 506}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1080/14992027.2017.1284351
+      \endverb
+    \endentry
+    \entry{CISG2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=254eb0cf3686545010e67333eb0ce69d}{%
+           family={CISG},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {The Canadian Interorganizational Steering Group for Speech-Language Pathology}%
+        {Audiology}%
+      }
+      \strng{namehash}{254eb0cf3686545010e67333eb0ce69d}
+      \strng{fullhash}{254eb0cf3686545010e67333eb0ce69d}
+      \strng{bibnamehash}{254eb0cf3686545010e67333eb0ce69d}
+      \strng{authorbibnamehash}{254eb0cf3686545010e67333eb0ce69d}
+      \strng{authornamehash}{254eb0cf3686545010e67333eb0ce69d}
+      \strng{authorfullhash}{254eb0cf3686545010e67333eb0ce69d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Canadian Guidelines on Auditory Processing Disorder in Children and Adults: Assessment and Intervention.}
+      \field{year}{2012}
+    \endentry
+    \entry{Coutinho2014a}{book}{}
+      \name{author}{1}{}{%
+        {{hash=433b7f7b37810b49c7a1e0f2ef2ee6a3}{%
+           family={Coutinho},
+           familyi={C\bibinitperiod},
+           given={C\bibnamedelima P},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Coimbra}%
+      }
+      \list{publisher}{1}{%
+        {Almedina}%
+      }
+      \strng{namehash}{433b7f7b37810b49c7a1e0f2ef2ee6a3}
+      \strng{fullhash}{433b7f7b37810b49c7a1e0f2ef2ee6a3}
+      \strng{bibnamehash}{433b7f7b37810b49c7a1e0f2ef2ee6a3}
+      \strng{authorbibnamehash}{433b7f7b37810b49c7a1e0f2ef2ee6a3}
+      \strng{authornamehash}{433b7f7b37810b49c7a1e0f2ef2ee6a3}
+      \strng{authorfullhash}{433b7f7b37810b49c7a1e0f2ef2ee6a3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2ª}
+      \field{title}{Metodologia de investigação em ciências sociais e humanas: teoria e prática.}
+      \field{year}{2014}
+    \endentry
+    \entry{Ferre2015b}{article}{}
+      \name{author}{1}{}{%
+        {{hash=12c40843a51394bd51ad724259eac8c5}{%
+           family={Ferre},
+           familyi={F\bibinitperiod},
+           given={Jeanane\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{12c40843a51394bd51ad724259eac8c5}
+      \strng{fullhash}{12c40843a51394bd51ad724259eac8c5}
+      \strng{bibnamehash}{12c40843a51394bd51ad724259eac8c5}
+      \strng{authorbibnamehash}{12c40843a51394bd51ad724259eac8c5}
+      \strng{authornamehash}{12c40843a51394bd51ad724259eac8c5}
+      \strng{authorfullhash}{12c40843a51394bd51ad724259eac8c5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Perspectives on Hearing and Hearing Disorders Research and Diagnostics}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{Auditory Dysfunction Beyond the 8th Nerve: Understanding Central Auditory Processing Disorders}
+      \field{volume}{19}
+      \field{year}{2015}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1044/hhd19.1.4
+      \endverb
+    \endentry
+    \entry{Frota2017}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bf0920ae324b941d229dbda76c323ea7}{%
+           family={Name},
+           familyi={N\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0bffc5fa3875137f137c44fdbd3c1d39}{%
+           family={Freitas},
+           familyi={F\bibinitperiod},
+           given={Maria\bibnamedelima João},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a28a56109802b2177412b459570f336e}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Ana\bibnamedelima Lúcia},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{89916512fd17b27d379fed39c1956b08}
+      \strng{fullhash}{89916512fd17b27d379fed39c1956b08}
+      \strng{bibnamehash}{89916512fd17b27d379fed39c1956b08}
+      \strng{authorbibnamehash}{89916512fd17b27d379fed39c1956b08}
+      \strng{authornamehash}{89916512fd17b27d379fed39c1956b08}
+      \strng{authorfullhash}{89916512fd17b27d379fed39c1956b08}
+      \strng{editorbibnamehash}{c9f39285fda066a2e7ebf1b17860a083}
+      \strng{editornamehash}{c9f39285fda066a2e7ebf1b17860a083}
+      \strng{editorfullhash}{c9f39285fda066a2e7ebf1b17860a083}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Aquisição de língua materna e não materna: Questões gerais e dados do português}
+      \field{title}{Questões de perceção em língua materna. (Textbooks in Language Sciences 3)}
+      \field{year}{2017}
+      \field{pages}{35\bibrangedash 50}
+      \range{pages}{16}
+    \endentry
+    \entry{Gelfand2001}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3bef7f93c40f12b52088e69695e4703c}{%
+           family={Gelfand},
+           familyi={G\bibinitperiod},
+           given={S\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Thieme}%
+      }
+      \strng{namehash}{3bef7f93c40f12b52088e69695e4703c}
+      \strng{fullhash}{3bef7f93c40f12b52088e69695e4703c}
+      \strng{bibnamehash}{3bef7f93c40f12b52088e69695e4703c}
+      \strng{authorbibnamehash}{3bef7f93c40f12b52088e69695e4703c}
+      \strng{authornamehash}{3bef7f93c40f12b52088e69695e4703c}
+      \strng{authorfullhash}{3bef7f93c40f12b52088e69695e4703c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Essentials of Audiology.}
+      \field{edition}{2ª}
+      \field{title}{Behavioral Tests for Diagnostic Assessment.}
+      \field{year}{2001}
+      \field{pages}{319\bibrangedash 347}
+      \range{pages}{29}
+    \endentry
+    \entry{Goncalves2014}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=bfadffefa787a7095f7b44a18afb4392}{%
+           family={Gonçalves},
+           familyi={G\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Fernando Pessoa.}%
+      }
+      \strng{namehash}{bfadffefa787a7095f7b44a18afb4392}
+      \strng{fullhash}{bfadffefa787a7095f7b44a18afb4392}
+      \strng{bibnamehash}{bfadffefa787a7095f7b44a18afb4392}
+      \strng{authorbibnamehash}{bfadffefa787a7095f7b44a18afb4392}
+      \strng{authornamehash}{bfadffefa787a7095f7b44a18afb4392}
+      \strng{authorfullhash}{bfadffefa787a7095f7b44a18afb4392}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Práticas centradas na família: relação Técnico - Família}
+      \field{type}{mathesis}
+      \field{year}{2014}
+    \endentry
+    \entry{Grant1997}{article}{}
+      \name{author}{2}{}{%
+        {{hash=41047efd0dbe1f2fef31900b1d8656ff}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Joan\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=11a0c6ebd07c006c4c6737295b545a13}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Linda\bibnamedelima L.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{b2cd862f81f9fe3c867356e1f0f924ba}
+      \strng{fullhash}{b2cd862f81f9fe3c867356e1f0f924ba}
+      \strng{bibnamehash}{b2cd862f81f9fe3c867356e1f0f924ba}
+      \strng{authorbibnamehash}{b2cd862f81f9fe3c867356e1f0f924ba}
+      \strng{authornamehash}{b2cd862f81f9fe3c867356e1f0f924ba}
+      \strng{authorfullhash}{b2cd862f81f9fe3c867356e1f0f924ba}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research in Nursing \& Health}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Selection and use of content experts for instrument development}
+      \field{volume}{20}
+      \field{year}{1997}
+      \field{pages}{269\bibrangedash 274}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1002/(sici)1098-240x(199706)20:3<269::aid-nur9>3.0.co;2-g
+      \endverb
+    \endentry
+    \entry{Guerreiro2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2adf150b4319a711c5b04add591b3b29}{%
+           family={Guerreiro},
+           familyi={G\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lisboa}%
+      }
+      \list{publisher}{1}{%
+        {Instituto de Ciências da Saúde da Universidade Católica Portuguesa}%
+      }
+      \strng{namehash}{2adf150b4319a711c5b04add591b3b29}
+      \strng{fullhash}{2adf150b4319a711c5b04add591b3b29}
+      \strng{bibnamehash}{2adf150b4319a711c5b04add591b3b29}
+      \strng{authorbibnamehash}{2adf150b4319a711c5b04add591b3b29}
+      \strng{authornamehash}{2adf150b4319a711c5b04add591b3b29}
+      \strng{authorfullhash}{2adf150b4319a711c5b04add591b3b29}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Processos fonológicos na fala da criança de 5 anos.}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb http://labfon.letras.ulisboa.pt/JovensInvestigadores/Huguette_Tese.pdf
+      \endverb
+      \verb{url}
+      \verb http://labfon.letras.ulisboa.pt/JovensInvestigadores/Huguette_Tese.pdf
+      \endverb
+    \endentry
+    \entry{Gulick1989}{book}{}
+      \name{author}{3}{}{%
+        {{hash=c63acf6171e2bbf715bda11d11e811d8}{%
+           family={Gulick},
+           familyi={G\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d99bfae483843eb00f79628f5a429b17}{%
+           family={Gescheider},
+           familyi={G\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=18e1c3e18f6a30db81ec095b73958c08}{%
+           family={Frisina},
+           familyi={F\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5c2c3bc23cf5196311ee3488fc5923ff}
+      \strng{fullhash}{070641b15f8ae2c3247b3240391de0cf}
+      \strng{bibnamehash}{070641b15f8ae2c3247b3240391de0cf}
+      \strng{authorbibnamehash}{070641b15f8ae2c3247b3240391de0cf}
+      \strng{authornamehash}{5c2c3bc23cf5196311ee3488fc5923ff}
+      \strng{authorfullhash}{070641b15f8ae2c3247b3240391de0cf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hearing: Physiological Acoustics, Neural Coding and Psychoacoustics.}
+      \field{year}{1989}
+    \endentry
+    \entry{Houston2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7b9e1064c1367dcad623858b5fc0a182}{%
+           family={Houston},
+           familyi={H\bibinitperiod},
+           given={L\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cincinnati}%
+      }
+      \list{publisher}{1}{%
+        {University of Cincinnaty}%
+      }
+      \strng{namehash}{7b9e1064c1367dcad623858b5fc0a182}
+      \strng{fullhash}{7b9e1064c1367dcad623858b5fc0a182}
+      \strng{bibnamehash}{7b9e1064c1367dcad623858b5fc0a182}
+      \strng{authorbibnamehash}{7b9e1064c1367dcad623858b5fc0a182}
+      \strng{authornamehash}{7b9e1064c1367dcad623858b5fc0a182}
+      \strng{authorfullhash}{7b9e1064c1367dcad623858b5fc0a182}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Standardization Study of the Time Compressed Sentence Test.}
+      \field{year}{2002}
+    \endentry
+    \entry{Iliadou2017}{article}{}
+      \name{author}{23}{}{%
+        {{hash=eb5f959ad67048c7d440a7e9f46a87b4}{%
+           family={Iliadou},
+           familyi={I\bibinitperiod},
+           given={Vasiliki\bibnamedelima (Vivian)},
+           giveni={V\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+        {{hash=04b3f3f32ae6fdd990216f31af67aa27}{%
+           family={Ptok},
+           familyi={P\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2e9714c9ccccfb0c72603d011c8f9925}{%
+           family={Grech},
+           familyi={G\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=579a9ad80b460c06a0d7fda7de331de9}{%
+           family={Pedersen},
+           familyi={P\bibinitperiod},
+           given={Ellen\bibnamedelima Raben},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8436428c244110f6add7dc0014578727}{%
+           family={Brechmann},
+           familyi={B\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=493e5c019afec85835ad52aff5de8df7}{%
+           family={Deggouj},
+           familyi={D\bibinitperiod},
+           given={Naïma},
+           giveni={N\bibinitperiod}}}%
+        {{hash=55da23bcc73ae719fc91c7877a3f7f94}{%
+           family={Kiese-Himmel},
+           familyi={K\bibinithyphendelim H\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1c0887dfe8879c2cda7882a8de073e3d}{%
+           family={Śliwińska-Kowalska},
+           familyi={Ś\bibinithyphendelim K\bibinitperiod},
+           given={Mariola},
+           giveni={M\bibinitperiod}}}%
+        {{hash=954464b696eee2b846e817409b1e0724}{%
+           family={Nickisch},
+           familyi={N\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f30a22bc9a01ba238a2f242772ed1b5f}{%
+           family={Demanez},
+           familyi={D\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=cb51cddeb34abfb2d5113de5686d95a2}{%
+           family={Veuillet},
+           familyi={V\bibinitperiod},
+           given={Evelyne},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b60ef7452f859f9ad9b2994f53a50499}{%
+           family={Thai-Van},
+           familyi={T\bibinithyphendelim V\bibinitperiod},
+           given={Hung},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b8bf01c53ae41107ed84ceb0149dddb1}{%
+           family={Sirimanna},
+           familyi={S\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4cc75132584288f9555b71d08f44d394}{%
+           family={Callimachou},
+           familyi={C\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6590a06cabe7052eb5eb6bbf12aa2f40}{%
+           family={Santarelli},
+           familyi={S\bibinitperiod},
+           given={Rosamaria},
+           giveni={R\bibinitperiod}}}%
+        {{hash=30df8f3604d51aa16ddf97f1f2c30168}{%
+           family={Kuske},
+           familyi={K\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dcc9405fbd2dd4f72014dddb03ecf9d0}{%
+           family={Barajas},
+           familyi={B\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d9db71aad53a6f81f0f514125dec59c5}{%
+           family={Hedjever},
+           familyi={H\bibinitperiod},
+           given={Mladen},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e8a5748659288e29430380550073d161}{%
+           family={Konukseven},
+           familyi={K\bibinitperiod},
+           given={Ozlem},
+           giveni={O\bibinitperiod}}}%
+        {{hash=0010be314544a92c21d74818b0122a8d}{%
+           family={Veraguth},
+           familyi={V\bibinitperiod},
+           given={Dorothy},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c58ad90c41c31c1585630e5fec95aea9}{%
+           family={Mattsson},
+           familyi={M\bibinitperiod},
+           given={Tone\bibnamedelima Stokkereit},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f1ca505af69428c1064e22a1df2a8df0}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima Humberto},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=09187b1fd0021ae4e05172d40f924d59}{%
+           family={Bamiou},
+           familyi={B\bibinitperiod},
+           given={Doris-Eva},
+           giveni={D\bibinithyphendelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers in Neurology}%
+      }
+      \strng{namehash}{93119099cc83d1d61e7f1ec58d3f8c0e}
+      \strng{fullhash}{b920dbe312a540f06bb72a82ede7b19d}
+      \strng{bibnamehash}{b920dbe312a540f06bb72a82ede7b19d}
+      \strng{authorbibnamehash}{b920dbe312a540f06bb72a82ede7b19d}
+      \strng{authornamehash}{93119099cc83d1d61e7f1ec58d3f8c0e}
+      \strng{authorfullhash}{b920dbe312a540f06bb72a82ede7b19d}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Neurology}
+      \field{title}{A European Perspective on Auditory Processing Disorder-Current Knowledge and Future Research Focus}
+      \field{volume}{8}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.3389/fneur.2017.00622
+      \endverb
+    \endentry
+    \entry{Jain2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d7d1bd8209e81bbe9d5e9d62e26cedec}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=85f5323a2dbae85449a55abeb994be9f}{%
+           family={Vasudevamurthy},
+           familyi={V\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=91e187d57298fd6db1f6a3aebf94183b}{%
+           family={Raghavendra},
+           familyi={R\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Sensory Organs}%
+      }
+      \strng{namehash}{26996e562d969188cd1c4270571c9274}
+      \strng{fullhash}{a2b472f19e0956f33eb917e4851e9fff}
+      \strng{bibnamehash}{a2b472f19e0956f33eb917e4851e9fff}
+      \strng{authorbibnamehash}{a2b472f19e0956f33eb917e4851e9fff}
+      \strng{authornamehash}{26996e562d969188cd1c4270571c9274}
+      \strng{authorfullhash}{a2b472f19e0956f33eb917e4851e9fff}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hearing Science}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Maturation of temporal processing in children: measurements using speech and non-speech stimuli}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{pages}{23\bibrangedash 35}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.17430/893284
+      \endverb
+    \endentry
+    \entry{Jerger2000}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6c7453df9e83008042c08e8f94ff6486}{%
+           family={Jerger},
+           familyi={J\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{da6c9b242c50970bbcbc871fd01bd3bc}
+      \strng{fullhash}{da6c9b242c50970bbcbc871fd01bd3bc}
+      \strng{bibnamehash}{da6c9b242c50970bbcbc871fd01bd3bc}
+      \strng{authorbibnamehash}{da6c9b242c50970bbcbc871fd01bd3bc}
+      \strng{authornamehash}{da6c9b242c50970bbcbc871fd01bd3bc}
+      \strng{authorfullhash}{da6c9b242c50970bbcbc871fd01bd3bc}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Academy of Audiology}
+      \field{number}{9}
+      \field{title}{Report of the Consensus Conference on the Diagnosis of Auditory Processing Disorders in School-Aged Children.}
+      \field{volume}{11}
+      \field{year}{2000}
+      \field{pages}{467\bibrangedash 474}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1055/s-0042-1748136
+      \endverb
+    \endentry
+    \entry{Katz1962}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5fb7894805ff43d5cba2f369cdeffa3e}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \strng{fullhash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \strng{bibnamehash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \strng{authorbibnamehash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \strng{authornamehash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \strng{authorfullhash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Auditory Research}
+      \field{title}{The use of staggered spondaic words for assessing the integrity of the central auditory system.}
+      \field{volume}{2}
+      \field{year}{1962}
+      \field{pages}{327\bibrangedash 337}
+      \range{pages}{11}
+    \endentry
+    \entry{Katz1963}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5fb7894805ff43d5cba2f369cdeffa3e}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9bd0888a5526c0d135cd216a430594a0}{%
+           family={Basil},
+           familyi={B\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ba90f6a47cb47a30ecb072ac4c91208}
+      \strng{fullhash}{7ba90f6a47cb47a30ecb072ac4c91208}
+      \strng{bibnamehash}{7ba90f6a47cb47a30ecb072ac4c91208}
+      \strng{authorbibnamehash}{7ba90f6a47cb47a30ecb072ac4c91208}
+      \strng{authornamehash}{7ba90f6a47cb47a30ecb072ac4c91208}
+      \strng{authorfullhash}{7ba90f6a47cb47a30ecb072ac4c91208}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Otology, Rhinology and Laryngology}
+      \field{title}{A Staggered Spondaic Word Test for Detecting Central Auditory Lesions.}
+      \field{volume}{72}
+      \field{year}{1963}
+      \field{pages}{908\bibrangedash 918}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1177/000348946307200405
+      \endverb
+    \endentry
+    \entry{Katz1968}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bb596a50b688abb65a01510919f695c0}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Speech Language Hearing Association}%
+      }
+      \strng{namehash}{bb596a50b688abb65a01510919f695c0}
+      \strng{fullhash}{bb596a50b688abb65a01510919f695c0}
+      \strng{bibnamehash}{bb596a50b688abb65a01510919f695c0}
+      \strng{authorbibnamehash}{bb596a50b688abb65a01510919f695c0}
+      \strng{authornamehash}{bb596a50b688abb65a01510919f695c0}
+      \strng{authorfullhash}{bb596a50b688abb65a01510919f695c0}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech and Hearing Disorders}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{The SSW Test: An Interim Report}
+      \field{volume}{33}
+      \field{year}{1968}
+      \field{pages}{132\bibrangedash 146}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1044/jshd.3302.132
+      \endverb
+    \endentry
+    \entry{Keith2000}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=dac92c9da2d5e497681389be43f1e491}{%
+           family={Keith},
+           familyi={K\bibinitperiod},
+           given={R\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Thieme}%
+      }
+      \strng{namehash}{dac92c9da2d5e497681389be43f1e491}
+      \strng{fullhash}{dac92c9da2d5e497681389be43f1e491}
+      \strng{bibnamehash}{dac92c9da2d5e497681389be43f1e491}
+      \strng{authorbibnamehash}{dac92c9da2d5e497681389be43f1e491}
+      \strng{authornamehash}{dac92c9da2d5e497681389be43f1e491}
+      \strng{authorfullhash}{dac92c9da2d5e497681389be43f1e491}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Audiology Diagnosis}
+      \field{title}{Diagnosing Central Auditory Processing Disorders in Children.}
+      \field{year}{2000}
+      \field{pages}{337\bibrangedash 353}
+      \range{pages}{17}
+    \endentry
+    \entry{Keith2019}{book}{}
+      \name{author}{4}{}{%
+        {{hash=8866f37a0f5f1b52f849ff572d734320}{%
+           family={Keith},
+           familyi={K\bibinitperiod},
+           given={W\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=287a7f1c2b4f41d69f6ff4675749b66c}{%
+           family={Purdy},
+           familyi={P\bibinitperiod},
+           given={S\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3cb2ce8dfe3f77964480ecfff1a035b0}{%
+           family={Baily},
+           familyi={B\bibinitperiod},
+           given={M\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ca52424b7fc03baa461a9dc227388411}{%
+           family={Kay},
+           familyi={K\bibinitperiod},
+           given={F\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New Zealand Audiological Society}%
+      }
+      \strng{namehash}{735cf21d3feeb06eb2b1f3461ba33ec4}
+      \strng{fullhash}{d11f090051a5dd3074d4e080c3e11697}
+      \strng{bibnamehash}{d11f090051a5dd3074d4e080c3e11697}
+      \strng{authorbibnamehash}{d11f090051a5dd3074d4e080c3e11697}
+      \strng{authornamehash}{735cf21d3feeb06eb2b1f3461ba33ec4}
+      \strng{authorfullhash}{d11f090051a5dd3074d4e080c3e11697}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{New Zealand Guidelines on Auditory Processing Disorder.}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.audiology.org.nz/
+      \endverb
+      \verb{url}
+      \verb https://www.audiology.org.nz/
+      \endverb
+    \endentry
+    \entry{Koravand2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=acd9a06764c94b635c633f93c155ea34}{%
+           family={Koravand},
+           familyi={K\bibinitperiod},
+           given={Amineh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2c156189ecd1228987a4779ad52f6dc7}{%
+           family={Jutras},
+           familyi={J\bibinitperiod},
+           given={Benoît},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d06dec528dd09192701c63dfbea1d7b7}{%
+           family={Lassonde},
+           familyi={L\bibinitperiod},
+           given={Maryse},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4499c3ac233ae792f42a24ef89441051}
+      \strng{fullhash}{c9f4d8ffbf84f5a4757b6169814b0c35}
+      \strng{bibnamehash}{c9f4d8ffbf84f5a4757b6169814b0c35}
+      \strng{authorbibnamehash}{c9f4d8ffbf84f5a4757b6169814b0c35}
+      \strng{authornamehash}{4499c3ac233ae792f42a24ef89441051}
+      \strng{authorfullhash}{c9f4d8ffbf84f5a4757b6169814b0c35}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuroscience}
+      \field{title}{Abnormalities in cortical auditory responses in children with central auditory processing disorder}
+      \field{volume}{346}
+      \field{year}{2017}
+      \field{pages}{135\bibrangedash 148}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.neuroscience.2017.01.011
+      \endverb
+    \endentry
+    \entry{Krishnamurti2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1db454fdd8bbda0af3506baec6812651}{%
+           family={Krishnamurti},
+           familyi={K\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego}%
+      }
+      \list{publisher}{1}{%
+        {Plural Publishing}%
+      }
+      \strng{namehash}{1db454fdd8bbda0af3506baec6812651}
+      \strng{fullhash}{1db454fdd8bbda0af3506baec6812651}
+      \strng{bibnamehash}{1db454fdd8bbda0af3506baec6812651}
+      \strng{authorbibnamehash}{1db454fdd8bbda0af3506baec6812651}
+      \strng{authornamehash}{1db454fdd8bbda0af3506baec6812651}
+      \strng{authorfullhash}{1db454fdd8bbda0af3506baec6812651}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of (Central) Auditory Processing Dissorders - Auditory Neuroscience and Diagnosis.}
+      \field{title}{Monoaural Low-Redundancy Speech Tests - Chapter 8.}
+      \field{year}{2007}
+      \field{pages}{193\bibrangedash 205}
+      \range{pages}{13}
+    \endentry
+    \entry{Loo2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=66ddb8d0d86939a3859f1fdb4b7a07cd}{%
+           family={Loo},
+           familyi={L\bibinitperiod},
+           given={J\bibnamedelima H\bibnamedelima Y},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=97d66dbcff6974a6adced3cb37ab3e1f}{%
+           family={Bamiou},
+           familyi={B\bibinitperiod},
+           given={D\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=b92e9a08db5f7cd3527b0712740619f8}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=94f5beb6570598818aec0336cf674229}{%
+           family={Luxon},
+           familyi={L\bibinitperiod},
+           given={L\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{16f207e02fc9a7ce4023946dd017bf1e}
+      \strng{fullhash}{4c886fdc5d4346db529b1f834d8d002b}
+      \strng{bibnamehash}{4c886fdc5d4346db529b1f834d8d002b}
+      \strng{authorbibnamehash}{4c886fdc5d4346db529b1f834d8d002b}
+      \strng{authornamehash}{16f207e02fc9a7ce4023946dd017bf1e}
+      \strng{authorfullhash}{4c886fdc5d4346db529b1f834d8d002b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Developmental Medicine {\&} Child Neurology}
+      \field{number}{8}
+      \field{title}{Computer-based auditory training ({CBAT}): benefits for children with language- and reading-related learning difficulties}
+      \field{volume}{52}
+      \field{year}{2010}
+      \field{pages}{708\bibrangedash 717}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1469-8749.2010.03654.x
+      \endverb
+    \endentry
+    \entry{Lucker2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1dca97a712a21d03db72993f6309ac14}{%
+           family={Lucker},
+           familyi={L\bibinitperiod},
+           given={J\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dca97a712a21d03db72993f6309ac14}
+      \strng{fullhash}{1dca97a712a21d03db72993f6309ac14}
+      \strng{bibnamehash}{1dca97a712a21d03db72993f6309ac14}
+      \strng{authorbibnamehash}{1dca97a712a21d03db72993f6309ac14}
+      \strng{authornamehash}{1dca97a712a21d03db72993f6309ac14}
+      \strng{authorfullhash}{1dca97a712a21d03db72993f6309ac14}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Audiology Today}
+      \field{number}{1}
+      \field{title}{Auditory Processing Abilities in Children: When to test?}
+      \field{volume}{27}
+      \field{year}{2015}
+      \field{pages}{25\bibrangedash 31}
+      \range{pages}{7}
+    \endentry
+    \entry{Luis2019}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=8add91f00b79964c477512b9ce1c7c9a}{%
+           family={Luís},
+           familyi={L\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de Aveiro}%
+      }
+      \strng{namehash}{8add91f00b79964c477512b9ce1c7c9a}
+      \strng{fullhash}{8add91f00b79964c477512b9ce1c7c9a}
+      \strng{bibnamehash}{8add91f00b79964c477512b9ce1c7c9a}
+      \strng{authorbibnamehash}{8add91f00b79964c477512b9ce1c7c9a}
+      \strng{authornamehash}{8add91f00b79964c477512b9ce1c7c9a}
+      \strng{authorfullhash}{8add91f00b79964c477512b9ce1c7c9a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Desenvolvimento de um Programa de Intervenção em Processamento Auditivo para crianças em idade escolar.}
+      \field{type}{mathesis}
+      \field{year}{2019}
+    \endentry
+    \entry{Magimairaj2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5850abc7cdf802ce1d8ee8c69a83ce6d}{%
+           family={Magimairaj},
+           familyi={M\bibinitperiod},
+           given={Beula\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=69a5bae9b8c28129f11a21bf1465e083}{%
+           family={Nagaraj},
+           familyi={N\bibinitperiod},
+           given={Naveen\bibnamedelima K.},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{01d42d19ab0d83617b7f2ec1e06b5231}
+      \strng{fullhash}{01d42d19ab0d83617b7f2ec1e06b5231}
+      \strng{bibnamehash}{01d42d19ab0d83617b7f2ec1e06b5231}
+      \strng{authorbibnamehash}{01d42d19ab0d83617b7f2ec1e06b5231}
+      \strng{authornamehash}{01d42d19ab0d83617b7f2ec1e06b5231}
+      \strng{authorfullhash}{01d42d19ab0d83617b7f2ec1e06b5231}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language, Speech, and Hearing Services in Schools}
+      \field{number}{3}
+      \field{title}{Working Memory and Auditory Processing in School-Age Children}
+      \field{volume}{49}
+      \field{year}{2018}
+      \field{pages}{409\bibrangedash 423}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1044/2018_lshss-17-0099
+      \endverb
+    \endentry
+    \entry{Martinez2003}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=6d8633f7ef1693d27e515af53492bf74}{%
+           family={Martínez},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=447fff2c36dfd8778aeb033d719a5c18}{%
+           family={Nieto},
+           familyi={N\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Masson}%
+      }
+      \strng{namehash}{8d6cdb3e637c469357a506a813c48988}
+      \strng{fullhash}{8d6cdb3e637c469357a506a813c48988}
+      \strng{bibnamehash}{8d6cdb3e637c469357a506a813c48988}
+      \strng{authorbibnamehash}{8d6cdb3e637c469357a506a813c48988}
+      \strng{authornamehash}{8d6cdb3e637c469357a506a813c48988}
+      \strng{authorfullhash}{8d6cdb3e637c469357a506a813c48988}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Hipoacusia neurosensorial.}
+      \field{title}{Vías y centros de la audición.}
+      \field{year}{2003}
+      \field{pages}{11\bibrangedash 19}
+      \range{pages}{9}
+    \endentry
+    \entry{Martins2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e81b395dd4e231edc166f610c8ff5ce3}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={A\bibnamedelima I\bibnamedelimb M\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidade de Aveiro}%
+      }
+      \strng{namehash}{e81b395dd4e231edc166f610c8ff5ce3}
+      \strng{fullhash}{e81b395dd4e231edc166f610c8ff5ce3}
+      \strng{bibnamehash}{e81b395dd4e231edc166f610c8ff5ce3}
+      \strng{authorbibnamehash}{e81b395dd4e231edc166f610c8ff5ce3}
+      \strng{authornamehash}{e81b395dd4e231edc166f610c8ff5ce3}
+      \strng{authorfullhash}{e81b395dd4e231edc166f610c8ff5ce3}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rastreio do Processamento Auditivo Central pelo Terapeuta da Fala.}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://ria.ua.pt/bitstream/10773/4294/1/4517.pdf
+      \endverb
+      \verb{url}
+      \verb https://ria.ua.pt/bitstream/10773/4294/1/4517.pdf
+      \endverb
+    \endentry
+    \entry{Martins2018a}{book}{}
+      \name{author}{2}{}{%
+        {{hash=09b34926f604591a206c2776de395e92}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5129813dc18a7a50dbef566514a73cfb}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lisboa}%
+      }
+      \list{publisher}{1}{%
+        {Círculo Médico}%
+      }
+      \strng{namehash}{da42155370472ee15a11b7653f790ebc}
+      \strng{fullhash}{da42155370472ee15a11b7653f790ebc}
+      \strng{bibnamehash}{da42155370472ee15a11b7653f790ebc}
+      \strng{authorbibnamehash}{da42155370472ee15a11b7653f790ebc}
+      \strng{authornamehash}{da42155370472ee15a11b7653f790ebc}
+      \strng{authorfullhash}{da42155370472ee15a11b7653f790ebc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1ª}
+      \field{title}{Bateria de Avaliação do Processamento Auditivo - para o Português Europeu.}
+      \field{year}{2018}
+    \endentry
+    \entry{Martins2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=09b34926f604591a206c2776de395e92}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5129813dc18a7a50dbef566514a73cfb}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2b7841dff0eefba4bab254c803a444bd}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e1594301cd68686e84c2f1c39b3aa6b}
+      \strng{fullhash}{a8b7edd26d3c61a7f2fa0d4f7cab2947}
+      \strng{bibnamehash}{a8b7edd26d3c61a7f2fa0d4f7cab2947}
+      \strng{authorbibnamehash}{a8b7edd26d3c61a7f2fa0d4f7cab2947}
+      \strng{authornamehash}{1e1594301cd68686e84c2f1c39b3aa6b}
+      \strng{authorfullhash}{a8b7edd26d3c61a7f2fa0d4f7cab2947}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clínica e Investigação em Otorrinolaringologia}
+      \field{number}{1}
+      \field{title}{Testes de Avaliação do Processamento Auditivo Central.}
+      \field{volume}{2}
+      \field{year}{2008}
+      \field{pages}{34\bibrangedash 41}
+      \range{pages}{8}
+    \endentry
+    \entry{Martins2017b}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=6f14f99e1cb71987f27f514a64d802b6}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={J\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de Lisboa}%
+      }
+      \strng{namehash}{6f14f99e1cb71987f27f514a64d802b6}
+      \strng{fullhash}{6f14f99e1cb71987f27f514a64d802b6}
+      \strng{bibnamehash}{6f14f99e1cb71987f27f514a64d802b6}
+      \strng{authorbibnamehash}{6f14f99e1cb71987f27f514a64d802b6}
+      \strng{authornamehash}{6f14f99e1cb71987f27f514a64d802b6}
+      \strng{authorfullhash}{6f14f99e1cb71987f27f514a64d802b6}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Avaliação do Processamento Auditivo Central e Dificuldades de Aprendizagem.}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+    \endentry
+    \entry{Martins2014}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1218255ed98738d99d3fed10aaae9f41}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelimb Humberto\bibnamedelima Ferreira},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=4badd9fafc2e035afd7a737f7b3fc6f0}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d1a960e58c1bde5a6b1d1a2fa62da205}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=065a384c2b1faf31ea747da71fa6b9f6}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c43f500edb1ca3a5b01b3795e02de1b1}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={António\bibnamedelimb J\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=50a796e289abf5f334cbdb5e56f87187}{%
+           family={Falé},
+           familyi={F\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{aae30c5547202e394d901f5328ee9289}
+      \strng{fullhash}{e5e13dfd923b69b1fc285187f6203145}
+      \strng{bibnamehash}{e5e13dfd923b69b1fc285187f6203145}
+      \strng{authorbibnamehash}{e5e13dfd923b69b1fc285187f6203145}
+      \strng{authornamehash}{aae30c5547202e394d901f5328ee9289}
+      \strng{authorfullhash}{e5e13dfd923b69b1fc285187f6203145}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Saúde Pública}
+      \field{number}{Número especial}
+      \field{title}{Central auditory processing evaluation – normative data for Portuguese pediatric population.}
+      \field{volume}{48}
+      \field{year}{2014}
+      \field{pages}{282\bibrangedash 321}
+      \range{pages}{40}
+    \endentry
+    \entry{Matzker1959}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2f864e2ecce160530ee3d3cb57be149f}{%
+           family={Matzker},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f864e2ecce160530ee3d3cb57be149f}
+      \strng{fullhash}{2f864e2ecce160530ee3d3cb57be149f}
+      \strng{bibnamehash}{2f864e2ecce160530ee3d3cb57be149f}
+      \strng{authorbibnamehash}{2f864e2ecce160530ee3d3cb57be149f}
+      \strng{authornamehash}{2f864e2ecce160530ee3d3cb57be149f}
+      \strng{authorfullhash}{2f864e2ecce160530ee3d3cb57be149f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Otology, Rhinology and Laryngology}
+      \field{title}{Two methods for the assessment of the central auditory function in case of brain disease.}
+      \field{volume}{68}
+      \field{year}{1959}
+      \field{pages}{1155\bibrangedash 1197}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.1177/000348945906800420
+      \endverb
+    \endentry
+    \entry{Miller2005}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ac0280e51b5be22e6f79da7651bd6ea5}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={C\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bb07dece4c29843f524fab91e64b29a6}{%
+           family={Uhring},
+           familyi={U\bibinitperiod},
+           given={E\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4f27e0f07c7f0e4483c764374eb34c41}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={J\bibnamedelima J\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=946fba3b4bb9b7ac31b70e5e71c1cc37}{%
+           family={Kowalski},
+           familyi={K\bibinitperiod},
+           given={E\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=05c73afbe189afccc03c70704fefdd7f}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=20f83f4fb8811d8baa6cd7819761f174}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={B\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d97acab0e1a5ce8d4d1abaf4fc2601f}
+      \strng{fullhash}{47012742ab9441b032cafa1d37709467}
+      \strng{bibnamehash}{47012742ab9441b032cafa1d37709467}
+      \strng{authorbibnamehash}{47012742ab9441b032cafa1d37709467}
+      \strng{authornamehash}{3d97acab0e1a5ce8d4d1abaf4fc2601f}
+      \strng{authorfullhash}{47012742ab9441b032cafa1d37709467}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Contemporary Issues in Communication Science and Disorders}
+      \field{number}{32}
+      \field{title}{Case Studies of Auditory Training for Children With Auditory Processing Difficulties: A Preliminary Analysis.}
+      \field{year}{2005}
+      \field{pages}{93\bibrangedash 107}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1044/cicsd_32_f_93
+      \endverb
+    \endentry
+    \entry{Moller1983}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d68f09fd5f85acd68f32dc38e419632c}{%
+           family={Moller},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{fullhash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{bibnamehash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{authorbibnamehash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{authornamehash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{authorfullhash}{d68f09fd5f85acd68f32dc38e419632c}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Auditory Physiology}
+      \field{year}{1983}
+    \endentry
+    \entry{Moller2006}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d68f09fd5f85acd68f32dc38e419632c}{%
+           family={Moller},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{fullhash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{bibnamehash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{authorbibnamehash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{authornamehash}{d68f09fd5f85acd68f32dc38e419632c}
+      \strng{authorfullhash}{d68f09fd5f85acd68f32dc38e419632c}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2ª}
+      \field{title}{Hearing - Anatomy, Physiology, and Disorders of the Auditory System.}
+      \field{year}{2006}
+    \endentry
+    \entry{Moore2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ba5ca1bf58ec472ccdd9027696bb97b6}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=10c9506ecb6e3d689d094167d7a33ad9}{%
+           family={Cowan},
+           familyi={C\bibinitperiod},
+           given={Justin\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f69a93fe35bc5aa2266724445512cd6d}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e136bcfb8f30bdf7d265d26357ec79c2}{%
+           family={Edmondson-Jones},
+           familyi={E\bibinithyphendelim J\bibinitperiod},
+           given={A\bibnamedelima Mark},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f7d3e503d5698be7f9da967ff8987e3b}{%
+           family={Ferguson},
+           familyi={F\bibinitperiod},
+           given={Melanie\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce1810f0d1bef75925a6e8af5bd1fd8f}
+      \strng{fullhash}{7a26146922da48721158b2d0d1553dfa}
+      \strng{bibnamehash}{7a26146922da48721158b2d0d1553dfa}
+      \strng{authorbibnamehash}{7a26146922da48721158b2d0d1553dfa}
+      \strng{authornamehash}{ce1810f0d1bef75925a6e8af5bd1fd8f}
+      \strng{authorfullhash}{7a26146922da48721158b2d0d1553dfa}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ear \& Hearing}
+      \field{title}{Development of Auditory Processing in 6 to 11 years old Children.}
+      \field{volume}{32}
+      \field{year}{2011}
+      \field{pages}{269\bibrangedash 285}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1097/AUD.0b013e318201c468
+      \endverb
+    \endentry
+    \entry{Musiek2006}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=307182ea19a1a2fc220f04c33cab4d36}{%
+           family={Baran},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education, Inc.}%
+      }
+      \strng{namehash}{6fda3bc5f0ca2c62d5d29bf9309eb941}
+      \strng{fullhash}{6fda3bc5f0ca2c62d5d29bf9309eb941}
+      \strng{bibnamehash}{6fda3bc5f0ca2c62d5d29bf9309eb941}
+      \strng{authorbibnamehash}{6fda3bc5f0ca2c62d5d29bf9309eb941}
+      \strng{authornamehash}{6fda3bc5f0ca2c62d5d29bf9309eb941}
+      \strng{authorfullhash}{6fda3bc5f0ca2c62d5d29bf9309eb941}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Auditory System - Anatomy, Physiology and Clinical Correlation.}
+      \field{year}{2006}
+    \endentry
+    \entry{Musiek1990}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=307182ea19a1a2fc220f04c33cab4d36}{%
+           family={Baran},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8dfdfc2d4bc14704958333d036c3fe89}{%
+           family={Pinheiro},
+           familyi={P\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3189d0399e67e1ec678ab492d93eab61}
+      \strng{fullhash}{7616bdb33ddea70108b3dba5624b3ef6}
+      \strng{bibnamehash}{7616bdb33ddea70108b3dba5624b3ef6}
+      \strng{authorbibnamehash}{7616bdb33ddea70108b3dba5624b3ef6}
+      \strng{authornamehash}{3189d0399e67e1ec678ab492d93eab61}
+      \strng{authorfullhash}{7616bdb33ddea70108b3dba5624b3ef6}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Audiology}
+      \field{title}{Duration Pattern Recognition in Normal Subjects and in Patients with Cerebral and Cochlear Lesions.}
+      \field{volume}{29}
+      \field{year}{1990}
+      \field{pages}{304\bibrangedash 313}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3109/00206099009072861
+      \endverb
+    \endentry
+    \entry{Musiek2012}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=307182ea19a1a2fc220f04c33cab4d36}{%
+           family={Baran},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d6e2ba6c2f953cfbde01cb0897f547f5}{%
+           family={Shinn},
+           familyi={S\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5f0f5b620c99fdde5a29a1d446c6aea1}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego}%
+      }
+      \list{publisher}{1}{%
+        {Plural Publishing}%
+      }
+      \strng{namehash}{3189d0399e67e1ec678ab492d93eab61}
+      \strng{fullhash}{c62a80d31b6e4a574dae49c2839bdb2b}
+      \strng{bibnamehash}{c62a80d31b6e4a574dae49c2839bdb2b}
+      \strng{authorbibnamehash}{c62a80d31b6e4a574dae49c2839bdb2b}
+      \strng{authornamehash}{3189d0399e67e1ec678ab492d93eab61}
+      \strng{authorfullhash}{c62a80d31b6e4a574dae49c2839bdb2b}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Disorders of the Auditory System.}
+      \field{title}{Structure and Function of the Auditory and Vestibular Systems.}
+      \field{year}{2012}
+      \field{pages}{11\bibrangedash 62}
+      \range{pages}{52}
+    \endentry
+    \entry{Musiek2007}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b95d659b29c07f111064d96922df40a}{%
+           family={Chermak},
+           familyi={C\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego}%
+      }
+      \list{publisher}{1}{%
+        {Plural Publishing}%
+      }
+      \strng{namehash}{12c51250f87b36a6434bbb4b6b6225c6}
+      \strng{fullhash}{12c51250f87b36a6434bbb4b6b6225c6}
+      \strng{bibnamehash}{12c51250f87b36a6434bbb4b6b6225c6}
+      \strng{authorbibnamehash}{12c51250f87b36a6434bbb4b6b6225c6}
+      \strng{authornamehash}{12c51250f87b36a6434bbb4b6b6225c6}
+      \strng{authorfullhash}{12c51250f87b36a6434bbb4b6b6225c6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbook of (central) auditory processing disorders.}
+      \field{year}{2007}
+    \endentry
+    \entry{Musiek2005}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e8fb34a6797e095f027577501dd0715}
+      \strng{fullhash}{5e8fb34a6797e095f027577501dd0715}
+      \strng{bibnamehash}{5e8fb34a6797e095f027577501dd0715}
+      \strng{authorbibnamehash}{5e8fb34a6797e095f027577501dd0715}
+      \strng{authornamehash}{5e8fb34a6797e095f027577501dd0715}
+      \strng{authorfullhash}{5e8fb34a6797e095f027577501dd0715}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ear \& Hearing}
+      \field{title}{GIN (Gaps-In-Noise) Test Performance in Subjects with Confirmed Central Auditory Nervous System Involvement.}
+      \field{year}{2005}
+      \field{pages}{608\bibrangedash 618}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1097/01.aud.0000188069.80699.41
+      \endverb
+    \endentry
+    \entry{Musiek2001}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3c867a7a8ad945faeb71c35f1126705e}{%
+           family={Rintelman},
+           familyi={R\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Manole}%
+      }
+      \strng{namehash}{0afd66126fe6bd9cc8796c69c197aec3}
+      \strng{fullhash}{0afd66126fe6bd9cc8796c69c197aec3}
+      \strng{bibnamehash}{0afd66126fe6bd9cc8796c69c197aec3}
+      \strng{authorbibnamehash}{0afd66126fe6bd9cc8796c69c197aec3}
+      \strng{authornamehash}{0afd66126fe6bd9cc8796c69c197aec3}
+      \strng{authorfullhash}{0afd66126fe6bd9cc8796c69c197aec3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perpectivas Atuais em Avaliação Auditiva.}
+      \field{year}{2001}
+    \endentry
+    \entry{Musiek1986}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ba3d19bb7933e83140513f576e36c146}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={Frank\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ovid Technologies (Wolters Kluwer Health)}%
+      }
+      \strng{namehash}{ba3d19bb7933e83140513f576e36c146}
+      \strng{fullhash}{ba3d19bb7933e83140513f576e36c146}
+      \strng{bibnamehash}{ba3d19bb7933e83140513f576e36c146}
+      \strng{authorbibnamehash}{ba3d19bb7933e83140513f576e36c146}
+      \strng{authornamehash}{ba3d19bb7933e83140513f576e36c146}
+      \strng{authorfullhash}{ba3d19bb7933e83140513f576e36c146}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ear and Hearing}
+      \field{number}{6}
+      \field{title}{Neuroanatomy, Neurophysiology, and Central Auditory Assessment. Part III: Corpus Callosum and Efferent Pathways.}
+      \field{volume}{7}
+      \field{year}{1986}
+      \field{pages}{349\bibrangedash 358}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1097/00003446-198612000-00001
+      \endverb
+    \endentry
+    \entry{Musiek1986a}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ba3d19bb7933e83140513f576e36c146}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={Frank\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=1d6d82e752affa208a6f6b8d785c4fea}{%
+           family={Baran},
+           familyi={B\bibinitperiod},
+           given={Jane\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ovid Technologies (Wolters Kluwer Health)}%
+      }
+      \strng{namehash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{fullhash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{bibnamehash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{authorbibnamehash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{authornamehash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{authorfullhash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ear and Hearing}
+      \field{number}{4}
+      \field{title}{Neuroanatomy, Neurophysiology, and Central Auditory Assessment. Part I: Brain Stem.}
+      \field{volume}{7}
+      \field{year}{1986}
+      \field{pages}{207\bibrangedash 219}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1097/00003446-198608000-00001
+      \endverb
+    \endentry
+    \entry{Musiek1987}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ba3d19bb7933e83140513f576e36c146}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={Frank\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=1d6d82e752affa208a6f6b8d785c4fea}{%
+           family={Baran},
+           familyi={B\bibinitperiod},
+           given={Jane\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{fullhash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{bibnamehash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{authorbibnamehash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{authornamehash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \strng{authorfullhash}{15d68c2b8ba142bbc5e01f2207c6f4c0}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ear and Hearing}
+      \field{title}{Central Auditory Assessment: Thirty Years of Challenge and Change.}
+      \field{volume}{8}
+      \field{year}{1987}
+      \field{pages}{22S\bibrangedash 35S}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1097/00003446-198708001-00007
+      \endverb
+    \endentry
+    \entry{Neijenhuis2003}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=cfe0296164c43cd154d7b2ddf28fa28a}{%
+           family={Neijenhuis},
+           familyi={N\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de Católica de Nijmegen}%
+      }
+      \strng{namehash}{cfe0296164c43cd154d7b2ddf28fa28a}
+      \strng{fullhash}{cfe0296164c43cd154d7b2ddf28fa28a}
+      \strng{bibnamehash}{cfe0296164c43cd154d7b2ddf28fa28a}
+      \strng{authorbibnamehash}{cfe0296164c43cd154d7b2ddf28fa28a}
+      \strng{authornamehash}{cfe0296164c43cd154d7b2ddf28fa28a}
+      \strng{authorfullhash}{cfe0296164c43cd154d7b2ddf28fa28a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Auditory Processing Disorders - Development and evaluation of a test battery.}
+      \field{type}{phdthesis}
+      \field{year}{2003}
+    \endentry
+    \entry{Nunes2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b31cc9cd8c9159bda80f144ee83294db}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={CL},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lisboa}%
+      }
+      \list{publisher}{1}{%
+        {Papa-Letras}%
+      }
+      \strng{namehash}{b31cc9cd8c9159bda80f144ee83294db}
+      \strng{fullhash}{b31cc9cd8c9159bda80f144ee83294db}
+      \strng{bibnamehash}{b31cc9cd8c9159bda80f144ee83294db}
+      \strng{authorbibnamehash}{b31cc9cd8c9159bda80f144ee83294db}
+      \strng{authornamehash}{b31cc9cd8c9159bda80f144ee83294db}
+      \strng{authorfullhash}{b31cc9cd8c9159bda80f144ee83294db}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Processamento Auditivo - conhecer, avaliar e intervir.}
+      \field{year}{2015}
+    \endentry
+    \entry{Nunes2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6d1587b2683f06848ff2e74fd8674d85}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={Cristiane\bibnamedelima Lima},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a44f57b6ad451a5a5029a12d306fc8fc}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Liliane\bibnamedelima Desgualdo},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b3e7a7c0cdd0c149120882599243d789}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Graça\bibnamedelima Simões},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{FapUNIFESP} ({SciELO})}%
+      }
+      \strng{namehash}{965de9aa7cd42f05c9ce6abbf519366c}
+      \strng{fullhash}{fcc6240972c1afb7c7aa0aa5ddaf0e0d}
+      \strng{bibnamehash}{fcc6240972c1afb7c7aa0aa5ddaf0e0d}
+      \strng{authorbibnamehash}{fcc6240972c1afb7c7aa0aa5ddaf0e0d}
+      \strng{authornamehash}{965de9aa7cd42f05c9ce6abbf519366c}
+      \strng{authorfullhash}{fcc6240972c1afb7c7aa0aa5ddaf0e0d}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CoDAS}
+      \field{number}{3}
+      \field{title}{Scale of Auditory Behaviors and auditory behavior tests for auditory processing assessment in Portuguese children.}
+      \field{volume}{25}
+      \field{year}{2013}
+      \field{pages}{209\bibrangedash 215}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1590/s2317-17822013000300004
+      \endverb
+    \endentry
+    \entry{OBeirne2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1ad2f87801082877e5797607ad60e7fd}{%
+           family={O'Beirne},
+           familyi={O\bibinitperiod},
+           given={Greg\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=70c22a2001daf0afefcc64558e541d13}{%
+           family={McGaffin},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0ddf02a45ca782ee8aa060a9c9b1005e}{%
+           family={Rickard},
+           familyi={R\bibinitperiod},
+           given={Natalie\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ff243d502f741a36ef922ab8ede22ce}
+      \strng{fullhash}{6f46e08686d1d7e8f3202aa123561570}
+      \strng{bibnamehash}{6f46e08686d1d7e8f3202aa123561570}
+      \strng{authorbibnamehash}{6f46e08686d1d7e8f3202aa123561570}
+      \strng{authornamehash}{0ff243d502f741a36ef922ab8ede22ce}
+      \strng{authorfullhash}{6f46e08686d1d7e8f3202aa123561570}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Pediatric Otorhinolaryngology}
+      \field{number}{6}
+      \field{title}{Development of an adaptive low-pass filtered speech test for the identification of auditory processing disorders.}
+      \field{volume}{76}
+      \field{year}{2012}
+      \field{pages}{777\bibrangedash 782}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.ijporl.2012.02.039
+      \endverb
+    \endentry
+    \entry{Oliveira2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0a838a190f66e8fb63ef2ad556335a95}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={G\bibnamedelima C\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Coimbra}%
+      }
+      \list{publisher}{1}{%
+        {Escola Superior de Tecnologia da Saúde - Instituto Politécnico de Coimbra.}%
+      }
+      \strng{namehash}{0a838a190f66e8fb63ef2ad556335a95}
+      \strng{fullhash}{0a838a190f66e8fb63ef2ad556335a95}
+      \strng{bibnamehash}{0a838a190f66e8fb63ef2ad556335a95}
+      \strng{authorbibnamehash}{0a838a190f66e8fb63ef2ad556335a95}
+      \strng{authornamehash}{0a838a190f66e8fb63ef2ad556335a95}
+      \strng{authorfullhash}{0a838a190f66e8fb63ef2ad556335a95}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Contribuição para a Validação da Escala “Children’s Auditory Processing Performance Scale” para a População Portuguesa.}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb http://hdl.han
+      \endverb
+      \verb{url}
+      \verb http://hdl.han
+      \endverb
+    \endentry
+    \entry{Olsen1991}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=f4992a67aa5a562f14c8718468a68230}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={W\bibnamedelima O},
+           giveni={W\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin}%
+      }
+      \list{publisher}{1}{%
+        {Pro-Ed}%
+      }
+      \strng{namehash}{f4992a67aa5a562f14c8718468a68230}
+      \strng{fullhash}{f4992a67aa5a562f14c8718468a68230}
+      \strng{bibnamehash}{f4992a67aa5a562f14c8718468a68230}
+      \strng{authorbibnamehash}{f4992a67aa5a562f14c8718468a68230}
+      \strng{authornamehash}{f4992a67aa5a562f14c8718468a68230}
+      \strng{authorfullhash}{f4992a67aa5a562f14c8718468a68230}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Diagnostic Audiology.}
+      \field{title}{Special Auditory Tests: A Historical Perspective.}
+      \field{year}{1991}
+    \endentry
+    \entry{Pereira2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b822e28949b6dc98f90cea693c79bfe4}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={K\bibnamedelima H},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Florianópolis}%
+      }
+      \list{publisher}{1}{%
+        {Diretoria da Imprensa Oficial e Editora de Santa Catarina.}%
+      }
+      \strng{namehash}{b822e28949b6dc98f90cea693c79bfe4}
+      \strng{fullhash}{b822e28949b6dc98f90cea693c79bfe4}
+      \strng{bibnamehash}{b822e28949b6dc98f90cea693c79bfe4}
+      \strng{authorbibnamehash}{b822e28949b6dc98f90cea693c79bfe4}
+      \strng{authornamehash}{b822e28949b6dc98f90cea693c79bfe4}
+      \strng{authorfullhash}{b822e28949b6dc98f90cea693c79bfe4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1ª}
+      \field{title}{Manual de Orientação do Transtorno do Processamento Auditivo – TPA}
+      \field{year}{2014}
+    \endentry
+    \entry{Pickles1982}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8c7f67186faaf4eee213126fc898485d}{%
+           family={Pickles},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {AcademicPress}%
+      }
+      \strng{namehash}{8c7f67186faaf4eee213126fc898485d}
+      \strng{fullhash}{8c7f67186faaf4eee213126fc898485d}
+      \strng{bibnamehash}{8c7f67186faaf4eee213126fc898485d}
+      \strng{authorbibnamehash}{8c7f67186faaf4eee213126fc898485d}
+      \strng{authornamehash}{8c7f67186faaf4eee213126fc898485d}
+      \strng{authorfullhash}{8c7f67186faaf4eee213126fc898485d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to the Physiology of Hearing.}
+      \field{year}{1982}
+      \verb{doi}
+      \verb 10.1097/00003446-198305000-00011
+      \endverb
+    \endentry
+    \entry{Pinheiro1985}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=38d28375b2b73b868f07d90af7fc292e}{%
+           family={Pinheiro},
+           familyi={P\bibinitperiod},
+           given={M\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b4f6464331e91a74899da8cdd12b2abc}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltimore}%
+      }
+      \list{publisher}{2}{%
+        {Williams}%
+        {Wilkins}%
+      }
+      \strng{namehash}{a42ec77a3d10f1387cd75b0bc05b5eae}
+      \strng{fullhash}{a42ec77a3d10f1387cd75b0bc05b5eae}
+      \strng{bibnamehash}{a42ec77a3d10f1387cd75b0bc05b5eae}
+      \strng{authorbibnamehash}{a42ec77a3d10f1387cd75b0bc05b5eae}
+      \strng{authornamehash}{a42ec77a3d10f1387cd75b0bc05b5eae}
+      \strng{authorfullhash}{a42ec77a3d10f1387cd75b0bc05b5eae}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Assessment of Central Auditory Dysfunction: Foundations and Clinical Correlations.}
+      \field{chapter}{Chapter 13}
+      \field{title}{Sequencing and temporal ordering in the auditory system.}
+      \field{year}{1985}
+    \endentry
+    \entry{Porter2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=0715958d9b029d263dce1d0a7d15494f}{%
+           family={Porter},
+           familyi={P\bibinitperiod},
+           given={H\bibnamedelima L},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Faculty of the Graduate School of Vanderbilt University}%
+      }
+      \strng{namehash}{0715958d9b029d263dce1d0a7d15494f}
+      \strng{fullhash}{0715958d9b029d263dce1d0a7d15494f}
+      \strng{bibnamehash}{0715958d9b029d263dce1d0a7d15494f}
+      \strng{authorbibnamehash}{0715958d9b029d263dce1d0a7d15494f}
+      \strng{authornamehash}{0715958d9b029d263dce1d0a7d15494f}
+      \strng{authorfullhash}{0715958d9b029d263dce1d0a7d15494f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Masking Level Differences And Binaural Intelligibility Level Differences In Children With Down Syndrome.}
+      \field{type}{phdthesis}
+      \field{year}{2012}
+    \endentry
+    \entry{Pujol2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ed3b3c6cfb334c1534db411fa2d128cf}{%
+           family={Pujol},
+           familyi={P\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Servier}%
+      }
+      \strng{namehash}{ed3b3c6cfb334c1534db411fa2d128cf}
+      \strng{fullhash}{ed3b3c6cfb334c1534db411fa2d128cf}
+      \strng{bibnamehash}{ed3b3c6cfb334c1534db411fa2d128cf}
+      \strng{authorbibnamehash}{ed3b3c6cfb334c1534db411fa2d128cf}
+      \strng{authornamehash}{ed3b3c6cfb334c1534db411fa2d128cf}
+      \strng{authorfullhash}{ed3b3c6cfb334c1534db411fa2d128cf}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Em Torno da Cóclea. s.l.}
+      \field{year}{2003}
+    \endentry
+    \entry{Purves2005}{book}{}
+      \name{author}{2}{}{%
+        {{hash=64b8de7826fca2dcee909cdd23fb789b}{%
+           family={Purves},
+           familyi={P\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Artmed Editora}%
+      }
+      \strng{namehash}{2fbad90a03c079c6134e40301d43a6fe}
+      \strng{fullhash}{2fbad90a03c079c6134e40301d43a6fe}
+      \strng{bibnamehash}{2fbad90a03c079c6134e40301d43a6fe}
+      \strng{authorbibnamehash}{2fbad90a03c079c6134e40301d43a6fe}
+      \strng{authornamehash}{2fbad90a03c079c6134e40301d43a6fe}
+      \strng{authorfullhash}{2fbad90a03c079c6134e40301d43a6fe}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neurociências.}
+      \field{year}{2005}
+    \endentry
+    \entry{Quadros2017}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=11949012ce883e9562e2ed17f6c9b0c3}{%
+           family={Quadros},
+           familyi={Q\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ab647742c2de6db4645e3c99ee8b8c16}{%
+           family={Capitão},
+           familyi={C\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6f14f99e1cb71987f27f514a64d802b6}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={J\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b4e565b274fdd812fe51d668a33c7e27}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={M\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=f2693d0713889a2df55d4057e26f1566}{%
+           family={O’Rouke},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f6e3c48fc0b968618c0194cca3899199}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi P.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b2eaeb938979b75955a4fbc0b088203d}{%
+           family={Gumpel},
+           familyi={G\bibinitperiod},
+           given={T.\bibnamedelimi P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8ad801f7774f81bff894759369826630}{%
+           family={s.l},
+           familyi={s\bibinitperiod},
+           given={A.\bibnamedelimi C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={do.},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{4407ae00241d53ae74a78cfe14e61e99}
+      \strng{fullhash}{08ae5aaa7e53c51a3f581e49655298c5}
+      \strng{bibnamehash}{08ae5aaa7e53c51a3f581e49655298c5}
+      \strng{authorbibnamehash}{08ae5aaa7e53c51a3f581e49655298c5}
+      \strng{authornamehash}{4407ae00241d53ae74a78cfe14e61e99}
+      \strng{authorfullhash}{08ae5aaa7e53c51a3f581e49655298c5}
+      \strng{editorbibnamehash}{aa3c8829d1517ffffe93c9e9e5fa5364}
+      \strng{editornamehash}{276ee5bd00ff0cb48f032c7dac225eed}
+      \strng{editorfullhash}{aa3c8829d1517ffffe93c9e9e5fa5364}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Translation and cultural adaptation of Student Listening Inventory For Education - Revised questionnaire to European Portuguese.}
+      \field{year}{2017}
+    \endentry
+    \entry{Roberts1991}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a57e41a448c4801949a5976973a6fa72}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f4abc5bf78d1b3f4e47f7535253c9b5}
+      \strng{fullhash}{0f4abc5bf78d1b3f4e47f7535253c9b5}
+      \strng{bibnamehash}{0f4abc5bf78d1b3f4e47f7535253c9b5}
+      \strng{authorbibnamehash}{0f4abc5bf78d1b3f4e47f7535253c9b5}
+      \strng{authornamehash}{0f4abc5bf78d1b3f4e47f7535253c9b5}
+      \strng{authorfullhash}{0f4abc5bf78d1b3f4e47f7535253c9b5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech Hearing Research}
+      \field{number}{5}
+      \field{title}{Otitis media in early childhood and later language.}
+      \field{volume}{34}
+      \field{year}{1991}
+      \field{pages}{1158\bibrangedash 1168}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1044/jshr.3405.1158
+      \endverb
+    \endentry
+    \entry{Roggia2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=43cf5c411291ba9bf691d2e64957fb71}{%
+           family={Roggia},
+           familyi={R\bibinitperiod},
+           given={Simone\bibnamedelima Mariotto},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4567fd08aa910fdeeb12063dd9fd7e35}{%
+           family={Colares},
+           familyi={C\bibinitperiod},
+           given={Nádia\bibnamedelima Tenório},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3c1f2e7418e7154bc144971e199631f}
+      \strng{fullhash}{d3c1f2e7418e7154bc144971e199631f}
+      \strng{bibnamehash}{d3c1f2e7418e7154bc144971e199631f}
+      \strng{authorbibnamehash}{d3c1f2e7418e7154bc144971e199631f}
+      \strng{authornamehash}{d3c1f2e7418e7154bc144971e199631f}
+      \strng{authorfullhash}{d3c1f2e7418e7154bc144971e199631f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brazilian Journal of Otorhinolaryngology}
+      \field{number}{5}
+      \field{title}{Mismatch negativity in patients with (central) auditory processing disorders}
+      \field{volume}{74}
+      \field{year}{2008}
+      \field{pages}{705\bibrangedash 711}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/s1808-8694(15)31380-x
+      \endverb
+    \endentry
+    \entry{Saunders1992}{article}{}
+      \name{author}{2}{}{%
+        {{hash=01bc17606034f5c6fb40352b66164a72}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a52f570b3aec252beea46b6427b386b6}{%
+           family={Haggard},
+           familyi={H\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9b0a2758b022116af04b3f87c5ac699}
+      \strng{fullhash}{a9b0a2758b022116af04b3f87c5ac699}
+      \strng{bibnamehash}{a9b0a2758b022116af04b3f87c5ac699}
+      \strng{authorbibnamehash}{a9b0a2758b022116af04b3f87c5ac699}
+      \strng{authornamehash}{a9b0a2758b022116af04b3f87c5ac699}
+      \strng{authorfullhash}{a9b0a2758b022116af04b3f87c5ac699}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ear \& Hear}
+      \field{number}{4}
+      \field{title}{The clinical assessment of "Obscure Auditory Dysfunction" (OAD) 2. Case control analysis of determining factors.}
+      \field{volume}{13}
+      \field{year}{1992}
+      \field{pages}{241\bibrangedash 254}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1097/00003446-199208000-00006
+      \endverb
+    \endentry
+    \entry{Seikel2010}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=8527f11c030c5d940083edca9658859d}{%
+           family={Seikel},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=92962f20f920fd6edd3f196752b2dcc5}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={D\bibnamedelima W},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=fa9ebf7d0445e7f2b6ccd33cedd765b1}{%
+           family={Drumright},
+           familyi={D\bibinitperiod},
+           given={D\bibnamedelima G},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Delmar Cengage Learning}%
+      }
+      \strng{namehash}{f32036b7011e6ff585e639879965e7f2}
+      \strng{fullhash}{517bb599af95b55ca59816509281cb83}
+      \strng{bibnamehash}{517bb599af95b55ca59816509281cb83}
+      \strng{authorbibnamehash}{517bb599af95b55ca59816509281cb83}
+      \strng{authornamehash}{f32036b7011e6ff585e639879965e7f2}
+      \strng{authorfullhash}{517bb599af95b55ca59816509281cb83}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Anatomy and Physiology for Speech, Language and Hearing.}
+      \field{title}{Auditory Physiology}
+      \field{year}{2010}
+      \field{pages}{479\bibrangedash 520}
+      \range{pages}{42}
+    \endentry
+    \entry{Shapiro2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7aab3a77937d0d8157ab7aada1e2a208}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={Z},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aab3a77937d0d8157ab7aada1e2a208}
+      \strng{fullhash}{7aab3a77937d0d8157ab7aada1e2a208}
+      \strng{bibnamehash}{7aab3a77937d0d8157ab7aada1e2a208}
+      \strng{authorbibnamehash}{7aab3a77937d0d8157ab7aada1e2a208}
+      \strng{authornamehash}{7aab3a77937d0d8157ab7aada1e2a208}
+      \strng{authorfullhash}{7aab3a77937d0d8157ab7aada1e2a208}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{School Matters}
+      \field{title}{Don't wait to Diagnose Auditory Processing Disorder. The ASHA Leader}
+      \field{volume}{21}
+      \field{year}{2016}
+      \field{pages}{34\bibrangedash 35}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1044/leader.SCM.21122016.34
+      \endverb
+    \endentry
+    \entry{Shinn2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6e2ba6c2f953cfbde01cb0897f547f5}{%
+           family={Shinn},
+           familyi={S\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6e2ba6c2f953cfbde01cb0897f547f5}
+      \strng{fullhash}{d6e2ba6c2f953cfbde01cb0897f547f5}
+      \strng{bibnamehash}{d6e2ba6c2f953cfbde01cb0897f547f5}
+      \strng{authorbibnamehash}{d6e2ba6c2f953cfbde01cb0897f547f5}
+      \strng{authornamehash}{d6e2ba6c2f953cfbde01cb0897f547f5}
+      \strng{authorfullhash}{d6e2ba6c2f953cfbde01cb0897f547f5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hear Journal}
+      \field{number}{7}
+      \field{title}{Temporal Processing: the basics.}
+      \field{volume}{56}
+      \field{year}{2003}
+      \field{pages}{52}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1097/01.hj.0000292557.52409.67
+      \endverb
+    \endentry
+    \entry{Shriberg1983}{article}{}
+      \name{author}{2}{}{%
+        {{hash=10b7d7482749e706e81d2d187c197da4}{%
+           family={Shriberg},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima D.},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e7e003c4d5c166027bb829cdc7eb9825}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Anne\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cd64dc88c1a94a3dd4eef6f8559b088}
+      \strng{fullhash}{7cd64dc88c1a94a3dd4eef6f8559b088}
+      \strng{bibnamehash}{7cd64dc88c1a94a3dd4eef6f8559b088}
+      \strng{authorbibnamehash}{7cd64dc88c1a94a3dd4eef6f8559b088}
+      \strng{authornamehash}{7cd64dc88c1a94a3dd4eef6f8559b088}
+      \strng{authorfullhash}{7cd64dc88c1a94a3dd4eef6f8559b088}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{number}{2}
+      \field{title}{Phonological Correlates of Middle-Ear Involvement in Speech-Delayed Children: a methodological note.}
+      \field{volume}{26}
+      \field{year}{1983}
+      \field{pages}{293\bibrangedash 297}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1044/jshr.2602.293
+      \endverb
+    \endentry
+    \entry{SimSim2008}{book}{}
+      \name{author}{3}{}{%
+        {{hash=96504501d638c5427f62a4f780c6d803}{%
+           family={Sim-Sim},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b581772875d7e39b4e81b89c634f04f2}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=34773a5b9d9b817bf9f7e99a0d8466b2}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lisboa}%
+      }
+      \list{publisher}{1}{%
+        {Ministério da Educação ed}%
+      }
+      \strng{namehash}{6a49a3f732eca297cb4690a6889dccac}
+      \strng{fullhash}{c882a1240f1e7bcf6ce5c78995c97d73}
+      \strng{bibnamehash}{c882a1240f1e7bcf6ce5c78995c97d73}
+      \strng{authorbibnamehash}{c882a1240f1e7bcf6ce5c78995c97d73}
+      \strng{authornamehash}{6a49a3f732eca297cb4690a6889dccac}
+      \strng{authorfullhash}{c882a1240f1e7bcf6ce5c78995c97d73}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linguagem e Comunicação no jardim de infância.}
+      \field{year}{2008}
+    \endentry
+    \entry{Smoski1998}{book}{}
+      \name{author}{3}{}{%
+        {{hash=38845b1499882b51d5d546882be36b07}{%
+           family={Smoski},
+           familyi={S\bibinitperiod},
+           given={W\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=afe32c140771aa9690584abc67cfd314}{%
+           family={Brunt},
+           familyi={B\bibinitperiod},
+           given={M\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1f6133f0236b7a458388766860bce0a7}{%
+           family={Tannahill},
+           familyi={T\bibinitperiod},
+           given={J\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{155f333edd92981e7e981994fd098000}
+      \strng{fullhash}{c81cc1ea6770af09ce1a60ddfc3e889b}
+      \strng{bibnamehash}{c81cc1ea6770af09ce1a60ddfc3e889b}
+      \strng{authorbibnamehash}{c81cc1ea6770af09ce1a60ddfc3e889b}
+      \strng{authornamehash}{155f333edd92981e7e981994fd098000}
+      \strng{authorfullhash}{c81cc1ea6770af09ce1a60ddfc3e889b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Children’s Auditory Performance Scale (CHAPS).}
+      \field{year}{1998}
+      \verb{urlraw}
+      \verb https://www.phonakpro.com/content/dam/phonakpro/gc_hq/en/resources/counseling_tools/documents/child_hearing_assessment_childrens_auditory
+      \endverb
+      \verb{url}
+      \verb https://www.phonakpro.com/content/dam/phonakpro/gc_hq/en/resources/counseling_tools/documents/child_hearing_assessment_childrens_auditory
+      \endverb
+    \endentry
+    \entry{Snell2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c80bdb58e5d05334c6a185c4d99ca725}{%
+           family={Snell},
+           familyi={S\bibinitperiod},
+           given={R\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro}%
+      }
+      \list{publisher}{1}{%
+        {Guanabara Koogan S.A.}%
+      }
+      \strng{namehash}{c80bdb58e5d05334c6a185c4d99ca725}
+      \strng{fullhash}{c80bdb58e5d05334c6a185c4d99ca725}
+      \strng{bibnamehash}{c80bdb58e5d05334c6a185c4d99ca725}
+      \strng{authorbibnamehash}{c80bdb58e5d05334c6a185c4d99ca725}
+      \strng{authornamehash}{c80bdb58e5d05334c6a185c4d99ca725}
+      \strng{authorfullhash}{c80bdb58e5d05334c6a185c4d99ca725}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neuroanatomia Clínica para estudantes de Medicina.}
+      \field{year}{2001}
+    \endentry
+    \entry{Stach2000}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e60b61fe4569df0258e0e4f04885734c}{%
+           family={Stach},
+           familyi={S\bibinitperiod},
+           given={B\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Thieme}%
+      }
+      \strng{namehash}{e60b61fe4569df0258e0e4f04885734c}
+      \strng{fullhash}{e60b61fe4569df0258e0e4f04885734c}
+      \strng{bibnamehash}{e60b61fe4569df0258e0e4f04885734c}
+      \strng{authorbibnamehash}{e60b61fe4569df0258e0e4f04885734c}
+      \strng{authornamehash}{e60b61fe4569df0258e0e4f04885734c}
+      \strng{authorfullhash}{e60b61fe4569df0258e0e4f04885734c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Audiology Diagnosis.}
+      \field{title}{Diagnosing Central Auditory Processing Disorders in Adults.}
+      \field{year}{2000}
+      \field{pages}{355\bibrangedash 379}
+      \range{pages}{25}
+    \endentry
+    \entry{Stroiek2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f5e08ca1e99312ea69cb5d036be87843}{%
+           family={Stroiek},
+           familyi={S\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b9510f55689f41e91c0c1851da07d627}{%
+           family={Silva\bibnamedelima Quevedo},
+           familyi={S\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           given={Lenita},
+           giveni={L\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=00a8b5dd49349ad923b4f09a94f9448a}{%
+           family={Kieling},
+           familyi={K\bibinitperiod},
+           given={Carla\bibnamedelima Hernandez},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=23042edd1582425e60e5ece2891792a9}{%
+           family={Battezini},
+           familyi={B\bibinitperiod},
+           given={Ana\bibnamedelimb Carolina\bibnamedelima Lago},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{130e525c3c96a0c5ea7a0ec887bb3057}
+      \strng{fullhash}{92b08708845ab1706d24bd4b70808857}
+      \strng{bibnamehash}{92b08708845ab1706d24bd4b70808857}
+      \strng{authorbibnamehash}{92b08708845ab1706d24bd4b70808857}
+      \strng{authornamehash}{130e525c3c96a0c5ea7a0ec887bb3057}
+      \strng{authorfullhash}{92b08708845ab1706d24bd4b70808857}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista CEFAC}
+      \field{number}{2}
+      \field{title}{Treinamento auditivo nas alterações do processamento auditivo: estudo de caso}
+      \field{volume}{17}
+      \field{year}{2015}
+      \field{pages}{604\bibrangedash 614}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1590/1982-021620157914
+      \endverb
+    \endentry
+    \entry{Terto2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=be0922d44fbf14c18556580d1d7a625b}{%
+           family={Terto},
+           familyi={T\bibinitperiod},
+           given={Sulamita\bibnamedelimb {da}\bibnamedelimb Silva\bibnamedelima Marcelino},
+           giveni={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8f030528e588030b78b45b8411550dba}{%
+           family={Lemos},
+           familyi={L\bibinitperiod},
+           given={Stela\bibnamedelimb Maris\bibnamedelima Aguiar},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{FapUNIFESP} ({SciELO})}%
+      }
+      \strng{namehash}{633d71fabd68ee193cdb77635df2cffd}
+      \strng{fullhash}{633d71fabd68ee193cdb77635df2cffd}
+      \strng{bibnamehash}{633d71fabd68ee193cdb77635df2cffd}
+      \strng{authorbibnamehash}{633d71fabd68ee193cdb77635df2cffd}
+      \strng{authornamehash}{633d71fabd68ee193cdb77635df2cffd}
+      \strng{authorfullhash}{633d71fabd68ee193cdb77635df2cffd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista {CEFAC}}
+      \field{month}{6}
+      \field{number}{5}
+      \field{title}{Aspectos temporais auditivos: produção de conhecimento em quatro periódicos nacionais}
+      \field{volume}{13}
+      \field{year}{2011}
+      \field{pages}{926\bibrangedash 936}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1590/s1516-18462011005000050
+      \endverb
+    \endentry
+    \entry{Tillery2009}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=13dd04d49aeeb2d6168cbc2385a9164b}{%
+           family={Tillery},
+           familyi={T\bibinitperiod},
+           given={K\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5fb7894805ff43d5cba2f369cdeffa3e}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{13dd04d49aeeb2d6168cbc2385a9164b}
+      \strng{fullhash}{13dd04d49aeeb2d6168cbc2385a9164b}
+      \strng{bibnamehash}{13dd04d49aeeb2d6168cbc2385a9164b}
+      \strng{authorbibnamehash}{13dd04d49aeeb2d6168cbc2385a9164b}
+      \strng{authornamehash}{13dd04d49aeeb2d6168cbc2385a9164b}
+      \strng{authorfullhash}{13dd04d49aeeb2d6168cbc2385a9164b}
+      \strng{editorbibnamehash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \strng{editornamehash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \strng{editorfullhash}{5fb7894805ff43d5cba2f369cdeffa3e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Clinical Audiology.}
+      \field{journaltitle}{Handbook of Clinical Audiology.}
+      \field{title}{Central Auditory Processing Evaluation: A Test Battery Approach.}
+      \field{year}{2009}
+      \field{pages}{627\bibrangedash 641}
+      \range{pages}{15}
+    \endentry
+    \entry{Vigario2006}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a06546beea5682813dfd3f15021818a7}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7557e4a477d8ac017e0aa4db4a8ed30}
+      \strng{fullhash}{5d63e838d60310ec7b28d2b4b9291d1b}
+      \strng{bibnamehash}{5d63e838d60310ec7b28d2b4b9291d1b}
+      \strng{authorbibnamehash}{5d63e838d60310ec7b28d2b4b9291d1b}
+      \strng{authornamehash}{f7557e4a477d8ac017e0aa4db4a8ed30}
+      \strng{authorfullhash}{5d63e838d60310ec7b28d2b4b9291d1b}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Textos Seleccionados Do XXI Encontro Nacional Da Associação Portuguesa de Linguística}
+      \field{title}{A ferramenta FreP e a frequência de tipos silábicos e classes de segmentos no Português.}
+      \field{year}{2006}
+      \field{pages}{675\bibrangedash 687}
+      \range{pages}{13}
+    \endentry
+    \entry{Volpatto2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=dd4b9f7533e52bfa998c3ac441369c30}{%
+           family={Volpatto},
+           familyi={V\bibinitperiod},
+           given={Francielli\bibnamedelima Loss},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=fab4b30f2fb428f627f9db43e3e57828}{%
+           family={Rechia},
+           familyi={R\bibinitperiod},
+           given={Inaê\bibnamedelima Costa},
+           giveni={I\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b583f648c6d8b3c0e3fbf9f644a108be}{%
+           family={Lessa},
+           familyi={L\bibinitperiod},
+           given={Alexandre\bibnamedelima Hundertmarck},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0c2571506ae42db0fe6ebcabbe62ae36}{%
+           family={Soldera},
+           familyi={S\bibinitperiod},
+           given={Cristina\bibnamedelimb Loureiro\bibnamedelima Chaves},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0fbead3a5b94ebc74fe26f8648d16828}{%
+           family={Costa\bibnamedelima Ferreira},
+           familyi={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Maria\bibnamedelimb Inês\bibnamedelima Dornelles},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim D\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=a68653a88986999bfc03a310db478bba}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={Márcia\bibnamedelima Salgado},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{afe3f42563714860ac6669a8728810b5}
+      \strng{fullhash}{c7c9b05ae8f4e7ec0668bd8c0495de42}
+      \strng{bibnamehash}{c7c9b05ae8f4e7ec0668bd8c0495de42}
+      \strng{authorbibnamehash}{c7c9b05ae8f4e7ec0668bd8c0495de42}
+      \strng{authornamehash}{afe3f42563714860ac6669a8728810b5}
+      \strng{authorfullhash}{c7c9b05ae8f4e7ec0668bd8c0495de42}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brazilian Journal of Otorhinolaryngology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Questionnaires and checklists for central auditory processing screening used in Brazil: a systematic review.}
+      \field{volume}{85}
+      \field{year}{2019}
+      \field{pages}{99\bibrangedash 110}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.bjorl.2018.05.003
+      \endverb
+    \endentry
+    \entry{Weihing2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=62a1ec5ba70b6d56a7f759cc8afbf08b}{%
+           family={Weihing},
+           familyi={W\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=08c727b008f3b8de5b7160af2b2bc33e}{%
+           family={Chermak},
+           familyi={C\bibinitperiod},
+           given={Gail},
+           giveni={G\bibinitperiod}}}%
+        {{hash=aaa5c24ec50227b0e90653db757d8500}{%
+           family={Musiek},
+           familyi={M\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{cdae14751d8994ad5ba9704ed37d30a2}
+      \strng{fullhash}{0f2da8cbbf1fe82a9f64aacc61536389}
+      \strng{bibnamehash}{0f2da8cbbf1fe82a9f64aacc61536389}
+      \strng{authorbibnamehash}{0f2da8cbbf1fe82a9f64aacc61536389}
+      \strng{authornamehash}{cdae14751d8994ad5ba9704ed37d30a2}
+      \strng{authorfullhash}{0f2da8cbbf1fe82a9f64aacc61536389}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Seminars in Hearing}
+      \field{number}{04}
+      \field{title}{Auditory Training for Central Auditory Processing Disorder}
+      \field{volume}{36}
+      \field{year}{2015}
+      \field{pages}{199\bibrangedash 215}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1055/s-0035-1564458
+      \endverb
+    \endentry
+    \entry{Wertzner2007a}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bf26cc5f6093d1e3cf9c8d2edeb02a0b}{%
+           family={Wertzner},
+           familyi={W\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{2387685fd8d85e227186e7ff2f97f19a}
+      \strng{fullhash}{2387685fd8d85e227186e7ff2f97f19a}
+      \strng{bibnamehash}{2387685fd8d85e227186e7ff2f97f19a}
+      \strng{authorbibnamehash}{2387685fd8d85e227186e7ff2f97f19a}
+      \strng{authornamehash}{2387685fd8d85e227186e7ff2f97f19a}
+      \strng{authorfullhash}{2387685fd8d85e227186e7ff2f97f19a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista da Sociedade Brasileira de Fonoaudiologia}
+      \field{number}{1}
+      \field{title}{Características fonológicas de crianças com transtorno fonológico com e sem histórico de otite média.}
+      \field{volume}{12}
+      \field{year}{2007}
+      \field{pages}{41\bibrangedash 47}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1590/s1516-80342007000100009
+      \endverb
+    \endentry
+    \entry{Willeford1999}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=25ad2ddabca7d773872a29dedcc84606}{%
+           family={Willeford},
+           familyi={W\bibinitperiod},
+           given={J\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5a78f6f76c70a1c0bed6c009d87856f3}{%
+           family={Burleigh},
+           familyi={B\bibinitperiod},
+           given={J\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Manole}%
+      }
+      \strng{namehash}{38031d2df715119c40f2d8fd08b0fade}
+      \strng{fullhash}{38031d2df715119c40f2d8fd08b0fade}
+      \strng{bibnamehash}{38031d2df715119c40f2d8fd08b0fade}
+      \strng{authorbibnamehash}{38031d2df715119c40f2d8fd08b0fade}
+      \strng{authornamehash}{38031d2df715119c40f2d8fd08b0fade}
+      \strng{authorfullhash}{38031d2df715119c40f2d8fd08b0fade}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Tratado de Audiologia Clinica.}
+      \field{title}{Testes Centrais: Procedimentos Utilizando Sentenças.}
+      \field{year}{1999}
+      \field{pages}{254\bibrangedash 266}
+      \range{pages}{13}
+    \endentry
+    \entry{Yathiraj2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=98c149ea197aad1f6b112dfd7b8e35e9}{%
+           family={Yathiraj},
+           familyi={Y\bibinitperiod},
+           given={Asha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=50790708a982ec15deb9b3b49355b3d1}{%
+           family={Vanaja},
+           familyi={V\bibinitperiod},
+           given={C.S.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a3c35c7dabf852c44a774e8348ac37de}
+      \strng{fullhash}{a3c35c7dabf852c44a774e8348ac37de}
+      \strng{bibnamehash}{a3c35c7dabf852c44a774e8348ac37de}
+      \strng{authorbibnamehash}{a3c35c7dabf852c44a774e8348ac37de}
+      \strng{authornamehash}{a3c35c7dabf852c44a774e8348ac37de}
+      \strng{authorfullhash}{a3c35c7dabf852c44a774e8348ac37de}
+      \field{extraname}{1}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Pediatric Otorhinolaryngology}
+      \field{number}{8}
+      \field{title}{Age related changes in auditory processes in children aged 6 to 10 years}
+      \field{volume}{79}
+      \field{year}{2015}
+      \field{pages}{1224\bibrangedash 1234}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.ijporl.2015.05.018
+      \endverb
+    \endentry
+    \entry{Yathiraj2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=98c149ea197aad1f6b112dfd7b8e35e9}{%
+           family={Yathiraj},
+           familyi={Y\bibinitperiod},
+           given={Asha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8477cd356c01ecae0c5a1d5ff2d6f72}{%
+           family={Vanaja},
+           familyi={V\bibinitperiod},
+           given={Chitnahalli\bibnamedelima Shankaranarayan},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5d4e004281997e94bd9b0d90ce9c247}
+      \strng{fullhash}{f5d4e004281997e94bd9b0d90ce9c247}
+      \strng{bibnamehash}{f5d4e004281997e94bd9b0d90ce9c247}
+      \strng{authorbibnamehash}{f5d4e004281997e94bd9b0d90ce9c247}
+      \strng{authornamehash}{f5d4e004281997e94bd9b0d90ce9c247}
+      \strng{authorfullhash}{f5d4e004281997e94bd9b0d90ce9c247}
+      \field{extraname}{2}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Audiology}
+      \field{number}{2}
+      \field{title}{Criteria to Classify Children as Having Auditory Processing Disorders}
+      \field{volume}{27}
+      \field{year}{2018}
+      \field{pages}{173\bibrangedash 183}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1044/2018_aja-17-0091
+      \endverb
+    \endentry
+    \entry{Zalcman2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=57161d6fe8a59cbe3508c8a31c5deb4e}{%
+           family={Zalcman},
+           familyi={Z\bibinitperiod},
+           given={Tatiane\bibnamedelima Eisencraft},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=46bf967308cea810f1e8572406e27c2b}{%
+           family={Schochat},
+           familyi={S\bibinitperiod},
+           given={Eliane},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8511dd12cd5321f2608c26476b8af25}
+      \strng{fullhash}{c8511dd12cd5321f2608c26476b8af25}
+      \strng{bibnamehash}{c8511dd12cd5321f2608c26476b8af25}
+      \strng{authorbibnamehash}{c8511dd12cd5321f2608c26476b8af25}
+      \strng{authornamehash}{c8511dd12cd5321f2608c26476b8af25}
+      \strng{authorfullhash}{c8511dd12cd5321f2608c26476b8af25}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista da Sociedade Brasileira de Fonoaudiologia}
+      \field{number}{4}
+      \field{title}{A eficácia do treinamento auditivo formal em indivíduos com transtorno de processamento auditivo}
+      \field{volume}{12}
+      \field{year}{2007}
+      \field{pages}{310\bibrangedash 314}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1590/s1516-80342007000400010
+      \endverb
+    \endentry
+    \entry{Zhao2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6e0ed1099dc33cb926ada1f6908b21e4}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=101c1c00664a7680863aeb7ebb1d82f7}{%
+           family={Kuhl},
+           familyi={K\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{ee0aa36f64996c8ab15ac448e5fa4578}
+      \strng{fullhash}{ee0aa36f64996c8ab15ac448e5fa4578}
+      \strng{bibnamehash}{ee0aa36f64996c8ab15ac448e5fa4578}
+      \strng{authorbibnamehash}{ee0aa36f64996c8ab15ac448e5fa4578}
+      \strng{authornamehash}{ee0aa36f64996c8ab15ac448e5fa4578}
+      \strng{authorfullhash}{ee0aa36f64996c8ab15ac448e5fa4578}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PROSPECTS}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Effects of enriched auditory experience on infants' speech perception during the first year of life.}
+      \field{volume}{46}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s11125-017-9397-6
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Baptista2015}
+\endrefsection
+\endinput
+

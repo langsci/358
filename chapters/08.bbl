@@ -1,0 +1,3860 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Adamaszek2013}{article}{}
+      \name{author}{8}{}{%
+        {{hash=b9ecd0d644291474b94856863f0305d4}{%
+           family={Adamaszek},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=66ec8b5c10c766ae5536035b845a1608}{%
+           family={D'Agata},
+           familyi={D\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cb1dcfabd71e8e73c147c3a479bb1881}{%
+           family={Kirkby},
+           familyi={K\bibinitperiod},
+           given={Ken\bibnamedelima C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=caa785db965e6ca99c2e41a7432ea58e}{%
+           family={Trenner},
+           familyi={T\bibinitperiod},
+           given={Maja\bibnamedelima U.},
+           giveni={M\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=439e7a8845a064e2dcbb4daf94971679}{%
+           family={Sehm},
+           familyi={S\bibinitperiod},
+           given={Berbhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=aaf9978d0668a21528aa7afb71a0afc1}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7be69edc3555da61c690366053a85c6d}{%
+           family={Berneiser},
+           familyi={B\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=47b1bf1452f8dd5b14a44c4bfbc5cf85}{%
+           family={Strecker},
+           familyi={S\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{d870edb2d543e6880c082093fa7df59c}
+      \strng{fullhash}{ce708ffabb4393b12c5753e30a905f56}
+      \strng{bibnamehash}{ce708ffabb4393b12c5753e30a905f56}
+      \strng{authorbibnamehash}{ce708ffabb4393b12c5753e30a905f56}
+      \strng{authornamehash}{d870edb2d543e6880c082093fa7df59c}
+      \strng{authorfullhash}{ce708ffabb4393b12c5753e30a905f56}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Cerebellum}
+      \field{number}{3}
+      \field{title}{Impairment of emotional facial expression and prosody discrimination due to ischemic cerebellar lesions.}
+      \field{volume}{13}
+      \field{year}{2013}
+      \field{pages}{338\bibrangedash 345}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s12311-013-0537-0
+      \endverb
+    \endentry
+    \entry{Alpert2001}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1355dab3f0d1de14953cb45f8a35927f}{%
+           family={Alpert},
+           familyi={A\bibinitperiod},
+           given={Murray},
+           giveni={M\bibinitperiod}}}%
+        {{hash=88552a22433a84c5f6bc16043d61ef2e}{%
+           family={Pouget},
+           familyi={P\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod}}}%
+        {{hash=13819329a6ce8b11cd5b416ec9b7f47e}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Raul},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7daf51dd6471b5da0dd384dadb4e559}
+      \strng{fullhash}{19cabef7efff7c6c21a4710fd697fde0}
+      \strng{bibnamehash}{19cabef7efff7c6c21a4710fd697fde0}
+      \strng{authorbibnamehash}{19cabef7efff7c6c21a4710fd697fde0}
+      \strng{authornamehash}{c7daf51dd6471b5da0dd384dadb4e559}
+      \strng{authorfullhash}{19cabef7efff7c6c21a4710fd697fde0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Affective Disorders}
+      \field{title}{Reflections of depression in acoustic measures of the patient’s speech.}
+      \field{volume}{66}
+      \field{year}{2001}
+      \field{pages}{59\bibrangedash 69}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/s0165-0327(00)00335-9
+      \endverb
+    \endentry
+    \entry{Baltaxe1985}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=571d40e8d7e1ada4be5e66b625e39c8f}{%
+           family={Baltaxe},
+           familyi={B\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8df340122eaf5f6ddd0d4885ea34c600}{%
+           family={Simmons},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3829953722e667378c76d055afc61418}{%
+           family={Schopler},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=18775a4550252a1bd89f2b296124ea62}{%
+           family={Mesiboy},
+           familyi={M\bibinitperiod},
+           given={Gary\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Plenum Press}%
+      }
+      \strng{namehash}{38c981ad2442164a154b46218bba29cb}
+      \strng{fullhash}{38c981ad2442164a154b46218bba29cb}
+      \strng{bibnamehash}{38c981ad2442164a154b46218bba29cb}
+      \strng{authorbibnamehash}{38c981ad2442164a154b46218bba29cb}
+      \strng{authornamehash}{38c981ad2442164a154b46218bba29cb}
+      \strng{authorfullhash}{38c981ad2442164a154b46218bba29cb}
+      \strng{editorbibnamehash}{60604a60e0969748d3d855579f68e220}
+      \strng{editornamehash}{60604a60e0969748d3d855579f68e220}
+      \strng{editorfullhash}{60604a60e0969748d3d855579f68e220}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Communication problems in autism}
+      \field{title}{Prosodic development in normal and autistic children.}
+      \field{year}{1985}
+      \field{pages}{95\bibrangedash 125}
+      \range{pages}{31}
+    \endentry
+    \entry{Bernard2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=02906ed2a2dc2d0fbe651c44f6b9ea4a}{%
+           family={Bernard},
+           familyi={B\bibinitperiod},
+           given={Carline},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bc116728710827e138da3d68d891e0c3}{%
+           family={Gervain},
+           familyi={G\bibinitperiod},
+           given={Judit},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{582a4137b365544ec92fe779a09e1b81}
+      \strng{fullhash}{582a4137b365544ec92fe779a09e1b81}
+      \strng{bibnamehash}{582a4137b365544ec92fe779a09e1b81}
+      \strng{authorbibnamehash}{582a4137b365544ec92fe779a09e1b81}
+      \strng{authornamehash}{582a4137b365544ec92fe779a09e1b81}
+      \strng{authorfullhash}{582a4137b365544ec92fe779a09e1b81}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{Prosodic cues to word order: what level of representation?}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{pages}{451}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2012.00451
+      \endverb
+    \endentry
+    \entry{Bhide2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bfddfc5e9c25408e136fb1e0a6fd0452}{%
+           family={Bhide},
+           familyi={B\bibinitperiod},
+           given={Adeetee},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1b36c89fbdefb373a47c9d3bde12430f}{%
+           family={Power},
+           familyi={P\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eac219dd8c9f05a9b0507d3186dd9c26}{%
+           family={Goswami},
+           familyi={G\bibinitperiod},
+           given={Usha},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4d735a748e557dcbf1cbd5555c38b8e}
+      \strng{fullhash}{0ffd8b4d9c8a49dd3a8022877624e53f}
+      \strng{bibnamehash}{0ffd8b4d9c8a49dd3a8022877624e53f}
+      \strng{authorbibnamehash}{0ffd8b4d9c8a49dd3a8022877624e53f}
+      \strng{authornamehash}{e4d735a748e557dcbf1cbd5555c38b8e}
+      \strng{authorfullhash}{0ffd8b4d9c8a49dd3a8022877624e53f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mind, Brain, and Education}
+      \field{number}{2}
+      \field{title}{A rhythmic musical intervention for poor readers: A comparison of efficacy with a letter-based intervention.}
+      \field{volume}{7}
+      \field{year}{2013}
+      \field{pages}{113\bibrangedash 123}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1111/mbe.12016
+      \endverb
+    \endentry
+    \entry{Bunton2000}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3022769ee81d2c2c2a7459663e43c06e}{%
+           family={Bunton},
+           familyi={B\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9c825091568ca384c7a2677007a43f6a}{%
+           family={Kent},
+           familyi={K\bibinitperiod},
+           given={Ray\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c9958610cc49234448e6d32d0f639c58}{%
+           family={Kent},
+           familyi={K\bibinitperiod},
+           given={Jane\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=0075620927ab6515f0c28c241a5ec092}{%
+           family={Rosenbek},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c072946cba1ba1c7eaf957f660a32dc5}
+      \strng{fullhash}{c92d0910b0228f07b8d36da1cddd1d2e}
+      \strng{bibnamehash}{c92d0910b0228f07b8d36da1cddd1d2e}
+      \strng{authorbibnamehash}{c92d0910b0228f07b8d36da1cddd1d2e}
+      \strng{authornamehash}{c072946cba1ba1c7eaf957f660a32dc5}
+      \strng{authorfullhash}{c92d0910b0228f07b8d36da1cddd1d2e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Linguistics \& Phonetics}
+      \field{title}{Perceptuo-acoustic assessment of prosodic impairment in dysarthria.}
+      \field{volume}{14}
+      \field{year}{2000}
+      \field{pages}{13\bibrangedash 24}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/026992000298922
+      \endverb
+    \endentry
+    \entry{Butler2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0c5e6531acd3a64b2e9b49a9856224b}
+      \strng{fullhash}{f0c5e6531acd3a64b2e9b49a9856224b}
+      \strng{bibnamehash}{f0c5e6531acd3a64b2e9b49a9856224b}
+      \strng{authorbibnamehash}{f0c5e6531acd3a64b2e9b49a9856224b}
+      \strng{authornamehash}{f0c5e6531acd3a64b2e9b49a9856224b}
+      \strng{authorfullhash}{f0c5e6531acd3a64b2e9b49a9856224b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Child Language}
+      \field{number}{6}
+      \field{title}{Emerging word segmentation abilities in European Portuguese-learning infants: New evidence for the rhythmic unit and the edge factor.}
+      \field{volume}{45}
+      \field{year}{2018}
+      \field{pages}{1294\bibrangedash 1308}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1017/s0305000918000181
+      \endverb
+    \endentry
+    \entry{Butler2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fcc3329e8e07739f6381cd72540a9335}
+      \strng{fullhash}{62d191edbff8ca7b8da98b656347b39d}
+      \strng{bibnamehash}{62d191edbff8ca7b8da98b656347b39d}
+      \strng{authorbibnamehash}{62d191edbff8ca7b8da98b656347b39d}
+      \strng{authornamehash}{fcc3329e8e07739f6381cd72540a9335}
+      \strng{authorfullhash}{62d191edbff8ca7b8da98b656347b39d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language, Learning and Development}
+      \field{number}{1}
+      \field{title}{Infants' perception of the intonation of broad and narrow focus.}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1080/15475441.2015.1020376
+      \endverb
+    \endentry
+    \entry{Cameirao2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a9e336d8ab44544c45a641e6caa0813a}{%
+           family={Cameirão},
+           familyi={C\bibinitperiod},
+           given={Manuela\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=67287a192eaf9f1dccb1750ac5b6dbc1}{%
+           family={Vicente},
+           familyi={V\bibinitperiod},
+           given={Selene\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1eaba04d7c41a68b26b2dc0d80f48a0e}
+      \strng{fullhash}{1eaba04d7c41a68b26b2dc0d80f48a0e}
+      \strng{bibnamehash}{1eaba04d7c41a68b26b2dc0d80f48a0e}
+      \strng{authorbibnamehash}{1eaba04d7c41a68b26b2dc0d80f48a0e}
+      \strng{authornamehash}{1eaba04d7c41a68b26b2dc0d80f48a0e}
+      \strng{authorfullhash}{1eaba04d7c41a68b26b2dc0d80f48a0e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{number}{2}
+      \field{title}{Age-of-acquisition norms for a set of 1,749 portuguese words.}
+      \field{volume}{42}
+      \field{year}{2010}
+      \field{pages}{474\bibrangedash 480}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.3758/brm.42.2.474
+      \endverb
+    \endentry
+    \entry{Catterall2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6ebc4ea34f0e8f8887ccfa88514546b3}{%
+           family={Catterall},
+           familyi={C\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a4145ffc0136957571e8682c3a965f0f}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a3850a56374aae320fba7f7de5849c98}{%
+           family={Stojanovik},
+           familyi={S\bibinitperiod},
+           given={Vesna},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ffe0051992a367cec82bd69e4aced0db}{%
+           family={Szczerbinski},
+           familyi={S\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d001d8f8890d36473d5a0538177091e6}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{636b265dd895174e5d9f9786b97f2c2f}
+      \strng{fullhash}{7ed477b27a05e612f5bfaa24d81e1f7e}
+      \strng{bibnamehash}{7ed477b27a05e612f5bfaa24d81e1f7e}
+      \strng{authorbibnamehash}{7ed477b27a05e612f5bfaa24d81e1f7e}
+      \strng{authornamehash}{636b265dd895174e5d9f9786b97f2c2f}
+      \strng{authorfullhash}{7ed477b27a05e612f5bfaa24d81e1f7e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Linguistics Phonetics}
+      \field{number}{7-8}
+      \field{title}{Investigating prosodic ability in Williams syndrome.}
+      \field{volume}{20}
+      \field{year}{2006}
+      \field{pages}{531\bibrangedash 538}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1080/02699200500266380
+      \endverb
+    \endentry
+    \entry{Chen2018}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=5df958bb588a3b877aaf8b64fe8389d2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Aoju},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=307fc45fc6ded92d3ce72bc728c47acc}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ce4e8de5476b999517f816ac5a02440f}{%
+           family={Esteve-Gibert},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Núria},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{5df958bb588a3b877aaf8b64fe8389d2}
+      \strng{fullhash}{5df958bb588a3b877aaf8b64fe8389d2}
+      \strng{bibnamehash}{5df958bb588a3b877aaf8b64fe8389d2}
+      \strng{authorbibnamehash}{5df958bb588a3b877aaf8b64fe8389d2}
+      \strng{authornamehash}{5df958bb588a3b877aaf8b64fe8389d2}
+      \strng{authorfullhash}{5df958bb588a3b877aaf8b64fe8389d2}
+      \strng{editorbibnamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editornamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editorfullhash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The development of prosody in first language acquisition}
+      \field{title}{Get the focus right across languages: Acquisition of prosodic focus-marking in production.}
+      \field{year}{2018}
+      \field{pages}{295\bibrangedash 314}
+      \range{pages}{20}
+    \endentry
+    \entry{Christophe2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fe9c5ac6382a5db2711719a4209bf169}{%
+           family={Christophe},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2493da894fced338aaad082fbd47e7fa}{%
+           family={Millotte},
+           familyi={M\bibinitperiod},
+           given={Séverine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d32b45b08771c5819b3f8a4a9bc39d5c}{%
+           family={Bernal},
+           familyi={B\bibinitperiod},
+           given={Savita},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c8093eaea0c94e98097680f099582e7f}{%
+           family={Lidz},
+           familyi={L\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{16a4bb7650ec34d5bb7b19d4fd004f73}
+      \strng{fullhash}{2a4033d1c7604d66d31859fbd5c3670c}
+      \strng{bibnamehash}{2a4033d1c7604d66d31859fbd5c3670c}
+      \strng{authorbibnamehash}{2a4033d1c7604d66d31859fbd5c3670c}
+      \strng{authornamehash}{16a4bb7650ec34d5bb7b19d4fd004f73}
+      \strng{authorfullhash}{2a4033d1c7604d66d31859fbd5c3670c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language and Speech}
+      \field{number}{1\&2}
+      \field{title}{Bootstrapping lexical and syntactic acquisition.}
+      \field{volume}{51}
+      \field{year}{2008}
+      \field{pages}{61\bibrangedash 75}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1177/00238309080510010501
+      \endverb
+    \endentry
+    \entry{Corriveau2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e187f6ccf8a63efee7b672d7d7387548}{%
+           family={Corriveau},
+           familyi={C\bibinitperiod},
+           given={Kathleen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fa8b75054b3d355130026cfa8b668a5f}{%
+           family={Pasquini},
+           familyi={P\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=eac219dd8c9f05a9b0507d3186dd9c26}{%
+           family={Goswami},
+           familyi={G\bibinitperiod},
+           given={Usha},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{814ff2d2363a39083a1e8e65fa81f1b3}
+      \strng{fullhash}{c9e23749a449dd9ffd7e5b7e4a360c6a}
+      \strng{bibnamehash}{c9e23749a449dd9ffd7e5b7e4a360c6a}
+      \strng{authorbibnamehash}{c9e23749a449dd9ffd7e5b7e4a360c6a}
+      \strng{authornamehash}{814ff2d2363a39083a1e8e65fa81f1b3}
+      \strng{authorfullhash}{c9e23749a449dd9ffd7e5b7e4a360c6a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{number}{3}
+      \field{title}{Basic auditory processing skills and specific language impairment: A new look at an old hypothesis.}
+      \field{volume}{50}
+      \field{year}{2007}
+      \field{pages}{647\bibrangedash 666}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1044/1092-4388(2007/046)
+      \endverb
+    \endentry
+    \entry{Crystal1982}{book}{}
+      \name{author}{1}{}{%
+        {{hash=053f710dd43df2f700163f96a01a2053}{%
+           family={Crystal},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Edward Arnold}%
+      }
+      \strng{namehash}{053f710dd43df2f700163f96a01a2053}
+      \strng{fullhash}{053f710dd43df2f700163f96a01a2053}
+      \strng{bibnamehash}{053f710dd43df2f700163f96a01a2053}
+      \strng{authorbibnamehash}{053f710dd43df2f700163f96a01a2053}
+      \strng{authornamehash}{053f710dd43df2f700163f96a01a2053}
+      \strng{authorfullhash}{053f710dd43df2f700163f96a01a2053}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Profiling linguistic disability.}
+      \field{year}{1982}
+    \endentry
+    \entry{Carvalho2018}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=a9b249cab9782a57ce11613914bd631e}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=bb56dd33da21f31a3158b3ab4c01f1c0}{%
+           family={Dautriche},
+           familyi={D\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2493da894fced338aaad082fbd47e7fa}{%
+           family={Millotte},
+           familyi={M\bibinitperiod},
+           given={Séverine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe9c5ac6382a5db2711719a4209bf169}{%
+           family={Christophe},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=307fc45fc6ded92d3ce72bc728c47acc}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ce4e8de5476b999517f816ac5a02440f}{%
+           family={Esteve-Gibert},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Núria},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{cfe3e355751260a914ced95a771f59a4}
+      \strng{fullhash}{7672b3270632189f7403876f0d54e9c1}
+      \strng{bibnamehash}{7672b3270632189f7403876f0d54e9c1}
+      \strng{authorbibnamehash}{7672b3270632189f7403876f0d54e9c1}
+      \strng{authornamehash}{cfe3e355751260a914ced95a771f59a4}
+      \strng{authorfullhash}{7672b3270632189f7403876f0d54e9c1}
+      \strng{editorbibnamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editornamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editorfullhash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The development of prosody in first language acquisition}
+      \field{title}{Early perception of phrasal prosody and its role in syntactic and lexical acquisition.}
+      \field{year}{2018}
+      \field{pages}{17\bibrangedash 35}
+      \range{pages}{19}
+    \endentry
+    \entry{Enderby2008}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e22a8f2385e21d9ca412c2a2ac6f3d60}{%
+           family={Enderby},
+           familyi={E\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=05aa64f9e5386ec668a63aa0c39cfc71}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin, TX}%
+      }
+      \list{publisher}{1}{%
+        {PRO-ED}%
+      }
+      \strng{namehash}{fe894973634661b58c23dc8d5d995c02}
+      \strng{fullhash}{fe894973634661b58c23dc8d5d995c02}
+      \strng{bibnamehash}{fe894973634661b58c23dc8d5d995c02}
+      \strng{authorbibnamehash}{fe894973634661b58c23dc8d5d995c02}
+      \strng{authornamehash}{fe894973634661b58c23dc8d5d995c02}
+      \strng{authorfullhash}{fe894973634661b58c23dc8d5d995c02}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second}
+      \field{title}{Frenchay Dysarthria Assessment (FDA).}
+      \field{year}{2008}
+    \endentry
+    \entry{Filipe2016}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=3431747b5610d5e48bd3e4e2e6c40191}{%
+           family={Filipe},
+           familyi={F\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e1bc8a31c1ba0f50f1fbc77e114f5030}{%
+           family={Villagomez},
+           familyi={V\bibinitperiod},
+           given={Adrienne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=67287a192eaf9f1dccb1750ac5b6dbc1}{%
+           family={Vicente},
+           familyi={V\bibinitperiod},
+           given={Selene\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=6eee9f387c1e27f7d933f5f028a8b3cc}{%
+           family={Armstrong},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3f10987ea042f8b3e31967793a1a910e}{%
+           family={Enricksen},
+           familyi={E\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5bea37f247ef5e40ef734996bee127fb}{%
+           family={Vanrell},
+           familyi={V\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia, USA}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{cdaebcf3e8026184c00b6222c54544ef}
+      \strng{fullhash}{70a026a57c1ca325a99c595e55c19e74}
+      \strng{bibnamehash}{70a026a57c1ca325a99c595e55c19e74}
+      \strng{authorbibnamehash}{70a026a57c1ca325a99c595e55c19e74}
+      \strng{authornamehash}{cdaebcf3e8026184c00b6222c54544ef}
+      \strng{authorfullhash}{70a026a57c1ca325a99c595e55c19e74}
+      \strng{editorbibnamehash}{a1b4f94238b6fd4a5b36cba81a88298d}
+      \strng{editornamehash}{ebd599c3690e51cc2cad151633de80cd}
+      \strng{editorfullhash}{a1b4f94238b6fd4a5b36cba81a88298d}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intonational grammar in Ibero-Romance: Approaches across linguistic subfields}
+      \field{title}{Prosody in Portuguese children with high-functioning autism.}
+      \field{year}{2016}
+    \endentry
+    \entry{Filipeempreparacao}{book}{}
+      \name{author}{5}{}{%
+        {{hash=3431747b5610d5e48bd3e4e2e6c40191}{%
+           family={Filipe},
+           familyi={F\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=28c8a2b4359f8bea12e3ee03bc302b15}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b763e9accfa288771f86ef326ca6825}{%
+           family={Severino},
+           familyi={S\bibinitperiod},
+           given={Cátia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cdaebcf3e8026184c00b6222c54544ef}
+      \strng{fullhash}{b4ecc0633cf4bbe36496def65c098ee7}
+      \strng{bibnamehash}{b4ecc0633cf4bbe36496def65c098ee7}
+      \strng{authorbibnamehash}{b4ecc0633cf4bbe36496def65c098ee7}
+      \strng{authornamehash}{cdaebcf3e8026184c00b6222c54544ef}
+      \strng{authorfullhash}{b4ecc0633cf4bbe36496def65c098ee7}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Development and validation of ProsoQuest – a parental report of toddlers’ prosodic skills.}
+      \field{year}{em preparação}
+    \endentry
+    \entry{Filipe2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=86e606340a4bfcf1ed122e4bfd96b08e}{%
+           family={Filipe},
+           familyi={F\bibinitperiod},
+           given={Marisa\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2fe37d59bb71a34030e971b5ffb63ae8}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={São\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=67287a192eaf9f1dccb1750ac5b6dbc1}{%
+           family={Vicente},
+           familyi={V\bibinitperiod},
+           given={Selene\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{00d147b4605971fecea19dcd61079a20}
+      \strng{fullhash}{8a8823df07d69a9a8de4d8f97b4ae72a}
+      \strng{bibnamehash}{8a8823df07d69a9a8de4d8f97b4ae72a}
+      \strng{authorbibnamehash}{8a8823df07d69a9a8de4d8f97b4ae72a}
+      \strng{authornamehash}{00d147b4605971fecea19dcd61079a20}
+      \strng{authorfullhash}{8a8823df07d69a9a8de4d8f97b4ae72a}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Autism and Developmental Disorders}
+      \field{number}{8}
+      \field{title}{Atypical prosody in Asperger syndrome: Perceptual and acoustic measurements}
+      \field{volume}{44}
+      \field{year}{2014}
+      \field{pages}{1972\bibrangedash 1981}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s10803-014-2073-2
+      \endverb
+    \endentry
+    \entry{Filipe2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=86e606340a4bfcf1ed122e4bfd96b08e}{%
+           family={Filipe},
+           familyi={F\bibinitperiod},
+           given={Marisa\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=5bab69328cb76e9356800cd140833743}{%
+           family={Peppé},
+           familyi={P\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=67287a192eaf9f1dccb1750ac5b6dbc1}{%
+           family={Vicente},
+           familyi={V\bibinitperiod},
+           given={Selene\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{00d147b4605971fecea19dcd61079a20}
+      \strng{fullhash}{ae345fcfb7a2e2de6e7b8a69639dc81e}
+      \strng{bibnamehash}{ae345fcfb7a2e2de6e7b8a69639dc81e}
+      \strng{authorbibnamehash}{ae345fcfb7a2e2de6e7b8a69639dc81e}
+      \strng{authornamehash}{00d147b4605971fecea19dcd61079a20}
+      \strng{authorfullhash}{ae345fcfb7a2e2de6e7b8a69639dc81e}
+      \field{extraname}{4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Psycholinguistics}
+      \field{number}{5}
+      \field{title}{Prosodic development in European Portuguese from childhood to adulthood.}
+      \field{volume}{38}
+      \field{year}{2017}
+      \field{pages}{1045\bibrangedash 1070}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1017/s0142716417000030
+      \endverb
+    \endentry
+    \entry{Fine1991}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f13bc4307a96447d507f42cf1909bfe9}{%
+           family={Fine},
+           familyi={F\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=70ba6b175b4f674e5631f4e81959f4f8}{%
+           family={Bartolucci},
+           familyi={B\bibinitperiod},
+           given={Giampierro},
+           giveni={G\bibinitperiod}}}%
+        {{hash=20e40081f1b5351b9cca62158c3cb9e6}{%
+           family={Ginsberg},
+           familyi={G\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cbe8ca970d0a5da3fb1a27b68d918e55}{%
+           family={Szatmari},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{27b3e8bd9e6f5cc032ac001f3ddb6e9e}
+      \strng{fullhash}{c0d2c9b439e296002deabc3fdca1668a}
+      \strng{bibnamehash}{c0d2c9b439e296002deabc3fdca1668a}
+      \strng{authorbibnamehash}{c0d2c9b439e296002deabc3fdca1668a}
+      \strng{authornamehash}{27b3e8bd9e6f5cc032ac001f3ddb6e9e}
+      \strng{authorfullhash}{c0d2c9b439e296002deabc3fdca1668a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Child Psychology and Psychiatry}
+      \field{number}{5}
+      \field{title}{The use of intonation to communicate in pervasive developmental disorders}
+      \field{volume}{32}
+      \field{year}{1991}
+      \field{pages}{771\bibrangedash 782}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/j.1469-7610.1991.tb01901.x
+      \endverb
+    \endentry
+    \entry{Frota2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Garland}%
+      }
+      \strng{namehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{fullhash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{bibnamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authorbibnamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authornamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authorfullhash}{8e6c19d22669e5e31c63e923f08bea40}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prosody and focus in European Portuguese. Phonological phrasing and intonation.}
+      \field{year}{2000}
+    \endentry
+    \entry{Frota2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=dce1e2eb811115ab1af925288563ab10}{%
+           family={Cohn},
+           familyi={C\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod}}}%
+        {{hash=37dc783fe878c2039fcd98e991fb479b}{%
+           family={Fougeron},
+           familyi={F\bibinitperiod},
+           given={Cécile},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6361ee70628a3fd24fe008013cfa4688}{%
+           family={Huffman},
+           familyi={H\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{fullhash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{bibnamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authorbibnamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authornamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authorfullhash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{editorbibnamehash}{b41d02fdb8e7f1e849f6bc3df1fa94b7}
+      \strng{editornamehash}{6c54f22fd188ad7253117e13b58922e4}
+      \strng{editorfullhash}{b41d02fdb8e7f1e849f6bc3df1fa94b7}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Oxford handbook of laboratory phonology}
+      \field{title}{Prosodic structure, constituents and their implementation.}
+      \field{year}{2012}
+      \field{pages}{255\bibrangedash 265}
+      \range{pages}{11}
+    \endentry
+    \entry{Frota2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1cc7608589761f34c7dd1a0da85ee0bd}{%
+           family={Jun},
+           familyi={J\bibinitperiod},
+           given={S.-A.},
+           giveni={S\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{fullhash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{bibnamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authorbibnamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authornamehash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{authorfullhash}{8e6c19d22669e5e31c63e923f08bea40}
+      \strng{editorbibnamehash}{1cc7608589761f34c7dd1a0da85ee0bd}
+      \strng{editornamehash}{1cc7608589761f34c7dd1a0da85ee0bd}
+      \strng{editorfullhash}{1cc7608589761f34c7dd1a0da85ee0bd}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Prosodic typology II,}
+      \field{title}{The intonational phonology of European Portuguese.}
+      \field{year}{2014}
+      \field{pages}{6\bibrangedash 42}
+      \range{pages}{37}
+    \endentry
+    \entry{Frota2018}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=307fc45fc6ded92d3ce72bc728c47acc}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ce4e8de5476b999517f816ac5a02440f}{%
+           family={Esteve-Gibert},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Núria},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia/USA}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{4739f17e3bdd6e5f03c51a1a60eef925}
+      \strng{fullhash}{4739f17e3bdd6e5f03c51a1a60eef925}
+      \strng{bibnamehash}{4739f17e3bdd6e5f03c51a1a60eef925}
+      \strng{authorbibnamehash}{4739f17e3bdd6e5f03c51a1a60eef925}
+      \strng{authornamehash}{4739f17e3bdd6e5f03c51a1a60eef925}
+      \strng{authorfullhash}{4739f17e3bdd6e5f03c51a1a60eef925}
+      \strng{editorbibnamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editornamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editorfullhash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The development of prosody in first language acquisition}
+      \field{title}{Early development of intonation: perception and production.}
+      \field{year}{2018}
+      \field{pages}{145\bibrangedash 164}
+      \range{pages}{20}
+    \endentry
+    \entry{Frota2016a}{article}{}
+      \name{author}{6}{ul=3}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ce6d8c6792c323300822dbc075484ea7}{%
+           family={Correia},
+           familyi={C\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2b763e9accfa288771f86ef326ca6825}{%
+           family={Severino},
+           familyi={S\bibinitperiod},
+           given={Cátia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=67287a192eaf9f1dccb1750ac5b6dbc1}{%
+           family={Vicente},
+           familyi={V\bibinitperiod},
+           given={Selene\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6539255128d22dc1271dced0251b4bd0}
+      \strng{fullhash}{d0410abd83e08f4a790e1e7d348f2176}
+      \strng{bibnamehash}{d0410abd83e08f4a790e1e7d348f2176}
+      \strng{authorbibnamehash}{d0410abd83e08f4a790e1e7d348f2176}
+      \strng{authornamehash}{6539255128d22dc1271dced0251b4bd0}
+      \strng{authorfullhash}{d0410abd83e08f4a790e1e7d348f2176}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{First Language}
+      \field{number}{5}
+      \field{title}{Infant communicative development assessed with the European Portuguese MacArthur-Bates Communicative Development Inventories Short forms.}
+      \field{volume}{36}
+      \field{year}{2016}
+      \field{pages}{525\bibrangedash 545}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1177/0142723716648867
+      \endverb
+    \endentry
+    \entry{Frota2019}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2b763e9accfa288771f86ef326ca6825}{%
+           family={Severino},
+           familyi={S\bibinitperiod},
+           given={Cátia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b02d78d2b3f9953135d48fca8c377ee3}{%
+           family={Uysal},
+           familyi={U\bibinitperiod},
+           given={Ertugrul},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Canberra, Australia}%
+      }
+      \list{publisher}{1}{%
+        {ASSTA}%
+      }
+      \strng{namehash}{f0294266591aacbe1356c7d42855281e}
+      \strng{fullhash}{f3a584b64dfedbc9ad2af66b89ece6d7}
+      \strng{bibnamehash}{f3a584b64dfedbc9ad2af66b89ece6d7}
+      \strng{authorbibnamehash}{f3a584b64dfedbc9ad2af66b89ece6d7}
+      \strng{authornamehash}{f0294266591aacbe1356c7d42855281e}
+      \strng{authorfullhash}{f3a584b64dfedbc9ad2af66b89ece6d7}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019}
+      \field{title}{Infant perception of prosodic boundaries without the pause cue: an eye-tracking study.}
+      \field{year}{2019}
+      \field{pages}{3160\bibrangedash 3164}
+      \range{pages}{5}
+    \endentry
+    \entry{Frota2020}{article}{}
+      \name{author}{5}{ul=3}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b02d78d2b3f9953135d48fca8c377ee3}{%
+           family={Uysal},
+           familyi={U\bibinitperiod},
+           given={Ertugrul},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2b763e9accfa288771f86ef326ca6825}{%
+           family={Severino},
+           familyi={S\bibinitperiod},
+           given={Cátia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{74fe6537e85cfe3349d718ea2a86444c}
+      \strng{fullhash}{a065184c7662a7a55844c5ebda17f330}
+      \strng{bibnamehash}{a065184c7662a7a55844c5ebda17f330}
+      \strng{authorbibnamehash}{a065184c7662a7a55844c5ebda17f330}
+      \strng{authornamehash}{74fe6537e85cfe3349d718ea2a86444c}
+      \strng{authorfullhash}{a065184c7662a7a55844c5ebda17f330}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{European Portuguese-learning infants look longer at iambic stress: New data on language specificity in early stress perception.}
+      \field{volume}{11}
+      \field{year}{2020}
+      \field{pages}{1890}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2020.01890
+      \endverb
+    \endentry
+    \entry{Frota2014a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0294266591aacbe1356c7d42855281e}
+      \strng{fullhash}{c68a85ad593ff46f926aa461fc976f62}
+      \strng{bibnamehash}{c68a85ad593ff46f926aa461fc976f62}
+      \strng{authorbibnamehash}{c68a85ad593ff46f926aa461fc976f62}
+      \strng{authornamehash}{f0294266591aacbe1356c7d42855281e}
+      \strng{authorfullhash}{c68a85ad593ff46f926aa461fc976f62}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Infancy}
+      \field{number}{2}
+      \field{title}{Infants' perception of intonation: Is it a statement or a question?}
+      \field{volume}{19}
+      \field{year}{2014}
+      \field{pages}{194\bibrangedash 213}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/infa.12037
+      \endverb
+    \endentry
+    \entry{Frota2012b}{book}{}
+      \name{author}{6}{ul=2}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ce6d8c6792c323300822dbc075484ea7}{%
+           family={Correia},
+           familyi={C\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2b763e9accfa288771f86ef326ca6825}{%
+           family={Severino},
+           familyi={S\bibinitperiod},
+           given={Cátia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=28c8a2b4359f8bea12e3ee03bc302b15}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e94bf65b12ce74dfa35225c6df356547}{%
+           family={Cortês},
+           familyi={C\bibinitperiod},
+           given={Simão},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lisboa}%
+      }
+      \list{publisher}{1}{%
+        {Laboratório de Fonética CLUL/FLUL}%
+      }
+      \strng{namehash}{6f05e618e87a09eab9f9aed673e06a9b}
+      \strng{fullhash}{d14175c5b5fb38fac8e3c98a143897ce}
+      \strng{bibnamehash}{d14175c5b5fb38fac8e3c98a143897ce}
+      \strng{authorbibnamehash}{d14175c5b5fb38fac8e3c98a143897ce}
+      \strng{authornamehash}{6f05e618e87a09eab9f9aed673e06a9b}
+      \strng{authorfullhash}{d14175c5b5fb38fac8e3c98a143897ce}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-989-95713-6-5}
+      \field{title}{PLEX5 – A production lexicon of child speech for European Portuguese / Um léxico Infantil para o Português Europeu.}
+      \field{year}{2012}
+    \endentry
+    \entry{Frota2021}{article}{}
+      \name{author}{7}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=28c8a2b4359f8bea12e3ee03bc302b15}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e917d0040eda8a61ce3e95a2ae1aefb5}{%
+           family={Cardoso},
+           familyi={C\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0193621900bcad9e74800d831b3b4973}{%
+           family={Guimarães},
+           familyi={G\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+        {{hash=59d2de644671d9596ccf71fd6577b655}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Joaquim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3b5237843a432f17d4981dab1cc9e25f}{%
+           family={Pinto},
+           familyi={P\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0294266591aacbe1356c7d42855281e}
+      \strng{fullhash}{e3dfaae8b3ce115fe6357834ead13f7b}
+      \strng{bibnamehash}{e3dfaae8b3ce115fe6357834ead13f7b}
+      \strng{authorbibnamehash}{e3dfaae8b3ce115fe6357834ead13f7b}
+      \strng{authornamehash}{f0294266591aacbe1356c7d42855281e}
+      \strng{authorfullhash}{e3dfaae8b3ce115fe6357834ead13f7b}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain Sciences}
+      \field{number}{8}
+      \field{title}{(Dys)Prosody in Parkinson's Disease: Effects of Medication and Disease Duration on Intonation and Prosodic Phrasing}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{1100}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/brainsci11081100
+      \endverb
+    \endentry
+    \entry{Frota2016b}{incollection}{}
+      \name{author}{4}{ul=3}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=28c8a2b4359f8bea12e3ee03bc302b15}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f179166efa4baea271b6cea81f8374de}{%
+           family={Matos},
+           familyi={M\bibinitperiod},
+           given={Nuno},
+           giveni={N\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=5776909d26e95f18d9be663f621f13e7}{%
+           family={Henriksen},
+           familyi={H\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6eee9f387c1e27f7d933f5f028a8b3cc}{%
+           family={Armstrong},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5bea37f247ef5e40ef734996bee127fb}{%
+           family={Vanrell},
+           familyi={V\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia, USA}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{ede10e7087c0ea0283af28a3e6ebb79a}
+      \strng{fullhash}{596afb3d219acb4fe79023bed25e17f0}
+      \strng{bibnamehash}{596afb3d219acb4fe79023bed25e17f0}
+      \strng{authorbibnamehash}{596afb3d219acb4fe79023bed25e17f0}
+      \strng{authornamehash}{ede10e7087c0ea0283af28a3e6ebb79a}
+      \strng{authorfullhash}{596afb3d219acb4fe79023bed25e17f0}
+      \strng{editorbibnamehash}{5e2b2361e334a085371774ecb386695f}
+      \strng{editornamehash}{37a7b0db262d2a420a67f52bc32a32a4}
+      \strng{editorfullhash}{5e2b2361e334a085371774ecb386695f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Interdisciplinary approaches to intonational grammar in Ibero-Romance}
+      \field{title}{Early prosodic development: Emerging intonation and phrasing in European Portuguese.}
+      \field{year}{2016}
+      \field{pages}{295\bibrangedash 324}
+      \range{pages}{30}
+    \endentry
+    \entry{Frota2012a}{book}{}
+      \name{author}{6}{ul=3}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=28c8a2b4359f8bea12e3ee03bc302b15}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b763e9accfa288771f86ef326ca6825}{%
+           family={Severino},
+           familyi={S\bibinitperiod},
+           given={Cátia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ce6d8c6792c323300822dbc075484ea7}{%
+           family={Correia},
+           familyi={C\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Laboratório de Fonética}%
+      }
+      \list{publisher}{1}{%
+        {CLUL/FLUL}%
+      }
+      \strng{namehash}{b826add82eb9a19641678298eb27f624}
+      \strng{fullhash}{0d412fc38d4b0398b192a2c900e49879}
+      \strng{bibnamehash}{0d412fc38d4b0398b192a2c900e49879}
+      \strng{authorbibnamehash}{0d412fc38d4b0398b192a2c900e49879}
+      \strng{authornamehash}{b826add82eb9a19641678298eb27f624}
+      \strng{authorfullhash}{0d412fc38d4b0398b192a2c900e49879}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-989-95713-7-2}
+      \field{title}{Proso-Quest – Questionário Parental sobre o desenvolvimento da estrutura prosódica e entoação.}
+      \field{year}{2012}
+    \endentry
+    \entry{Frota2016}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=993283a26a90a83ca129db40a3442ac5}{%
+           family={Moraes},
+           familyi={M\bibinitperiod},
+           given={João\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=2990a6c120151949d88def6c664a6b71}{%
+           family={Wetzels},
+           familyi={W\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=cea23e01a00da270676fc2942539a654}{%
+           family={Menuzzi},
+           familyi={M\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7a94956ad3d0ff2b06999df6364b5e9d}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Malden}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{4c9f025ceb80a145720261ba8d2630b9}
+      \strng{fullhash}{4c9f025ceb80a145720261ba8d2630b9}
+      \strng{bibnamehash}{4c9f025ceb80a145720261ba8d2630b9}
+      \strng{authorbibnamehash}{4c9f025ceb80a145720261ba8d2630b9}
+      \strng{authornamehash}{4c9f025ceb80a145720261ba8d2630b9}
+      \strng{authorfullhash}{4c9f025ceb80a145720261ba8d2630b9}
+      \strng{editorbibnamehash}{220c8219afbcae3d2b1a99c425c26034}
+      \strng{editornamehash}{8e13cae338a83bce30f3556c868f548d}
+      \strng{editorfullhash}{220c8219afbcae3d2b1a99c425c26034}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The handbook of Portuguese linguistics}
+      \field{title}{Intonation in European and Brazilian Portuguese.}
+      \field{year}{2016}
+      \field{pages}{141\bibrangedash 166}
+      \range{pages}{26}
+    \endentry
+    \entry{Frota2017}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bf0920ae324b941d229dbda76c323ea7}{%
+           family={Name},
+           familyi={N\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0bffc5fa3875137f137c44fdbd3c1d39}{%
+           family={Freitas},
+           familyi={F\bibinitperiod},
+           given={Maria\bibnamedelima João},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a28a56109802b2177412b459570f336e}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Ana\bibnamedelima Lúcia},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{89916512fd17b27d379fed39c1956b08}
+      \strng{fullhash}{89916512fd17b27d379fed39c1956b08}
+      \strng{bibnamehash}{89916512fd17b27d379fed39c1956b08}
+      \strng{authorbibnamehash}{89916512fd17b27d379fed39c1956b08}
+      \strng{authornamehash}{89916512fd17b27d379fed39c1956b08}
+      \strng{authorfullhash}{89916512fd17b27d379fed39c1956b08}
+      \strng{editorbibnamehash}{c9f39285fda066a2e7ebf1b17860a083}
+      \strng{editornamehash}{c9f39285fda066a2e7ebf1b17860a083}
+      \strng{editorfullhash}{c9f39285fda066a2e7ebf1b17860a083}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Aquisição de língua materna e não materna: Questões gerais e dados do português}
+      \field{title}{Questões de perceção em língua materna. (Textbooks in Language Sciences 3)}
+      \field{year}{2017}
+      \field{pages}{35\bibrangedash 50}
+      \range{pages}{16}
+    \endentry
+    \entry{Frota2020a}{inproceedings}{}
+      \name{author}{4}{ul=2}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d1c9b717a28273eb773de3e735943793}{%
+           family={Pejovic},
+           familyi={P\bibinitperiod},
+           given={Jovana},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2b763e9accfa288771f86ef326ca6825}{%
+           family={Severino},
+           familyi={S\bibinitperiod},
+           given={Cátia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{681ec7961961609943f9166011210212}
+      \strng{fullhash}{fc3dd74a4168c727b3240e740bdab6d1}
+      \strng{bibnamehash}{fc3dd74a4168c727b3240e740bdab6d1}
+      \strng{authorbibnamehash}{fc3dd74a4168c727b3240e740bdab6d1}
+      \strng{authornamehash}{681ec7961961609943f9166011210212}
+      \strng{authorfullhash}{fc3dd74a4168c727b3240e740bdab6d1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 10th International Conference on Speech Prosody 2020}
+      \field{title}{Looking for the edge: emerging segmentation abilities in atypical development.}
+      \field{year}{2020}
+      \field{pages}{814\bibrangedash 818}
+      \range{pages}{5}
+    \endentry
+    \entry{Frota2015}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=307fc45fc6ded92d3ce72bc728c47acc}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f01ac23c71a47ab1733ca64b64a4eacb}
+      \strng{fullhash}{f01ac23c71a47ab1733ca64b64a4eacb}
+      \strng{bibnamehash}{f01ac23c71a47ab1733ca64b64a4eacb}
+      \strng{editorbibnamehash}{f01ac23c71a47ab1733ca64b64a4eacb}
+      \strng{editornamehash}{f01ac23c71a47ab1733ca64b64a4eacb}
+      \strng{editorfullhash}{f01ac23c71a47ab1733ca64b64a4eacb}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Intonation in Romance}
+      \field{year}{2015}
+    \endentry
+    \entry{Frota2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{fullhash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{bibnamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authorbibnamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authornamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authorfullhash}{e1959a3404f795c190c272c424d7b90f}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Probus}
+      \field{title}{On the correlates of rhythmic distinctions. The European/Brazilian Portuguese case.}
+      \field{volume}{13}
+      \field{year}{2001}
+      \field{pages}{247\bibrangedash 273}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1515/prbs.2001.005
+      \endverb
+    \endentry
+    \entry{Frota2003}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{9}{}{%
+        {{hash=6b4e1727c4ac8caf90fc1fc0572f4741}{%
+           family={Mateus},
+           familyi={M\bibinitperiod},
+           given={Maria\bibnamedelima Helena},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=859ab9fb36d5353859b615a095b38dc6}{%
+           family={Faria},
+           familyi={F\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+        {{hash=bd8720577d47ae1bad1fb60e1276cd9c}{%
+           family={Duarte},
+           familyi={D\bibinitperiod},
+           given={Inês},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7869eb94ecd0ac3d1b913568e6fe3950}{%
+           family={Brito},
+           familyi={B\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c4f4c012e597ccdb5c7da84de2a69dc9}{%
+           family={Matos},
+           familyi={M\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod}}}%
+        {{hash=897e199689002761f11317295beeb722}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Fátima},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4b6e476befbb33fd75bdb7f9a90ecfc2}{%
+           family={Villalva},
+           familyi={V\bibinitperiod},
+           given={Alina},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lisboa}%
+      }
+      \list{publisher}{1}{%
+        {Caminho}%
+      }
+      \strng{namehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{fullhash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{bibnamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authorbibnamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authornamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authorfullhash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{editorbibnamehash}{cbc1b535f6c5cce96184bbb5a8335e01}
+      \strng{editornamehash}{c8ef1e4ffdbd8ca39ee35cfc41c0e320}
+      \strng{editorfullhash}{cbc1b535f6c5cce96184bbb5a8335e01}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Gramática da Língua Portuguesa}
+      \field{edition}{5th edn. revised \& extended}
+      \field{title}{Constituintes prosódicos.}
+      \field{year}{2003}
+      \field{pages}{1059\bibrangedash 1076}
+      \range{pages}{18}
+    \endentry
+    \entry{Frota2018a}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=50fedf4af97dad6fd155084ac1c2a4ef}{%
+           family={Aronoff},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{fullhash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{bibnamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authorbibnamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authornamehash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{authorfullhash}{e1959a3404f795c190c272c424d7b90f}
+      \strng{editorbibnamehash}{50fedf4af97dad6fd155084ac1c2a4ef}
+      \strng{editornamehash}{50fedf4af97dad6fd155084ac1c2a4ef}
+      \strng{editorfullhash}{50fedf4af97dad6fd155084ac1c2a4ef}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Oxford Research Encyclopedia in Linguistics.}
+      \field{title}{Syntax-phonology interface.}
+      \field{year}{2018}
+    \endentry
+    \entry{Goswami2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eac219dd8c9f05a9b0507d3186dd9c26}{%
+           family={Goswami},
+           familyi={G\bibinitperiod},
+           given={Usha},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{eac219dd8c9f05a9b0507d3186dd9c26}
+      \strng{fullhash}{eac219dd8c9f05a9b0507d3186dd9c26}
+      \strng{bibnamehash}{eac219dd8c9f05a9b0507d3186dd9c26}
+      \strng{authorbibnamehash}{eac219dd8c9f05a9b0507d3186dd9c26}
+      \strng{authornamehash}{eac219dd8c9f05a9b0507d3186dd9c26}
+      \strng{authorfullhash}{eac219dd8c9f05a9b0507d3186dd9c26}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{number}{1}
+      \field{title}{A temporal sampling framework for developmental dyslexia.}
+      \field{volume}{15}
+      \field{year}{2011}
+      \field{pages}{3\bibrangedash 10}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.tics.2010.10.001
+      \endverb
+    \endentry
+    \entry{Goswami2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=eac219dd8c9f05a9b0507d3186dd9c26}{%
+           family={Goswami},
+           familyi={G\bibinitperiod},
+           given={Usha},
+           giveni={U\bibinitperiod}}}%
+        {{hash=d52c2ba0f94f9a2f7ec7889188068841}{%
+           family={Gerson},
+           familyi={G\bibinitperiod},
+           given={Danielle},
+           giveni={D\bibinitperiod}}}%
+        {{hash=155fca66214decb7c5fa98128541fdb3}{%
+           family={Astruc},
+           familyi={A\bibinitperiod},
+           given={Luisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c987a48b09c41ac43e0e2c9a43b0edb}
+      \strng{fullhash}{a262f1d9fbe81f6baa99dbe76addc170}
+      \strng{bibnamehash}{a262f1d9fbe81f6baa99dbe76addc170}
+      \strng{authorbibnamehash}{a262f1d9fbe81f6baa99dbe76addc170}
+      \strng{authornamehash}{2c987a48b09c41ac43e0e2c9a43b0edb}
+      \strng{authorfullhash}{a262f1d9fbe81f6baa99dbe76addc170}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reading \& Writing}
+      \field{title}{Amplitude envelope perception, phonology and prosodic sensitivity in children with developmental dyslexia.}
+      \field{volume}{23}
+      \field{year}{2010}
+      \field{pages}{995\bibrangedash 1019}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/s11145-009-9186-6
+      \endverb
+    \endentry
+    \entry{Grossman2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0b6629ea10eb8ca5f3666b4099a1a815}{%
+           family={Grossman},
+           familyi={G\bibinitperiod},
+           given={Ruth\bibnamedelima B},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=622266fdde8271be33bf1e7adfa04905}{%
+           family={Bemis},
+           familyi={B\bibinitperiod},
+           given={Rhyannon\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=3b7b49e6a9a923fc9088e2846a742517}{%
+           family={Plesa-Skwerer},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6c5a0f3ae95abdecd025b49ea438d41e}{%
+           family={Tager-Flusberg},
+           familyi={T\bibinithyphendelim F\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{512a87e464fc844bda21677815ac39ce}
+      \strng{fullhash}{2b52a5f5b88b90959a2d113fce4f5ac5}
+      \strng{bibnamehash}{2b52a5f5b88b90959a2d113fce4f5ac5}
+      \strng{authorbibnamehash}{2b52a5f5b88b90959a2d113fce4f5ac5}
+      \strng{authornamehash}{512a87e464fc844bda21677815ac39ce}
+      \strng{authorfullhash}{2b52a5f5b88b90959a2d113fce4f5ac5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{number}{3}
+      \field{title}{Lexical and affective prosody in children with high-functioning autism.}
+      \field{volume}{53}
+      \field{year}{2010}
+      \field{pages}{778\bibrangedash 793}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1044/1092-4388(2009/08-0127)
+      \endverb
+    \endentry
+    \entry{Gussenhoven2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9764bbb78ebf4a22342f2aea0e74c06f}{%
+           family={Gussenhoven},
+           familyi={G\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{9764bbb78ebf4a22342f2aea0e74c06f}
+      \strng{fullhash}{9764bbb78ebf4a22342f2aea0e74c06f}
+      \strng{bibnamehash}{9764bbb78ebf4a22342f2aea0e74c06f}
+      \strng{authorbibnamehash}{9764bbb78ebf4a22342f2aea0e74c06f}
+      \strng{authornamehash}{9764bbb78ebf4a22342f2aea0e74c06f}
+      \strng{authorfullhash}{9764bbb78ebf4a22342f2aea0e74c06f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The phonology of tone and intonation.}
+      \field{year}{2004}
+    \endentry
+    \entry{Hargrove2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a91ffbb47009ac56ae4bbbf04db9762f}{%
+           family={Hargrove},
+           familyi={H\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a91ffbb47009ac56ae4bbbf04db9762f}
+      \strng{fullhash}{a91ffbb47009ac56ae4bbbf04db9762f}
+      \strng{bibnamehash}{a91ffbb47009ac56ae4bbbf04db9762f}
+      \strng{authorbibnamehash}{a91ffbb47009ac56ae4bbbf04db9762f}
+      \strng{authornamehash}{a91ffbb47009ac56ae4bbbf04db9762f}
+      \strng{authorfullhash}{a91ffbb47009ac56ae4bbbf04db9762f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Linguistics \& Phonetics}
+      \field{number}{8}
+      \field{title}{Pursuing prosody interventions.}
+      \field{volume}{27}
+      \field{year}{2013}
+      \field{pages}{647\bibrangedash 60}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.3109/02699206.2013.777121
+      \endverb
+    \endentry
+    \entry{Hargrove2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a91ffbb47009ac56ae4bbbf04db9762f}{%
+           family={Hargrove},
+           familyi={H\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=34f0faae0707001872ebab17104d201f}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=77a59fe3196690f18ce6c903b6667965}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{16032012e5a30bce40ae1d9cf67ac2a5}
+      \strng{fullhash}{256c8c308a75b979a76f3981275ba052}
+      \strng{bibnamehash}{256c8c308a75b979a76f3981275ba052}
+      \strng{authorbibnamehash}{256c8c308a75b979a76f3981275ba052}
+      \strng{authornamehash}{16032012e5a30bce40ae1d9cf67ac2a5}
+      \strng{authorfullhash}{256c8c308a75b979a76f3981275ba052}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Speech-Language Pathology}
+      \field{number}{4}
+      \field{title}{A critical review of interventions targeting prosody.}
+      \field{volume}{11}
+      \field{year}{2009}
+      \field{pages}{298\bibrangedash 304}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1080/17549500902969477
+      \endverb
+    \endentry
+    \entry{Heselwood1995}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1a0724c7f59085b6cf0ac78ee4df8ae1}{%
+           family={Heselwood},
+           familyi={H\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5710ceb286c9550a156695895213fc49}{%
+           family={Bray},
+           familyi={B\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8d82690cf6e73d04ebe8f2dea7c0f592}{%
+           family={Crookston},
+           familyi={C\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd06b5f8dc8db93781bf6af4329b313d}
+      \strng{fullhash}{97b9472ee36d2ebabd9704ebaee4a7ab}
+      \strng{bibnamehash}{97b9472ee36d2ebabd9704ebaee4a7ab}
+      \strng{authorbibnamehash}{97b9472ee36d2ebabd9704ebaee4a7ab}
+      \strng{authornamehash}{dd06b5f8dc8db93781bf6af4329b313d}
+      \strng{authorfullhash}{97b9472ee36d2ebabd9704ebaee4a7ab}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Linguistics \& Phonetics}
+      \field{number}{2}
+      \field{title}{Juncture, rhythm and planning in the speech of an adult with Down's syndrome.}
+      \field{volume}{9}
+      \field{year}{1995}
+      \field{pages}{121\bibrangedash 137}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.3109/02699209508985328
+      \endverb
+    \endentry
+    \entry{Jun2005}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=ff8f5a6cb27b8f4a0c2ef8e639031060}{%
+           family={Jun},
+           familyi={J\bibinitperiod},
+           given={Sun-Ah.},
+           giveni={S\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{fullhash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{bibnamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{editorbibnamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{editornamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{editorfullhash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \field{extraname}{1}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Prosodic typology I: the phonology of intonation and phrasing.}
+      \field{year}{2005}
+    \endentry
+    \entry{Jun2014}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=ff8f5a6cb27b8f4a0c2ef8e639031060}{%
+           family={Jun},
+           familyi={J\bibinitperiod},
+           given={Sun-Ah.},
+           giveni={S\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{fullhash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{bibnamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{editorbibnamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{editornamehash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \strng{editorfullhash}{ff8f5a6cb27b8f4a0c2ef8e639031060}
+      \field{extraname}{2}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Prosodic typology II: the phonology of intonation and phrasing.}
+      \field{year}{2014}
+    \endentry
+    \entry{Kent2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9c825091568ca384c7a2677007a43f6a}{%
+           family={Kent},
+           familyi={K\bibinitperiod},
+           given={Ray\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=aba21cd2736463ad6e089add3490e65c}{%
+           family={Vorperian},
+           familyi={V\bibinitperiod},
+           given={Houri\bibnamedelima K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{5710353b7e8c64105cf92b7b07c16836}
+      \strng{fullhash}{5710353b7e8c64105cf92b7b07c16836}
+      \strng{bibnamehash}{5710353b7e8c64105cf92b7b07c16836}
+      \strng{authorbibnamehash}{5710353b7e8c64105cf92b7b07c16836}
+      \strng{authornamehash}{5710353b7e8c64105cf92b7b07c16836}
+      \strng{authorfullhash}{5710353b7e8c64105cf92b7b07c16836}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech Language and Hearing Research}
+      \field{title}{Speech impairment in Down syndrome: A review.}
+      \field{volume}{56}
+      \field{year}{2013}
+      \field{pages}{178\bibrangedash 210}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1044/1092-4388(2012/12-0148)
+      \endverb
+    \endentry
+    \entry{Ladd2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5771c25b226504e80cfc1cd3b0bd9e50}{%
+           family={Ladd},
+           familyi={L\bibinitperiod},
+           given={D.\bibnamedelimi Robert},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{fullhash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{bibnamehash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{authorbibnamehash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{authornamehash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \strng{authorfullhash}{5771c25b226504e80cfc1cd3b0bd9e50}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Intonational phonology.}
+      \field{year}{2008}
+    \endentry
+    \entry{Lu2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=bf777009716d4138e952aeb64410f6a1}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Shuang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ce6d8c6792c323300822dbc075484ea7}{%
+           family={Correia},
+           familyi={C\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=492e237ef1d69237b0e321617e1e7712}{%
+           family={Jerónimo},
+           familyi={J\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{365e43bc0797e6becaecdef131f2307b}
+      \strng{fullhash}{1d811f70c5b74719248cb7b494223a98}
+      \strng{bibnamehash}{1d811f70c5b74719248cb7b494223a98}
+      \strng{authorbibnamehash}{1d811f70c5b74719248cb7b494223a98}
+      \strng{authornamehash}{365e43bc0797e6becaecdef131f2307b}
+      \strng{authorfullhash}{1d811f70c5b74719248cb7b494223a98}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{title}{Revisiting stress “deafness” in European Portuguese – A Behavioral and ERP study.}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{2486}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2018.02486
+      \endverb
+    \endentry
+    \entry{MartinezCastilla2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f44d2ac0de2bc0ffa5743b13e434f14a}{%
+           family={Martínez-Castilla},
+           familyi={M\bibinithyphendelim C\bibinitperiod},
+           given={Pastora},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7983f7185e038c61576a2e307b5b63cd}{%
+           family={Sotillo},
+           familyi={S\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ecda895ee9ce307c0a68299eb9b6e900}{%
+           family={Campos},
+           familyi={C\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{189932c42ed24818f69c3f59ac9a47cd}
+      \strng{fullhash}{c634d0d38517f2e6e60d8c21ff43369e}
+      \strng{bibnamehash}{c634d0d38517f2e6e60d8c21ff43369e}
+      \strng{authorbibnamehash}{c634d0d38517f2e6e60d8c21ff43369e}
+      \strng{authornamehash}{189932c42ed24818f69c3f59ac9a47cd}
+      \strng{authorfullhash}{c634d0d38517f2e6e60d8c21ff43369e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language and Cognitive Processes}
+      \field{title}{Prosodic abilities of Spanish-speaking adolescents and adults with Williams syndrome.}
+      \field{volume}{26}
+      \field{year}{2011}
+      \field{pages}{1055\bibrangedash 1082}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1080/01690965.2010.504058
+      \endverb
+    \endentry
+    \entry{MasonApps2011}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=e514691e76b7ce58914c4703e5c68612}{%
+           family={Mason-Apps},
+           familyi={M\bibinithyphendelim A\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a3850a56374aae320fba7f7de5849c98}{%
+           family={Stojanovik},
+           familyi={S\bibinitperiod},
+           given={Vesna},
+           giveni={V\bibinitperiod}}}%
+        {{hash=dc4674cbb59d32633d98daaba1f176f2}{%
+           family={Houston-Price},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={Carmel},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hong Kong}%
+      }
+      \strng{namehash}{246bddc2e0f5298ab9bc0c7a8ab0ec6a}
+      \strng{fullhash}{42f0f751e9e00cc32d660c142952216b}
+      \strng{bibnamehash}{42f0f751e9e00cc32d660c142952216b}
+      \strng{authorbibnamehash}{42f0f751e9e00cc32d660c142952216b}
+      \strng{authornamehash}{246bddc2e0f5298ab9bc0c7a8ab0ec6a}
+      \strng{authorfullhash}{42f0f751e9e00cc32d660c142952216b}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 17th International Conference on Phonetic Sciences}
+      \field{title}{Early word segmentation in typically developing infants and infants with Down Syndrome: A preliminary study.}
+      \field{year}{2011}
+      \field{pages}{1334\bibrangedash 1337}
+      \range{pages}{4}
+    \endentry
+    \entry{MasonApps2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e514691e76b7ce58914c4703e5c68612}{%
+           family={Mason-Apps},
+           familyi={M\bibinithyphendelim A\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=79f2f453e0b8612f1b05ab15a403a222}{%
+           family={Stojanovika},
+           familyi={S\bibinitperiod},
+           given={Vesna},
+           giveni={V\bibinitperiod}}}%
+        {{hash=dc4674cbb59d32633d98daaba1f176f2}{%
+           family={Houston-Price},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={Carmel},
+           giveni={C\bibinitperiod}}}%
+        {{hash=de7230402ef3631232aee6e064a28b3f}{%
+           family={Buckley},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{246bddc2e0f5298ab9bc0c7a8ab0ec6a}
+      \strng{fullhash}{3f8436a4385f75da1789a43e285ca464}
+      \strng{bibnamehash}{3f8436a4385f75da1789a43e285ca464}
+      \strng{authorbibnamehash}{3f8436a4385f75da1789a43e285ca464}
+      \strng{authornamehash}{246bddc2e0f5298ab9bc0c7a8ab0ec6a}
+      \strng{authorfullhash}{3f8436a4385f75da1789a43e285ca464}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research in developmental disabilities}
+      \field{title}{Longitudinal predictors of early language in infants with Down syndrome: A preliminary study.}
+      \field{volume}{81}
+      \field{year}{2018}
+      \field{pages}{37\bibrangedash 51}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.ridd.2017.12.021
+      \endverb
+    \endentry
+    \entry{McCann2003}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6a32898f9ccd9ffad2da988c80a20382}{%
+           family={McCann},
+           familyi={M\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5bab69328cb76e9356800cd140833743}{%
+           family={Peppé},
+           familyi={P\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f43de29bfb97456e98f3d03f1eb54796}
+      \strng{fullhash}{f43de29bfb97456e98f3d03f1eb54796}
+      \strng{bibnamehash}{f43de29bfb97456e98f3d03f1eb54796}
+      \strng{authorbibnamehash}{f43de29bfb97456e98f3d03f1eb54796}
+      \strng{authornamehash}{f43de29bfb97456e98f3d03f1eb54796}
+      \strng{authorfullhash}{f43de29bfb97456e98f3d03f1eb54796}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Language \& Communication Disorders}
+      \field{number}{4}
+      \field{title}{Prosody in autism spectrum disorders: A critical review.}
+      \field{volume}{38}
+      \field{year}{2003}
+      \field{pages}{325\bibrangedash 350}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1080/1368282031000154204
+      \endverb
+    \endentry
+    \entry{McCann2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6a32898f9ccd9ffad2da988c80a20382}{%
+           family={McCann},
+           familyi={M\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5bab69328cb76e9356800cd140833743}{%
+           family={Peppé},
+           familyi={P\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b1b5f800d24ceaf6fe43f9f487e1168c}{%
+           family={Fiona\bibnamedelimb E.\bibnamedelimi Gibbon},
+           familyi={F\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Anne\bibnamedelimb O'Hare\bibnamedelimb \& Marion\bibnamedelima Rutherford},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6de47d550763998a936ef01f5645c9f3}
+      \strng{fullhash}{56047a33f3a20e4f88e7e388797cb76a}
+      \strng{bibnamehash}{56047a33f3a20e4f88e7e388797cb76a}
+      \strng{authorbibnamehash}{56047a33f3a20e4f88e7e388797cb76a}
+      \strng{authornamehash}{6de47d550763998a936ef01f5645c9f3}
+      \strng{authorfullhash}{56047a33f3a20e4f88e7e388797cb76a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Language and Communication Disorders}
+      \field{number}{6}
+      \field{title}{Prosody and its relationship to language in school-aged children with high-functioning autism.}
+      \field{volume}{42}
+      \field{year}{2007}
+      \field{pages}{682\bibrangedash 702}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/13682820601170102
+      \endverb
+    \endentry
+    \entry{McGregor1994}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0b11663b69ca7bbf33557295312db1cf}{%
+           family={McGregor},
+           familyi={M\bibinitperiod},
+           given={Karla\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=ba8f31706b8c225464666aad603a7000}{%
+           family={Leonard},
+           familyi={L\bibinitperiod},
+           given={Leonard\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4228ecec366c431ad16b7a01824ceef6}
+      \strng{fullhash}{4228ecec366c431ad16b7a01824ceef6}
+      \strng{bibnamehash}{4228ecec366c431ad16b7a01824ceef6}
+      \strng{authorbibnamehash}{4228ecec366c431ad16b7a01824ceef6}
+      \strng{authornamehash}{4228ecec366c431ad16b7a01824ceef6}
+      \strng{authorfullhash}{4228ecec366c431ad16b7a01824ceef6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech and Hearing Research}
+      \field{number}{1}
+      \field{title}{Subject pronoun and article omissions in the speech of children with specific language impairment: A phonological interpretation.}
+      \field{volume}{37}
+      \field{year}{1994}
+      \field{pages}{171\bibrangedash 181}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1044/jshr.3701.171
+      \endverb
+    \endentry
+    \entry{Nadig2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e1b851a4ab58e474d7220546744d2fe3}{%
+           family={Nadig},
+           familyi={N\bibinitperiod},
+           given={Aparna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=63132bfdfe09db86e2be70495058c467}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Holly},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a94f31210f577845b998d8069fe0bc4}
+      \strng{fullhash}{2a94f31210f577845b998d8069fe0bc4}
+      \strng{bibnamehash}{2a94f31210f577845b998d8069fe0bc4}
+      \strng{authorbibnamehash}{2a94f31210f577845b998d8069fe0bc4}
+      \strng{authornamehash}{2a94f31210f577845b998d8069fe0bc4}
+      \strng{authorfullhash}{2a94f31210f577845b998d8069fe0bc4}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Autism and Development Disorders}
+      \field{title}{Acoustic and perceptual measurement of expressive prosody in high-functioning autism: Increased pitch range and what it means to listeners.}
+      \field{volume}{42}
+      \field{year}{2012}
+      \field{pages}{499\bibrangedash 511}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s10803-011-1264-3
+      \endverb
+    \endentry
+    \entry{Nazzi2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=7c15923d84a5bcffb34bf0423b98f5fb}{%
+           family={Nazzi},
+           familyi={N\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3c540abc42ef3dd75bd8e589614ddce1}{%
+           family={Iakimova},
+           familyi={I\bibinitperiod},
+           given={Galina},
+           giveni={G\bibinitperiod}}}%
+        {{hash=55b056190a84291b265c3c0a9d6ef995}{%
+           family={Bertoncini},
+           familyi={B\bibinitperiod},
+           given={Josiane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7661db510da421b3f9399481ef438068}{%
+           family={Fredonie},
+           familyi={F\bibinitperiod},
+           given={Séverine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5b8a003ecc7620e16f49ed248a2d78f3}{%
+           family={Alcántara},
+           familyi={A\bibinitperiod},
+           given={Carmela},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{333726a2c94583b97df02076be3e923e}
+      \strng{fullhash}{621c507d0bef94e05aa809598aa9de02}
+      \strng{bibnamehash}{621c507d0bef94e05aa809598aa9de02}
+      \strng{authorbibnamehash}{621c507d0bef94e05aa809598aa9de02}
+      \strng{authornamehash}{333726a2c94583b97df02076be3e923e}
+      \strng{authorfullhash}{621c507d0bef94e05aa809598aa9de02}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{title}{Early segmentation of fluent speech by infants acquiring French: Emerging evidence for crosslinguistic differences.}
+      \field{volume}{54}
+      \field{year}{2006}
+      \field{pages}{283\bibrangedash 299}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.jml.2005.10.004
+      \endverb
+    \endentry
+    \entry{Nazzi2003}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7c15923d84a5bcffb34bf0423b98f5fb}{%
+           family={Nazzi},
+           familyi={N\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9e6108f6adfc2733c1227cfe9c18d4b6}{%
+           family={Paterson},
+           familyi={P\bibinitperiod},
+           given={Sarah\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dc2c89dd99910b6d65d0e1ba0e63ae0e}{%
+           family={Karmiloff-Smith},
+           familyi={K\bibinithyphendelim S\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{333726a2c94583b97df02076be3e923e}
+      \strng{fullhash}{11499501272e985d484452c535b5a2d7}
+      \strng{bibnamehash}{11499501272e985d484452c535b5a2d7}
+      \strng{authorbibnamehash}{11499501272e985d484452c535b5a2d7}
+      \strng{authornamehash}{333726a2c94583b97df02076be3e923e}
+      \strng{authorfullhash}{11499501272e985d484452c535b5a2d7}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Infancy}
+      \field{title}{Word segmentation by infants with Williams syndrome.}
+      \field{volume}{4}
+      \field{year}{2003}
+      \field{pages}{251\bibrangedash 271}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1207/S15327078IN0402_06
+      \endverb
+    \endentry
+    \entry{Nespor2007}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9f6b4b6dd4fb670bbdd67eeae63b2eec}{%
+           family={Nespor},
+           familyi={N\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ef14d3eaaf864f76ec04753fac756199}{%
+           family={Vogel},
+           familyi={V\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/New York}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{fullhash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{bibnamehash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{authorbibnamehash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{authornamehash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \strng{authorfullhash}{7b3771a8d0d48ca92a14cf973294fb40}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Prosodic phonology.}
+      \field{year}{2007}
+    \endentry
+    \entry{Parker1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0c5186960b101ab56d9abecbddc03a21}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Ann},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7f8c0a90063649cef6b7ee3414f3af08}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2125fda9c855a148e05145e649310312}
+      \strng{fullhash}{2125fda9c855a148e05145e649310312}
+      \strng{bibnamehash}{2125fda9c855a148e05145e649310312}
+      \strng{authorbibnamehash}{2125fda9c855a148e05145e649310312}
+      \strng{authornamehash}{2125fda9c855a148e05145e649310312}
+      \strng{authorfullhash}{2125fda9c855a148e05145e649310312}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Developmental speech disorders}
+      \field{title}{Deaf children's phonological development.}
+      \field{year}{1990}
+      \field{pages}{83\bibrangedash 108}
+      \range{pages}{26}
+    \endentry
+    \entry{Pascual2005}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0943f975a5783c1e8b13c84a0b87ce65}{%
+           family={Pascual},
+           familyi={P\bibinitperiod},
+           given={Sergi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=153c1b32cace98715fd6485fc553d9ef}{%
+           family={Solé},
+           familyi={S\bibinitperiod},
+           given={Brisa},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae7fd9c735653bb2e5ff00d8fb2efa5a}{%
+           family={Castillón},
+           familyi={C\bibinitperiod},
+           given={Juan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=63394a344828587d674f80e5de32e995}{%
+           family={Abadia},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi Jesús},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ea0ea0709b0c7911ecd708890a10bccc}{%
+           family={Tejedor},
+           familyi={T\bibinitperiod},
+           given={M.\bibnamedelimi Carmen},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a065f4f22461b4e2ad2890e979ef60e}
+      \strng{fullhash}{bbb9a5053443eb5782cdebc43737030d}
+      \strng{bibnamehash}{bbb9a5053443eb5782cdebc43737030d}
+      \strng{authorbibnamehash}{bbb9a5053443eb5782cdebc43737030d}
+      \strng{authornamehash}{5a065f4f22461b4e2ad2890e979ef60e}
+      \strng{authorfullhash}{bbb9a5053443eb5782cdebc43737030d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de psiquiatría de la Facultad de Medicina Barcelona}
+      \field{title}{Prosódia afetiva y reconocimiento facial y verbal de la emoción en la esquizofrenia.}
+      \field{volume}{32}
+      \field{year}{2005}
+      \field{pages}{179\bibrangedash 183}
+      \range{pages}{5}
+    \endentry
+    \entry{Paul2005}{article}{}
+      \name{author}{4}{}{%
+        {{hash=217d8da4491631b0492e9149e0a403a0}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Rhea},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7dfee4f59acf9da1e72530264f292fd4}{%
+           family={Augustyn},
+           familyi={A\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=541a9cb2f5e358efd62913bdd89d98f0}{%
+           family={Klin},
+           familyi={K\bibinitperiod},
+           given={Ami},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f9a43d462fc2c827cea3769ed712f3f0}{%
+           family={Volkmar},
+           familyi={V\bibinitperiod},
+           given={Fred\bibnamedelima R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb06c2b7a8ad7f9be18502191f874e74}
+      \strng{fullhash}{2436b319209ebbf955edcd8e140e50e8}
+      \strng{bibnamehash}{2436b319209ebbf955edcd8e140e50e8}
+      \strng{authorbibnamehash}{2436b319209ebbf955edcd8e140e50e8}
+      \strng{authornamehash}{fb06c2b7a8ad7f9be18502191f874e74}
+      \strng{authorfullhash}{2436b319209ebbf955edcd8e140e50e8}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Autism Developmental Disorders}
+      \field{number}{2}
+      \field{title}{Perception and production of prosody by speakers with autism spectrum disorders.}
+      \field{volume}{35}
+      \field{year}{2005}
+      \field{pages}{205\bibrangedash 220}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s10803-004-1999-1
+      \endverb
+    \endentry
+    \entry{Penner2008}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d68d0d23f875454cac14f896ea578a25}{%
+           family={Penner},
+           familyi={P\bibinitperiod},
+           given={Heike},
+           giveni={H\bibinitperiod}}}%
+        {{hash=373d07184ee7e953a7164cedbcd8849e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f21f450feaa796ffb3f0a56c046bdb23}{%
+           family={Uttenweiler},
+           familyi={U\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=54dd9a7c923cfca51bc9567971145482}{%
+           family={Hertrich},
+           familyi={H\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f576c55a716947b7a108470909963a9c}{%
+           family={Ackermann},
+           familyi={A\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{43ad2d99ef89a03a0ae839da900b66e1}
+      \strng{fullhash}{76f574634577635678f91c4587d3e5e6}
+      \strng{bibnamehash}{76f574634577635678f91c4587d3e5e6}
+      \strng{authorbibnamehash}{76f574634577635678f91c4587d3e5e6}
+      \strng{authornamehash}{43ad2d99ef89a03a0ae839da900b66e1}
+      \strng{authorfullhash}{76f574634577635678f91c4587d3e5e6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sprache-Stimme-Gehör}
+      \field{title}{Effects of the Lee Silverman Voice Treatments (LSVT) on prosody in speakers suffering from Parkinson's disease.}
+      \field{volume}{32}
+      \field{year}{2008}
+      \field{pages}{64\bibrangedash 73}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1055/s-2008-1077065
+      \endverb
+    \endentry
+    \entry{Peppe2018}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=5bab69328cb76e9356800cd140833743}{%
+           family={Peppé},
+           familyi={P\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=307fc45fc6ded92d3ce72bc728c47acc}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ce4e8de5476b999517f816ac5a02440f}{%
+           family={Esteve-Gibert},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Núria},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{5bab69328cb76e9356800cd140833743}
+      \strng{fullhash}{5bab69328cb76e9356800cd140833743}
+      \strng{bibnamehash}{5bab69328cb76e9356800cd140833743}
+      \strng{authorbibnamehash}{5bab69328cb76e9356800cd140833743}
+      \strng{authornamehash}{5bab69328cb76e9356800cd140833743}
+      \strng{authorfullhash}{5bab69328cb76e9356800cd140833743}
+      \strng{editorbibnamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editornamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editorfullhash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The development of prosody in first language acquisition.}
+      \field{title}{Prosodic development in atypical populations.}
+      \field{year}{2018}
+      \field{pages}{343\bibrangedash 362}
+      \range{pages}{20}
+    \endentry
+    \entry{Peppe2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5bab69328cb76e9356800cd140833743}{%
+           family={Peppé},
+           familyi={P\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+        {{hash=671f777b91b8e697cc591a2cd46e530d}{%
+           family={Cleland},
+           familyi={C\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a6ee87b8e70a21b59564b5d29f786ec4}{%
+           family={Gibbon},
+           familyi={G\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b306e32490eca381868e76fa2e32123f}{%
+           family={O’Hare},
+           familyi={O\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b5a154a0e3d1dae41f685f9de3a97401}{%
+           family={Mastínez-Castilla},
+           familyi={M\bibinithyphendelim C\bibinitperiod},
+           given={Pastora},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{58ddea0553a4a47aee9f1d7125b192b0}
+      \strng{fullhash}{ae54a409671a1211e4b1dbaf4363dc53}
+      \strng{bibnamehash}{ae54a409671a1211e4b1dbaf4363dc53}
+      \strng{authorbibnamehash}{ae54a409671a1211e4b1dbaf4363dc53}
+      \strng{authornamehash}{58ddea0553a4a47aee9f1d7125b192b0}
+      \strng{authorfullhash}{ae54a409671a1211e4b1dbaf4363dc53}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neurolinguistics}
+      \field{title}{Expressive prosody in children with autism spectrum conditions.}
+      \field{volume}{24}
+      \field{year}{2011}
+      \field{pages}{41\bibrangedash 53}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jneuroling.2010.07.005
+      \endverb
+    \endentry
+    \entry{Peppe2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5bab69328cb76e9356800cd140833743}{%
+           family={Peppé},
+           familyi={P\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6a32898f9ccd9ffad2da988c80a20382}{%
+           family={McCann},
+           familyi={M\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a6ee87b8e70a21b59564b5d29f786ec4}{%
+           family={Gibbon},
+           familyi={G\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b306e32490eca381868e76fa2e32123f}{%
+           family={O’Hare},
+           familyi={O\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a991f408a987302bd45b00c0ed83d93d}{%
+           family={Rutherford},
+           familyi={R\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{58ddea0553a4a47aee9f1d7125b192b0}
+      \strng{fullhash}{7b05812d71dc9fa2114a740121457288}
+      \strng{bibnamehash}{7b05812d71dc9fa2114a740121457288}
+      \strng{authorbibnamehash}{7b05812d71dc9fa2114a740121457288}
+      \strng{authornamehash}{58ddea0553a4a47aee9f1d7125b192b0}
+      \strng{authorfullhash}{7b05812d71dc9fa2114a740121457288}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Pragmatics}
+      \field{number}{10}
+      \field{title}{Assessing prosodic and pragmatic ability in children with high-functioning autism.}
+      \field{volume}{38}
+      \field{year}{2006}
+      \field{pages}{1776\bibrangedash 1791}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.pragma.2005.07.004
+      \endverb
+    \endentry
+    \entry{Peppe2007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5bab69328cb76e9356800cd140833743}{%
+           family={Peppé},
+           familyi={P\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6a32898f9ccd9ffad2da988c80a20382}{%
+           family={McCann},
+           familyi={M\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a6ee87b8e70a21b59564b5d29f786ec4}{%
+           family={Gibbon},
+           familyi={G\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b306e32490eca381868e76fa2e32123f}{%
+           family={O’Hare},
+           familyi={O\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a991f408a987302bd45b00c0ed83d93d}{%
+           family={Rutherford},
+           familyi={R\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{58ddea0553a4a47aee9f1d7125b192b0}
+      \strng{fullhash}{7b05812d71dc9fa2114a740121457288}
+      \strng{bibnamehash}{7b05812d71dc9fa2114a740121457288}
+      \strng{authorbibnamehash}{7b05812d71dc9fa2114a740121457288}
+      \strng{authornamehash}{58ddea0553a4a47aee9f1d7125b192b0}
+      \strng{authorfullhash}{7b05812d71dc9fa2114a740121457288}
+      \field{extraname}{3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{title}{Receptive and expressive prosodic ability in children with high-functioning autism.}
+      \field{volume}{50}
+      \field{year}{2007}
+      \field{pages}{1015\bibrangedash 1028}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1044/1092-4388(2007/071)
+      \endverb
+    \endentry
+    \entry{Pindzola1987}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8df092c6b1dd5b9138729f8773471608}{%
+           family={Pindzola},
+           familyi={P\bibinitperiod},
+           given={Rebekah},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin, TX}%
+      }
+      \list{publisher}{1}{%
+        {PRO-ED}%
+      }
+      \strng{namehash}{8df092c6b1dd5b9138729f8773471608}
+      \strng{fullhash}{8df092c6b1dd5b9138729f8773471608}
+      \strng{bibnamehash}{8df092c6b1dd5b9138729f8773471608}
+      \strng{authorbibnamehash}{8df092c6b1dd5b9138729f8773471608}
+      \strng{authornamehash}{8df092c6b1dd5b9138729f8773471608}
+      \strng{authorfullhash}{8df092c6b1dd5b9138729f8773471608}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Voice Assessment Protocol for Children and Adults.}
+      \field{year}{1987}
+    \endentry
+    \entry{PlesaSkwerer2007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3b7b49e6a9a923fc9088e2846a742517}{%
+           family={Plesa-Skwerer},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=71bfbb84c43ca2d304b81968c619ea77}{%
+           family={Schofield},
+           familyi={S\bibinitperiod},
+           given={Casey},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e79f5c8eef584e6b50cd710eea7c11fc}{%
+           family={Verbalis},
+           familyi={V\bibinitperiod},
+           given={Alyssa},
+           giveni={A\bibinitperiod}}}%
+        {{hash=10c715be7d8d81d8e571dc6167618b69}{%
+           family={Faja},
+           familyi={F\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6c5a0f3ae95abdecd025b49ea438d41e}{%
+           family={Tager-Flusberg},
+           familyi={T\bibinithyphendelim F\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f2ad9a2db54e9f4379f9da7c10e94bc}
+      \strng{fullhash}{5db9ed0bd2aca655209dc45db720e0dd}
+      \strng{bibnamehash}{5db9ed0bd2aca655209dc45db720e0dd}
+      \strng{authorbibnamehash}{5db9ed0bd2aca655209dc45db720e0dd}
+      \strng{authornamehash}{4f2ad9a2db54e9f4379f9da7c10e94bc}
+      \strng{authorfullhash}{5db9ed0bd2aca655209dc45db720e0dd}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language and Cognitive Processes}
+      \field{title}{Receptive prosody in adolescents and adults with Williams syndrome.}
+      \field{volume}{22}
+      \field{year}{2007}
+      \field{pages}{247\bibrangedash 271}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1080/01690960600632671
+      \endverb
+    \endentry
+    \entry{Post2018}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=0f27426a47122fea772756e3e25458db}{%
+           family={Post},
+           familyi={P\bibinitperiod},
+           given={Brechtje},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fd6a1031d393b5c02832607cbdc94c38}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Elinor},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=307fc45fc6ded92d3ce72bc728c47acc}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ce4e8de5476b999517f816ac5a02440f}{%
+           family={Esteve-Gibert},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Núria},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{bebcd8a49284a8856105b23ac67f720b}
+      \strng{fullhash}{bebcd8a49284a8856105b23ac67f720b}
+      \strng{bibnamehash}{bebcd8a49284a8856105b23ac67f720b}
+      \strng{authorbibnamehash}{bebcd8a49284a8856105b23ac67f720b}
+      \strng{authornamehash}{bebcd8a49284a8856105b23ac67f720b}
+      \strng{authorfullhash}{bebcd8a49284a8856105b23ac67f720b}
+      \strng{editorbibnamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editornamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{editorfullhash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The development of prosody in first language acquisition}
+      \field{title}{Speech rhythm in development. What is the child acquiring?}
+      \field{year}{2018}
+      \field{pages}{125\bibrangedash 144}
+      \range{pages}{20}
+    \endentry
+    \entry{Prieto2018}{book}{}
+      \name{author}{2}{}{%
+        {{hash=307fc45fc6ded92d3ce72bc728c47acc}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ce4e8de5476b999517f816ac5a02440f}{%
+           family={Esteve-Gibert},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Núria},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{fullhash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{bibnamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{authorbibnamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{authornamehash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \strng{authorfullhash}{cfff7c58dbc6f1f45f25fb352ae114c5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The development of prosody in first language acquisition.}
+      \field{year}{2018}
+    \endentry
+    \entry{Rothstein2013}{patent}{}
+      \name{author}{1}{}{%
+        {{hash=8f59fda6f43afc98787a39992f8b4a0d}{%
+           family={Rothstein},
+           familyi={R\bibinitperiod},
+           given={Joseph\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f59fda6f43afc98787a39992f8b4a0d}
+      \strng{fullhash}{8f59fda6f43afc98787a39992f8b4a0d}
+      \strng{bibnamehash}{8f59fda6f43afc98787a39992f8b4a0d}
+      \strng{authorbibnamehash}{8f59fda6f43afc98787a39992f8b4a0d}
+      \strng{authornamehash}{8f59fda6f43afc98787a39992f8b4a0d}
+      \strng{authorfullhash}{8f59fda6f43afc98787a39992f8b4a0d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prosody treatment program.}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb http://linguisystems.com/index/home
+      \endverb
+      \verb{url}
+      \verb http://linguisystems.com/index/home
+      \endverb
+    \endentry
+    \entry{SanzMartin2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=286496aa9ef5298270603ea2048c569e}{%
+           family={Sanz-Martín},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Araceli},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c89c44dfdd5fd25229cfcdea94c54023}{%
+           family={Guevara},
+           familyi={G\bibinitperiod},
+           given={Miguelangel\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0057c2e5d8786a4c61804d9c381979c9}{%
+           family={Corsi-Cabrera},
+           familyi={C\bibinithyphendelim C\bibinitperiod},
+           given={María},
+           giveni={M\bibinitperiod}}}%
+        {{hash=de78589b9e782889ae789e6beadd7043}{%
+           family={Ondarza-Rovira},
+           familyi={O\bibinithyphendelim R\bibinitperiod},
+           given={Rodolfo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=46fa2eecd8262302f0d491d95c66d671}{%
+           family={Ramos-Loyo},
+           familyi={R\bibinithyphendelim L\bibinitperiod},
+           given={Julieta},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2f869b1f4e091d9349010770ae88eb7}
+      \strng{fullhash}{25d0ed362bb1e3a2d52c3355c075badf}
+      \strng{bibnamehash}{25d0ed362bb1e3a2d52c3355c075badf}
+      \strng{authorbibnamehash}{25d0ed362bb1e3a2d52c3355c075badf}
+      \strng{authornamehash}{e2f869b1f4e091d9349010770ae88eb7}
+      \strng{authorfullhash}{25d0ed362bb1e3a2d52c3355c075badf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Neurologia}
+      \field{title}{Efecto diferencial de la lobectomía temporal izquierda y derecha sobre el reconocimiento y la experiencia emocional en pacientes con epilepsia.}
+      \field{volume}{42}
+      \field{year}{2006}
+      \field{pages}{391\bibrangedash 398}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.33588/rn.4207.2004572
+      \endverb
+    \endentry
+    \entry{Seddoh2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d2c605f7e4e24df8b5cf54969f09757f}{%
+           family={Seddoh},
+           familyi={S\bibinitperiod},
+           given={Amebu},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2c605f7e4e24df8b5cf54969f09757f}
+      \strng{fullhash}{d2c605f7e4e24df8b5cf54969f09757f}
+      \strng{bibnamehash}{d2c605f7e4e24df8b5cf54969f09757f}
+      \strng{authorbibnamehash}{d2c605f7e4e24df8b5cf54969f09757f}
+      \strng{authornamehash}{d2c605f7e4e24df8b5cf54969f09757f}
+      \strng{authorfullhash}{d2c605f7e4e24df8b5cf54969f09757f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Linguistics and Phonetics}
+      \field{number}{1}
+      \field{title}{Prosodic disturbance in aphasia: Speech timing versus intonation production.}
+      \field{volume}{18}
+      \field{year}{2004}
+      \field{pages}{17\bibrangedash 38}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/0269920031000134686
+      \endverb
+    \endentry
+    \entry{Shriberg1990}{book}{}
+      \name{author}{3}{}{%
+        {{hash=10b7d7482749e706e81d2d187c197da4}{%
+           family={Shriberg},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima D.},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=331992d66f516d6771f32d13a211fd6c}{%
+           family={Kwiatkowski},
+           familyi={K\bibinitperiod},
+           given={Joan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dcfd92ea20929e03fa47e0b47d671162}{%
+           family={Rasmussen},
+           familyi={R\bibinitperiod},
+           given={Carmen},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tucson, AZ}%
+      }
+      \list{publisher}{1}{%
+        {Communication Skill Builders}%
+      }
+      \strng{namehash}{34c972e147a197ef41b5dfcdcd421227}
+      \strng{fullhash}{029d23656cafbe5f33043c7a07cfbe9e}
+      \strng{bibnamehash}{029d23656cafbe5f33043c7a07cfbe9e}
+      \strng{authorbibnamehash}{029d23656cafbe5f33043c7a07cfbe9e}
+      \strng{authornamehash}{34c972e147a197ef41b5dfcdcd421227}
+      \strng{authorfullhash}{029d23656cafbe5f33043c7a07cfbe9e}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Prosody-Voice Screening Profile.}
+      \field{year}{1990}
+    \endentry
+    \entry{Shriberg2001}{article}{}
+      \name{author}{6}{}{%
+        {{hash=10b7d7482749e706e81d2d187c197da4}{%
+           family={Shriberg},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima D.},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=217d8da4491631b0492e9149e0a403a0}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Rhea},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5d4cda43f951c010b67a2e6dba46b520}{%
+           family={McSweeny},
+           familyi={M\bibinitperiod},
+           given={Jane\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=541a9cb2f5e358efd62913bdd89d98f0}{%
+           family={Klin},
+           familyi={K\bibinitperiod},
+           given={Ami},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e476ab4d6ace40fcc081e8bf5a9f4645}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Donald\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f9a43d462fc2c827cea3769ed712f3f0}{%
+           family={Volkmar},
+           familyi={V\bibinitperiod},
+           given={Fred\bibnamedelima R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{34c972e147a197ef41b5dfcdcd421227}
+      \strng{fullhash}{0ba3710df5bcbe17ffdd15f249b7d090}
+      \strng{bibnamehash}{0ba3710df5bcbe17ffdd15f249b7d090}
+      \strng{authorbibnamehash}{0ba3710df5bcbe17ffdd15f249b7d090}
+      \strng{authornamehash}{34c972e147a197ef41b5dfcdcd421227}
+      \strng{authorfullhash}{0ba3710df5bcbe17ffdd15f249b7d090}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{number}{5}
+      \field{title}{Speech and prosody characteristics of adolescents and adults with high- functioning autism and Asperger syndrome.}
+      \field{volume}{44}
+      \field{year}{2001}
+      \field{pages}{1097\bibrangedash 1115}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1044/1092-4388(2001/087)
+      \endverb
+    \endentry
+    \entry{Stojanovik2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a3850a56374aae320fba7f7de5849c98}{%
+           family={Stojanovik},
+           familyi={S\bibinitperiod},
+           given={Vesna},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{a3850a56374aae320fba7f7de5849c98}
+      \strng{fullhash}{a3850a56374aae320fba7f7de5849c98}
+      \strng{bibnamehash}{a3850a56374aae320fba7f7de5849c98}
+      \strng{authorbibnamehash}{a3850a56374aae320fba7f7de5849c98}
+      \strng{authornamehash}{a3850a56374aae320fba7f7de5849c98}
+      \strng{authorfullhash}{a3850a56374aae320fba7f7de5849c98}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neurolinguistics}
+      \field{number}{2}
+      \field{title}{Prosodic deficits in children with Down syndrome.}
+      \field{volume}{24}
+      \field{year}{2011}
+      \field{pages}{145\bibrangedash 155}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jneuroling.2010.01.004
+      \endverb
+    \endentry
+    \entry{Stojanovik2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a3850a56374aae320fba7f7de5849c98}{%
+           family={Stojanovik},
+           familyi={S\bibinitperiod},
+           given={Vesna},
+           giveni={V\bibinitperiod}}}%
+        {{hash=00db46cd5c79acfc2b1b91dabe921261}{%
+           family={Setter},
+           familyi={S\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e47fc034d7304b80f859291f0652e4c5}{%
+           family={Ewijk},
+           familyi={E\bibinitperiod},
+           given={Lizet},
+           giveni={L\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{8293b6c5fc208f773760169c8c662a5c}
+      \strng{fullhash}{e401552887a8f091c6b591073591e289}
+      \strng{bibnamehash}{e401552887a8f091c6b591073591e289}
+      \strng{authorbibnamehash}{e401552887a8f091c6b591073591e289}
+      \strng{authornamehash}{8293b6c5fc208f773760169c8c662a5c}
+      \strng{authorfullhash}{e401552887a8f091c6b591073591e289}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech, Language and Hearing Research}
+      \field{title}{Intonation abilities of children with Williams syndrome: A preliminary investigation.}
+      \field{volume}{50}
+      \field{year}{2007}
+      \field{pages}{1606\bibrangedash 1617}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1044/1092-4388(2007/108)
+      \endverb
+    \endentry
+    \entry{Vidal2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=64fb241ce44b73f032dc4089d2a4c898}{%
+           family={Vidal},
+           familyi={V\bibinitperiod},
+           given={Maria\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2ba3ecfe39a3530717ad73ab59d556b7}{%
+           family={Lousada},
+           familyi={L\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cascais}%
+      }
+      \strng{namehash}{b49c450c163d6c257d24ef453f2b95d1}
+      \strng{fullhash}{1fa14f956f778c918c73f78f28cc02ac}
+      \strng{bibnamehash}{1fa14f956f778c918c73f78f28cc02ac}
+      \strng{authorbibnamehash}{1fa14f956f778c918c73f78f28cc02ac}
+      \strng{authornamehash}{b49c450c163d6c257d24ef453f2b95d1}
+      \strng{authorfullhash}{1fa14f956f778c918c73f78f28cc02ac}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{10th European Congress of Speech and Language Therapy}
+      \field{month}{5}
+      \field{title}{A new test for the assessment of prosody in pre-school Children (APC).}
+      \field{year}{2018}
+    \endentry
+    \entry{Vigario2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/NY}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{cf0dc7f8ae7be1be47f7ea93d1e28d13}
+      \strng{fullhash}{cf0dc7f8ae7be1be47f7ea93d1e28d13}
+      \strng{bibnamehash}{cf0dc7f8ae7be1be47f7ea93d1e28d13}
+      \strng{authorbibnamehash}{cf0dc7f8ae7be1be47f7ea93d1e28d13}
+      \strng{authornamehash}{cf0dc7f8ae7be1be47f7ea93d1e28d13}
+      \strng{authorfullhash}{cf0dc7f8ae7be1be47f7ea93d1e28d13}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Interface Explorations Series, 6.}
+      \field{title}{The Prosodic Word in European Portuguese.}
+      \field{year}{2003}
+    \endentry
+    \entry{Vigario2015}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=478bc2b456b758d8f87365a8ee29f2da}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ce6d8c6792c323300822dbc075484ea7}{%
+           family={Correia},
+           familyi={C\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=28c8a2b4359f8bea12e3ee03bc302b15}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b763e9accfa288771f86ef326ca6825}{%
+           family={Severino},
+           familyi={S\bibinitperiod},
+           given={Cátia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Braga}%
+      }
+      \strng{namehash}{f7557e4a477d8ac017e0aa4db4a8ed30}
+      \strng{fullhash}{b57d1482b80b379d53755eb56aac965d}
+      \strng{bibnamehash}{b57d1482b80b379d53755eb56aac965d}
+      \strng{authorbibnamehash}{b57d1482b80b379d53755eb56aac965d}
+      \strng{authornamehash}{f7557e4a477d8ac017e0aa4db4a8ed30}
+      \strng{authorfullhash}{b57d1482b80b379d53755eb56aac965d}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{XXXI Encontro Nacional da Associação Portuguesa de Linguística}
+      \field{month}{10}
+      \field{title}{Avaliação do desenvolvimento prosódico inicial no Português Europeu: o questionário parental ProsoQuest.}
+      \field{year}{2015}
+    \endentry
+    \entry{Vigario2019}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=cf0dc7f8ae7be1be47f7ea93d1e28d13}{%
+           family={Vigário},
+           familyi={V\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=28c8a2b4359f8bea12e3ee03bc302b15}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8e6c19d22669e5e31c63e923f08bea40}{%
+           family={Frota},
+           familyi={F\bibinitperiod},
+           given={Sónia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=815adfd4ab596232e67c886e2c07bf60}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={S.\bibnamedelimi Calhoun},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Canberra}%
+      }
+      \list{publisher}{1}{%
+        {ASSTA}%
+      }
+      \strng{namehash}{f7557e4a477d8ac017e0aa4db4a8ed30}
+      \strng{fullhash}{2a71c53d25e41b74809a6b46396665ce}
+      \strng{bibnamehash}{2a71c53d25e41b74809a6b46396665ce}
+      \strng{authorbibnamehash}{2a71c53d25e41b74809a6b46396665ce}
+      \strng{authornamehash}{f7557e4a477d8ac017e0aa4db4a8ed30}
+      \strng{authorfullhash}{2a71c53d25e41b74809a6b46396665ce}
+      \strng{editorbibnamehash}{815adfd4ab596232e67c886e2c07bf60}
+      \strng{editornamehash}{815adfd4ab596232e67c886e2c07bf60}
+      \strng{editorfullhash}{815adfd4ab596232e67c886e2c07bf60}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019}
+      \field{title}{Why tune or text? The role of language phonological profile in the choice of strategies for tune-text adjustment.}
+      \field{year}{2019}
+    \endentry
+    \entry{Wagner2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b6ea5a7032ae19a0dc619b901a2d57ac}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cd931e80b37fc3b57c9171430e95ec8e}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Duane},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d4a288adf43e11aaf73b7c4f9debf25}
+      \strng{fullhash}{6d4a288adf43e11aaf73b7c4f9debf25}
+      \strng{bibnamehash}{6d4a288adf43e11aaf73b7c4f9debf25}
+      \strng{authorbibnamehash}{6d4a288adf43e11aaf73b7c4f9debf25}
+      \strng{authornamehash}{6d4a288adf43e11aaf73b7c4f9debf25}
+      \strng{authorfullhash}{6d4a288adf43e11aaf73b7c4f9debf25}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language and Cognitive Processes}
+      \field{number}{7-9}
+      \field{title}{Experimental and theoretical advances in prosody: A review.}
+      \field{volume}{25}
+      \field{year}{2010}
+      \field{pages}{905\bibrangedash 945}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1080/01690961003589492
+      \endverb
+    \endentry
+    \entry{Wells2003}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d001d8f8890d36473d5a0538177091e6}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5bab69328cb76e9356800cd140833743}{%
+           family={Peppé},
+           familyi={P\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a58a0a68cc13981657d4aff245727f1}
+      \strng{fullhash}{4a58a0a68cc13981657d4aff245727f1}
+      \strng{bibnamehash}{4a58a0a68cc13981657d4aff245727f1}
+      \strng{authorbibnamehash}{4a58a0a68cc13981657d4aff245727f1}
+      \strng{authornamehash}{4a58a0a68cc13981657d4aff245727f1}
+      \strng{authorfullhash}{4a58a0a68cc13981657d4aff245727f1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{number}{1}
+      \field{title}{Intonation abilities of children with speech and language impairments.}
+      \field{volume}{46}
+      \field{year}{2003}
+      \field{pages}{5\bibrangedash 20}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1044/1092-4388(2003/001)
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

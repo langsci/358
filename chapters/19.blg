@@ -1,0 +1,20 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is '19.blg'
+[64] biber:340> INFO - === Mon May  9, 2022, 11:46:23
+[77] Biber.pm:415> INFO - Reading '19.bcf'
+[145] Biber.pm:952> INFO - Found 73 citekeys in bib section 0
+[157] Biber.pm:4340> INFO - Processing section 0
+[166] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography_.bib' for section 0
+[199] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1204] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography_.bib'
+[1215] Utils.pm:395> WARN - Possible typo (case mismatch) between datasource keys: 'McLeod2017' and 'Mcleod2017' in file '../localbibliography_.bib'
+[1477] Utils.pm:395> WARN - legacy year field 'em preparação' in entry 'Mineiroempreparacao' is not an integer - this will probably not sort properly.
+[1649] Utils.pm:395> WARN - I didn't find a database entry for 'Spencer2013' (section 0)
+[1649] Utils.pm:395> WARN - I didn't find a database entry for 'Grogan2016' (section 0)
+[1741] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1741] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1741] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'pt-PT'
+[1741] Biber.pm:4174> INFO - No sort tailoring available for locale 'pt-PT'
+[1806] bbl.pm:654> INFO - Writing '19.bbl' with encoding 'UTF-8'
+[1845] bbl.pm:757> INFO - Output to 19.bbl
+[1845] Biber.pm:128> INFO - WARNINGS: 4

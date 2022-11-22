@@ -1,0 +1,2841 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Alves2021}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b8c49f04c9cf2daa326a78f28e8f7e91}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3e5c1d60b27ec465697993e018240f72}{%
+           family={Cardoso},
+           familyi={C\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5a0c7b611420ea08f8a2fa63abe671e9}{%
+           family={Morgado},
+           familyi={M\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=37d92b3cab48527afe03512bf5058851}{%
+           family={Witte},
+           familyi={W\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=668e115f597fe415c7564003ec4edc1e}{%
+           family={Satoer},
+           familyi={S\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9bcb7921b6d95a29c812794cb9d9bedd}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cfa5f881385cf53e0891532620fb43f6}{%
+           family={Jesus},
+           familyi={J\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4d965d0878a339577177a627eb2be7a}
+      \strng{fullhash}{9b3f0c345bddf411f7cc7d7eadca5460}
+      \strng{bibnamehash}{9b3f0c345bddf411f7cc7d7eadca5460}
+      \strng{authorbibnamehash}{9b3f0c345bddf411f7cc7d7eadca5460}
+      \strng{authornamehash}{a4d965d0878a339577177a627eb2be7a}
+      \strng{authorfullhash}{9b3f0c345bddf411f7cc7d7eadca5460}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Linguistics \& Phonetics}
+      \field{number}{12}
+      \field{title}{Language assessment in awake brain surgery: The Portuguese adaptation of the Dutch Linguistic Intraoperative Protocol (DuLIP).}
+      \field{volume}{35}
+      \field{year}{2021}
+      \field{pages}{1113\bibrangedash 1131}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/02699206.2020.1868022
+      \endverb
+    \endentry
+    \entry{Baldo2013}{article}{}
+      \name{author}{4}{}{%
+        {{hash=09ab362922e2191f9b91f673043576aa}{%
+           family={Baldo},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bf9d29e869a65a2cff912a57b6f52e18}{%
+           family={Arévalo},
+           familyi={A\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b94b2f331beb08b29e8ca8166fef1d8e}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b045f32114bb200e2ce351986f8cd20f}{%
+           family={Dronkers},
+           familyi={D\bibinitperiod},
+           given={N\bibnamedelima F},
+           giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1d9c805b17488e6b50dd4a1fa1c74f9}
+      \strng{fullhash}{165aba30418f0b54f69e395b340f070a}
+      \strng{bibnamehash}{165aba30418f0b54f69e395b340f070a}
+      \strng{authorbibnamehash}{165aba30418f0b54f69e395b340f070a}
+      \strng{authornamehash}{b1d9c805b17488e6b50dd4a1fa1c74f9}
+      \strng{authorfullhash}{165aba30418f0b54f69e395b340f070a}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cortex}
+      \field{number}{3}
+      \field{title}{Grey and white matter correlates of picture naming: evidence from a voxel-based lesion analysis of the Boston Naming Test.}
+      \field{volume}{49}
+      \field{year}{2013}
+      \field{pages}{658\bibrangedash 667}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.cortex.2012.03.001
+      \endverb
+    \endentry
+    \entry{Baldo2006}{article}{}
+      \name{author}{4}{}{%
+        {{hash=09ab362922e2191f9b91f673043576aa}{%
+           family={Baldo},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bf8798e2003545fcd7a2bf202fe7092d}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c916cb5120a9d06fcb62a3b84ff9f06f}{%
+           family={Wilkins},
+           familyi={W\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b045f32114bb200e2ce351986f8cd20f}{%
+           family={Dronkers},
+           familyi={D\bibinitperiod},
+           given={N\bibnamedelima F},
+           giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1d9c805b17488e6b50dd4a1fa1c74f9}
+      \strng{fullhash}{f714a0506c8529bdc3c529fc2e3ff0a7}
+      \strng{bibnamehash}{f714a0506c8529bdc3c529fc2e3ff0a7}
+      \strng{authorbibnamehash}{f714a0506c8529bdc3c529fc2e3ff0a7}
+      \strng{authornamehash}{b1d9c805b17488e6b50dd4a1fa1c74f9}
+      \strng{authorfullhash}{f714a0506c8529bdc3c529fc2e3ff0a7}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the International Neuropsychological Society}
+      \field{number}{6}
+      \field{title}{Role of frontal versus temporal cortex in verbal fluency as revealed by voxel-based lesion symptom mapping.}
+      \field{volume}{12}
+      \field{year}{2006}
+      \field{pages}{896\bibrangedash 900}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1017/s1355617706061078
+      \endverb
+    \endentry
+    \entry{Bastiaanse2014}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=ddb052382fc980037be6c9d27cfc35ce}{%
+           family={Bastiaanse},
+           familyi={B\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=41cc53edb6b581e2b4c9346bd718faac}{%
+           family={Prins},
+           familyi={P\bibinitperiod},
+           given={R\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=6aac216efa3921205794e843924fca65}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{d5bec776ed543e077cfba1b6f5fcea27}
+      \strng{fullhash}{d5bec776ed543e077cfba1b6f5fcea27}
+      \strng{bibnamehash}{d5bec776ed543e077cfba1b6f5fcea27}
+      \strng{authorbibnamehash}{d5bec776ed543e077cfba1b6f5fcea27}
+      \strng{authornamehash}{d5bec776ed543e077cfba1b6f5fcea27}
+      \strng{authorfullhash}{d5bec776ed543e077cfba1b6f5fcea27}
+      \strng{editorbibnamehash}{6aac216efa3921205794e843924fca65}
+      \strng{editornamehash}{6aac216efa3921205794e843924fca65}
+      \strng{editorfullhash}{6aac216efa3921205794e843924fca65}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Cambridge Handbook of Communication Disorders}
+      \field{title}{Aphasia}
+      \field{year}{2014}
+      \field{pages}{224\bibrangedash 246}
+      \range{pages}{23}
+    \endentry
+    \entry{Bello2010}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ff7aa49f1d3d0841d7050274699836e9}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4b683485c5327d40488c9c60368bdded}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a430cdb0919fa45048d019928dfbd1f5}{%
+           family={Fava},
+           familyi={F\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a495d3ea8935283dd8377354eddd698c}{%
+           family={Casaceli},
+           familyi={C\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e2c6319ddab9bcb4d607c24c9eeb6c64}{%
+           family={Riva},
+           familyi={R\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8df4e59d57c6ee8d3de91350e5eeee81}{%
+           family={Scotti},
+           familyi={S\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a28d4d2a3ddbae46c5bec663976ec0aa}{%
+           family={Gaini},
+           familyi={G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c99c2d061d5ced59b3eb2730cc43af71}{%
+           family={Falini},
+           familyi={F\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4437c110c361353bacbd196a177b6568}
+      \strng{fullhash}{59d9c5123c3ebec7904c496f5e3e0801}
+      \strng{bibnamehash}{59d9c5123c3ebec7904c496f5e3e0801}
+      \strng{authorbibnamehash}{59d9c5123c3ebec7904c496f5e3e0801}
+      \strng{authornamehash}{4437c110c361353bacbd196a177b6568}
+      \strng{authorfullhash}{59d9c5123c3ebec7904c496f5e3e0801}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurosurgical Focus}
+      \field{number}{2}
+      \field{title}{Intraoperative use of diffusion tensor imaging fiber tractography and subcortical mapping for resection of gliomas: technical considerations.}
+      \field{volume}{28}
+      \field{year}{2010}
+      \field{pages}{E6}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.3171/2009.12.focus09240
+      \endverb
+    \endentry
+    \entry{Bello2007}{article}{}
+      \name{author}{13}{}{%
+        {{hash=ff7aa49f1d3d0841d7050274699836e9}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1782b1f3a48fbfef754d68bd3d90ad56}{%
+           family={Gallucci},
+           familyi={G\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9c690ab16debd19b368b7d7e6444e0dc}{%
+           family={Marica},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6665665c68fd08ebab5e3233a2a66d1d}{%
+           family={Carrabba},
+           familyi={C\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2b6b86c9be6d84c38742c850e29166a6}{%
+           family={Giussani},
+           familyi={G\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=279d6d860f61d877d55ce25c07e8c10a}{%
+           family={Acerbi},
+           familyi={A\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f304e954528c3968416e2556a66f8b75}{%
+           family={Baratta},
+           familyi={B\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1bcb398d80ed327b020adb7c823425a8}{%
+           family={Songa},
+           familyi={S\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=596182dad3783f581a51c397deb2e550}{%
+           family={Conte},
+           familyi={C\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7c161fe6316a4c283e01ece7e009910c}{%
+           family={Branca},
+           familyi={B\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d18f96cc3fd675d6fe732f10222a3826}{%
+           family={Stocchetti},
+           familyi={S\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=dd3cdca096819faabeb46ecc3abaa461}{%
+           family={Papagno},
+           familyi={P\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1dbe0d8bd16aa30e385c20416bcfbc02}{%
+           family={Gaini},
+           familyi={G\bibinitperiod},
+           given={S\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4437c110c361353bacbd196a177b6568}
+      \strng{fullhash}{046150fc58479e096b00fb396cda7c9c}
+      \strng{bibnamehash}{046150fc58479e096b00fb396cda7c9c}
+      \strng{authorbibnamehash}{046150fc58479e096b00fb396cda7c9c}
+      \strng{authornamehash}{4437c110c361353bacbd196a177b6568}
+      \strng{authorfullhash}{046150fc58479e096b00fb396cda7c9c}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurosurgery}
+      \field{number}{1}
+      \field{title}{Intraoperative Subcortical Language Tract Mapping Guide Surgical Removal of Gliomas Involving Speech Areas.}
+      \field{volume}{60}
+      \field{year}{2007}
+      \field{pages}{67\bibrangedash 82}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1227/01.neu.0000249206.58601.de
+      \endverb
+    \endentry
+    \entry{Bello2008}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ff7aa49f1d3d0841d7050274699836e9}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f05a5d550a455d67d122a67c6a746774}{%
+           family={Gambini},
+           familyi={G\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4b683485c5327d40488c9c60368bdded}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6665665c68fd08ebab5e3233a2a66d1d}{%
+           family={Carrabba},
+           familyi={C\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=279d6d860f61d877d55ce25c07e8c10a}{%
+           family={Acerbi},
+           familyi={A\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a430cdb0919fa45048d019928dfbd1f5}{%
+           family={Fava},
+           familyi={F\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c99c2d061d5ced59b3eb2730cc43af71}{%
+           family={Falini},
+           familyi={F\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4437c110c361353bacbd196a177b6568}
+      \strng{fullhash}{8b9fdfe9d9fcce7acd161bf9fd2e4ff8}
+      \strng{bibnamehash}{8b9fdfe9d9fcce7acd161bf9fd2e4ff8}
+      \strng{authorbibnamehash}{8b9fdfe9d9fcce7acd161bf9fd2e4ff8}
+      \strng{authornamehash}{4437c110c361353bacbd196a177b6568}
+      \strng{authorfullhash}{8b9fdfe9d9fcce7acd161bf9fd2e4ff8}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NeuroImage}
+      \field{number}{1}
+      \field{title}{Motor and language DTI Fiber Tracking combined with intraoperative subcortical mapping for surgical removal of gliomas.}
+      \field{volume}{39}
+      \field{year}{2008}
+      \field{pages}{369\bibrangedash 382}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2007.08.031
+      \endverb
+    \endentry
+    \entry{Bertani2009}{article}{}
+      \name{author}{10}{}{%
+        {{hash=f5a86ca2a239cb63fc51d32aede79839}{%
+           family={Bertani},
+           familyi={B\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a430cdb0919fa45048d019928dfbd1f5}{%
+           family={Fava},
+           familyi={F\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a495d3ea8935283dd8377354eddd698c}{%
+           family={Casaceli},
+           familyi={C\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6665665c68fd08ebab5e3233a2a66d1d}{%
+           family={Carrabba},
+           familyi={C\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=91d43035a93b9048f1eb69a79102e643}{%
+           family={Casarotti},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dd3cdca096819faabeb46ecc3abaa461}{%
+           family={Papagno},
+           familyi={P\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4b683485c5327d40488c9c60368bdded}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c99c2d061d5ced59b3eb2730cc43af71}{%
+           family={Falini},
+           familyi={F\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1dbe0d8bd16aa30e385c20416bcfbc02}{%
+           family={Gaini},
+           familyi={G\bibinitperiod},
+           given={S\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ff7aa49f1d3d0841d7050274699836e9}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b50f862211ac8abfa9c90cba97d39f3}
+      \strng{fullhash}{f060e86be2615f80b0867c5fe51f8721}
+      \strng{bibnamehash}{f060e86be2615f80b0867c5fe51f8721}
+      \strng{authorbibnamehash}{f060e86be2615f80b0867c5fe51f8721}
+      \strng{authornamehash}{5b50f862211ac8abfa9c90cba97d39f3}
+      \strng{authorfullhash}{f060e86be2615f80b0867c5fe51f8721}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurosurgical Focus}
+      \field{number}{4}
+      \field{title}{Intraoperative mapping and monitoring of brain functions for the resection of low-grade gliomas: Technical considerations.}
+      \field{volume}{27}
+      \field{year}{2009}
+      \field{pages}{E4}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.3171/2009.8.focus09137
+      \endverb
+    \endentry
+    \entry{Brysbaert2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9a130195e33fa64cbcb1ebe2c26474e4}{%
+           family={Brysbaert},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3a207b24eda7910d54a8715581231ebc}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b3582a100b3ec57d8dd3f9b9dd843efa}{%
+           family={Mandera},
+           familyi={M\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2f79f971c98b964a98ff6bb3ce30c2ae}{%
+           family={Keuleers},
+           familyi={K\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{55da3f563ae2d608e69b813115f837c8}
+      \strng{fullhash}{34d0d0015444fb715380abfd2f26d737}
+      \strng{bibnamehash}{34d0d0015444fb715380abfd2f26d737}
+      \strng{authorbibnamehash}{34d0d0015444fb715380abfd2f26d737}
+      \strng{authornamehash}{55da3f563ae2d608e69b813115f837c8}
+      \strng{authorfullhash}{34d0d0015444fb715380abfd2f26d737}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Human Perception and Performance}
+      \field{number}{3}
+      \field{title}{The impact of word prevalence on lexical decision times: Evidence from the Dutch Lexicon Project 2.}
+      \field{volume}{42}
+      \field{year}{2016}
+      \field{pages}{441\bibrangedash 458}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1037/xhp0000159
+      \endverb
+    \endentry
+    \entry{Cervenka2013}{article}{}
+      \name{author}{7}{}{%
+        {{hash=7e0fcbab08f507bac86201c8f0f12175}{%
+           family={Cervenka},
+           familyi={C\bibinitperiod},
+           given={M\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=86175923381c23da69823dd41f453bac}{%
+           family={Corines},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=85cdd8b3cfc5a22b5714bd57272ebdc2}{%
+           family={Boatman-Reich},
+           familyi={B\bibinithyphendelim R\bibinitperiod},
+           given={D\bibnamedelima F},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=81031f704d6a80cf877830ff2ddabe52}{%
+           family={Eloyan},
+           familyi={E\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e6851052b81930b14deeadaaeb359c18}{%
+           family={Sheng},
+           familyi={S\bibinitperiod},
+           given={X},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5f890fbb7cb511fa03b4a80c90281a23}{%
+           family={Franaszczuk},
+           familyi={F\bibinitperiod},
+           given={P\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=50e54d44175c6c20d4e313b39ca89784}{%
+           family={Crone},
+           familyi={C\bibinitperiod},
+           given={N\bibnamedelima E},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{acc7df7e9ee5b89311609a90a5bfd875}
+      \strng{fullhash}{63490aff8f487271d4504a8b146d8d26}
+      \strng{bibnamehash}{63490aff8f487271d4504a8b146d8d26}
+      \strng{authorbibnamehash}{63490aff8f487271d4504a8b146d8d26}
+      \strng{authornamehash}{acc7df7e9ee5b89311609a90a5bfd875}
+      \strng{authorfullhash}{63490aff8f487271d4504a8b146d8d26}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuroimage}
+      \field{title}{Electrocorticographic functional mapping identifies human cortex critical for auditory and visual naming.}
+      \field{volume}{69}
+      \field{year}{2013}
+      \field{pages}{267\bibrangedash 276}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2012.12.037
+      \endverb
+    \endentry
+    \entry{Coello2013}{article}{}
+      \name{author}{6}{}{%
+        {{hash=70884e7b104a19a653942aa5b78d120e}{%
+           family={Coello},
+           familyi={C\bibinitperiod},
+           given={A\bibnamedelima F},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=26eea7d9f1220e2bb524c1d9af2ed4d8}{%
+           family={Moritz-Gasser},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=44f9e056e9e5c621eea227c691edac05}{%
+           family={Martino},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ba77614d7aa2cea3b38a4805e9b472c5}{%
+           family={Martinoni},
+           familyi={M\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=65dd584e3337f6c5720f40eaf09964eb}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8073aa731c4224c0c1c6bd4b99abf812}
+      \strng{fullhash}{05e8d9c2740d8d39ffa5b454e027e6b9}
+      \strng{bibnamehash}{05e8d9c2740d8d39ffa5b454e027e6b9}
+      \strng{authorbibnamehash}{05e8d9c2740d8d39ffa5b454e027e6b9}
+      \strng{authornamehash}{8073aa731c4224c0c1c6bd4b99abf812}
+      \strng{authorfullhash}{05e8d9c2740d8d39ffa5b454e027e6b9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neurosurgery}
+      \field{number}{6}
+      \field{title}{Selection of intraoperative tasks for awake mapping based on relationships between tumor location and functional networks.}
+      \field{volume}{119}
+      \field{year}{2013}
+      \field{pages}{1380\bibrangedash 1394}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.3171/2013.6.jns122470
+      \endverb
+    \endentry
+    \entry{Darder2012}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=38b158c56e4d8857c253ed8f6a6df32d}{%
+           family={Darder},
+           familyi={D\bibinitperiod},
+           given={J\bibnamedelima M\bibnamedelima G},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=95111b008ae56a890034f83fb7d131af}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={P\bibnamedelima G},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f8b45ca1903539d3cb2afbd705929230}{%
+           family={Abujamara},
+           familyi={A\bibinitperiod},
+           given={A\bibnamedelima L},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{c2ae0235f04ef120151052939d21147d}
+      \strng{fullhash}{c2ae0235f04ef120151052939d21147d}
+      \strng{bibnamehash}{c2ae0235f04ef120151052939d21147d}
+      \strng{authorbibnamehash}{c2ae0235f04ef120151052939d21147d}
+      \strng{authornamehash}{c2ae0235f04ef120151052939d21147d}
+      \strng{authorfullhash}{c2ae0235f04ef120151052939d21147d}
+      \strng{editorbibnamehash}{f8b45ca1903539d3cb2afbd705929230}
+      \strng{editornamehash}{f8b45ca1903539d3cb2afbd705929230}
+      \strng{editorfullhash}{f8b45ca1903539d3cb2afbd705929230}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Diagnostic Techniques and Surgical Management of Brain Tumors.}
+      \field{title}{Management of Brain Tumors in Eloquent Areas.}
+      \field{year}{2012}
+      \verb{doi}
+      \verb https://doi.org/10.5772/21796
+      \endverb
+    \endentry
+    \entry{Demonet2005}{article}{}
+      \name{author}{3}{}{%
+        {{hash=25260bbcf6ca6f52f3a35f578847ad74}{%
+           family={Démonet},
+           familyi={D\bibinitperiod},
+           given={J\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=190aabeea71c9e60180a47f6ff81c56b}{%
+           family={Thierry},
+           familyi={T\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=145e8dd0830b8751f318cebba702c173}{%
+           family={Cardebat},
+           familyi={C\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{20ced08b48da990b9b7e1b7a1c2cba37}
+      \strng{fullhash}{04369a3941cb43a8a6ba70e5258a8307}
+      \strng{bibnamehash}{04369a3941cb43a8a6ba70e5258a8307}
+      \strng{authorbibnamehash}{04369a3941cb43a8a6ba70e5258a8307}
+      \strng{authornamehash}{20ced08b48da990b9b7e1b7a1c2cba37}
+      \strng{authorfullhash}{04369a3941cb43a8a6ba70e5258a8307}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physiological Reviews}
+      \field{number}{1}
+      \field{title}{Renewal of the neurophysiology of language: Functional neuroimaging.}
+      \field{volume}{85}
+      \field{year}{2005}
+      \field{pages}{49\bibrangedash 95}
+      \range{pages}{47}
+      \verb{doi}
+      \verb 10.1152/physrev.00049.2003
+      \endverb
+    \endentry
+    \entry{Desmurget2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a9cea3c64060220ed65c811441ed3d32}{%
+           family={Desmurget},
+           familyi={D\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d3cce1dc91660bc7738770e4cd710fa1}{%
+           family={Bonnetblanc},
+           familyi={B\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{61c7c681991683003a68afa3c68d268a}
+      \strng{fullhash}{94ff27b954c224ae98ff521cd1e11c8c}
+      \strng{bibnamehash}{94ff27b954c224ae98ff521cd1e11c8c}
+      \strng{authorbibnamehash}{94ff27b954c224ae98ff521cd1e11c8c}
+      \strng{authornamehash}{61c7c681991683003a68afa3c68d268a}
+      \strng{authorfullhash}{94ff27b954c224ae98ff521cd1e11c8c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain}
+      \field{number}{4}
+      \field{title}{Contrasting acute and slow-growing lesions: A new door to brain plasticity.}
+      \field{volume}{130}
+      \field{year}{2007}
+      \field{pages}{898\bibrangedash 914}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1093/brain/awl300
+      \endverb
+    \endentry
+    \entry{Devadiga2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fa4b04cd9e422f6cbd613be0c44e567a}{%
+           family={Devadiga},
+           familyi={D\bibinitperiod},
+           given={D\bibnamedelima N},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f4feb632ae93b36c99cb07260eb2806e}{%
+           family={Bhat},
+           familyi={B\bibinitperiod},
+           given={J\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2ed400cef2820c47808257eb58085db}
+      \strng{fullhash}{c2ed400cef2820c47808257eb58085db}
+      \strng{bibnamehash}{c2ed400cef2820c47808257eb58085db}
+      \strng{authorbibnamehash}{c2ed400cef2820c47808257eb58085db}
+      \strng{authornamehash}{c2ed400cef2820c47808257eb58085db}
+      \strng{authorfullhash}{c2ed400cef2820c47808257eb58085db}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Speech and Hearing Research}
+      \field{number}{1}
+      \field{title}{Oral Diadokokinetic Rate - An Insight into Speech Motor Control.}
+      \field{volume}{1}
+      \field{year}{2012}
+      \field{pages}{10\bibrangedash 14}
+      \range{pages}{5}
+    \endentry
+    \entry{Witte2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=195cd68f36afbecf74f0e8b4cb6e53d5}{%
+           family={Witte},
+           familyi={W\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Free University of Brussels}%
+      }
+      \strng{namehash}{195cd68f36afbecf74f0e8b4cb6e53d5}
+      \strng{fullhash}{195cd68f36afbecf74f0e8b4cb6e53d5}
+      \strng{bibnamehash}{195cd68f36afbecf74f0e8b4cb6e53d5}
+      \strng{authorbibnamehash}{195cd68f36afbecf74f0e8b4cb6e53d5}
+      \strng{authornamehash}{195cd68f36afbecf74f0e8b4cb6e53d5}
+      \strng{authorfullhash}{195cd68f36afbecf74f0e8b4cb6e53d5}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Speaking the Language of the Brain: A neurolinguistic approach to the assessment of brain tumour patients undergoing awake surgery.}
+      \field{type}{phdthesis}
+      \field{year}{2015}
+    \endentry
+    \entry{Witte2015a}{article}{}
+      \name{author}{7}{}{%
+        {{hash=195cd68f36afbecf74f0e8b4cb6e53d5}{%
+           family={Witte},
+           familyi={W\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=668e115f597fe415c7564003ec4edc1e}{%
+           family={Satoer},
+           familyi={S\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=882f4aea713d1fbc8c2f2013d03996b4}{%
+           family={Robert},
+           familyi={R\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3d057ebfafc5c37269564b32f88a299c}{%
+           family={Colle},
+           familyi={C\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=53c90be8b17f4bfb16f99c4b9677b0c9}{%
+           family={Verheyen},
+           familyi={V\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=290969d6565f0ba2e70ba380ab5fb36f}{%
+           family={Visch-Brink},
+           familyi={V\bibinithyphendelim B\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=897b97ff31f2a16496375bd2f38aac78}{%
+           family={Mariën},
+           familyi={M\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0f552d032ae81dec6d623c0293c71f6}
+      \strng{fullhash}{efa30f7ee0db34ddba202f9e1a6290ed}
+      \strng{bibnamehash}{efa30f7ee0db34ddba202f9e1a6290ed}
+      \strng{authorbibnamehash}{efa30f7ee0db34ddba202f9e1a6290ed}
+      \strng{authornamehash}{f0f552d032ae81dec6d623c0293c71f6}
+      \strng{authorfullhash}{efa30f7ee0db34ddba202f9e1a6290ed}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain and Language}
+      \field{title}{The Dutch Linguistic Intraoperative Protocol: A valid linguistic approach to awake brain surgery.}
+      \field{volume}{140}
+      \field{year}{2015}
+      \field{pages}{35\bibrangedash 48}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.bandl.2014.10.011
+      \endverb
+    \endentry
+    \entry{Duffau2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{fullhash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{bibnamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authorbibnamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authornamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authorfullhash}{211d6b9a1144804dc19bb0d291078574}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurophysiologie Clinique}
+      \field{number}{6}
+      \field{title}{Contribution of cortical and subcortical electrostimulation in brain glioma surgery: Methodological and functional considerations.}
+      \field{volume}{37}
+      \field{year}{2007}
+      \field{pages}{373\bibrangedash 382}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.neucli.2007.09.003
+      \endverb
+    \endentry
+    \entry{Duffau2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{fullhash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{bibnamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authorbibnamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authornamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authorfullhash}{211d6b9a1144804dc19bb0d291078574}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Neurochirurgica}
+      \field{number}{4}
+      \field{title}{The challenge to remove diffuse low-grade gliomas while preserving brain functions.}
+      \field{volume}{154}
+      \field{year}{2012}
+      \field{pages}{569\bibrangedash 574}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s00701-012-1275-7
+      \endverb
+    \endentry
+    \entry{Duffau2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{fullhash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{bibnamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authorbibnamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authornamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authorfullhash}{211d6b9a1144804dc19bb0d291078574}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Neurochirurgica}
+      \field{number}{8}
+      \field{title}{The usefulness of the asleep-awake-asleep glioma surgery.}
+      \field{volume}{156}
+      \field{year}{2014}
+      \field{pages}{1493\bibrangedash 494}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1007/s00701-014-2124-7
+      \endverb
+    \endentry
+    \entry{Duffau2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{fullhash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{bibnamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authorbibnamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authornamehash}{211d6b9a1144804dc19bb0d291078574}
+      \strng{authorfullhash}{211d6b9a1144804dc19bb0d291078574}
+      \field{extraname}{4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain Plasticity}
+      \field{number}{1}
+      \field{title}{Stimulation Mapping of Myelinated Tracts in Awake Patients.}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{pages}{99\bibrangedash 113}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.3233/bpl-160027
+      \endverb
+    \endentry
+    \entry{Duffau2005}{article}{}
+      \name{author}{6}{}{%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=49ddf39a1965e64451b02b539f0a4a34}{%
+           family={Gatignol},
+           familyi={G\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2b28bad6551bf3752babd9e71c0f663f}{%
+           family={Mandonnet},
+           familyi={M\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cc832994bce05e0e62222e1f841ce37c}{%
+           family={Peruzzi},
+           familyi={P\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a90c071f18518caaf37c4f2ca602e5dd}{%
+           family={Tzourio-Mazoyer},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=489ce6d4a3b2d08e1e5bef215cf727e8}{%
+           family={Capelle},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8277da8359de0a3d300c6c0fa57277f0}
+      \strng{fullhash}{0c3269ce06a9fdf1ad07b8f5e96640c2}
+      \strng{bibnamehash}{0c3269ce06a9fdf1ad07b8f5e96640c2}
+      \strng{authorbibnamehash}{0c3269ce06a9fdf1ad07b8f5e96640c2}
+      \strng{authornamehash}{8277da8359de0a3d300c6c0fa57277f0}
+      \strng{authorfullhash}{0c3269ce06a9fdf1ad07b8f5e96640c2}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain}
+      \field{number}{4}
+      \field{title}{New insights into the anatomo-functional connectivity of the semantic system: A study using cortico-subcortical electrostimulations.}
+      \field{volume}{128}
+      \field{year}{2005}
+      \field{pages}{797\bibrangedash 810}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1093/brain/awh423
+      \endverb
+    \endentry
+    \entry{Duffau2006}{article}{}
+      \name{author}{4}{}{%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=067c6390127fa4e3f2cdb4a5ce2ef12e}{%
+           family={Taillandier},
+           familyi={T\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=49ddf39a1965e64451b02b539f0a4a34}{%
+           family={Gatignol},
+           familyi={G\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=489ce6d4a3b2d08e1e5bef215cf727e8}{%
+           family={Capelle},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8277da8359de0a3d300c6c0fa57277f0}
+      \strng{fullhash}{073caa9ef6d64d081d71ad009391c612}
+      \strng{bibnamehash}{073caa9ef6d64d081d71ad009391c612}
+      \strng{authorbibnamehash}{073caa9ef6d64d081d71ad009391c612}
+      \strng{authornamehash}{8277da8359de0a3d300c6c0fa57277f0}
+      \strng{authorfullhash}{073caa9ef6d64d081d71ad009391c612}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Neurology and Neurosurgery}
+      \field{number}{6}
+      \field{title}{The insular lobe and brain plasticity: Lessons from tumor surgery.}
+      \field{volume}{108}
+      \field{year}{2006}
+      \field{pages}{543\bibrangedash 548}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.clineuro.2005.09.004
+      \endverb
+    \endentry
+    \entry{Fecteau2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e0045b04345853a075a7143fa2e632e5}{%
+           family={Fecteau},
+           familyi={F\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=da00a3307ca498637a64b5449d052ca0}{%
+           family={Agosta},
+           familyi={A\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8261a9b73d8ae706dc49e2536f3890a0}{%
+           family={Oberman},
+           familyi={O\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=63a9244964372e4ac8cdaade5c52a15f}{%
+           family={Pascual-Leone},
+           familyi={P\bibinithyphendelim L\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6347467591d972963a6eed76fc0cc5a7}
+      \strng{fullhash}{09c2d36f7dd6e5627d96ddaea55f451d}
+      \strng{bibnamehash}{09c2d36f7dd6e5627d96ddaea55f451d}
+      \strng{authorbibnamehash}{09c2d36f7dd6e5627d96ddaea55f451d}
+      \strng{authornamehash}{6347467591d972963a6eed76fc0cc5a7}
+      \strng{authorfullhash}{09c2d36f7dd6e5627d96ddaea55f451d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Neuroscience}
+      \field{number}{1}
+      \field{title}{Brain stimulation over Broca’s area differentially modulates naming skills in neurotypical adults and individuals with Asperger’s syndrome.}
+      \field{volume}{34}
+      \field{year}{2011}
+      \field{pages}{158\bibrangedash 164}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1111/j.1460-9568.2011.07726.x
+      \endverb
+    \endentry
+    \entry{Friederici2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=82031d03ac4faabed3342b5133bf3484}{%
+           family={Friederici},
+           familyi={F\bibinitperiod},
+           given={A\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{fullhash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{bibnamehash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{authorbibnamehash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{authornamehash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{authorfullhash}{82031d03ac4faabed3342b5133bf3484}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Cognitive Sciences}
+      \field{number}{4}
+      \field{title}{Pathways to language: fiber tracts in the human brain.}
+      \field{volume}{13}
+      \field{year}{2009}
+      \field{pages}{175\bibrangedash 181}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.tics.2009.01.001
+      \endverb
+    \endentry
+    \entry{Friederici2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=82031d03ac4faabed3342b5133bf3484}{%
+           family={Friederici},
+           familyi={F\bibinitperiod},
+           given={A\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{fullhash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{bibnamehash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{authorbibnamehash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{authornamehash}{82031d03ac4faabed3342b5133bf3484}
+      \strng{authorfullhash}{82031d03ac4faabed3342b5133bf3484}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physiological Reviews}
+      \field{number}{4}
+      \field{title}{The brain basis of language processing: From structure to function.}
+      \field{volume}{91}
+      \field{year}{2011}
+      \field{pages}{1357\bibrangedash 1392}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1152/physrev.00006.2011
+      \endverb
+    \endentry
+    \entry{Fyndanis2017}{article}{}
+      \name{author}{18}{}{%
+        {{hash=be6072c70cb2db100c3691ee66da6f00}{%
+           family={Fyndanis},
+           familyi={F\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8f46a264cbc5ee5ee0d11593c6db5305}{%
+           family={Lind},
+           familyi={L\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ad2dc6b7af9b06a4388d4db4e5bfc916}{%
+           family={Varlokosta},
+           familyi={V\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2d47fe2a7a660b8f29ab9afb598fa5aa}{%
+           family={Kambanaros},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b5cc91c794f03c4dbefedb13cb67ccfb}{%
+           family={Soroli},
+           familyi={S\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9fe34245f11abf4092b785a757ca12f7}{%
+           family={Ceder},
+           familyi={C\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d07ff71379489e33a75f9ced54cb115b}{%
+           family={Grohmann},
+           familyi={G\bibinitperiod},
+           given={K\bibnamedelima K},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f476482df68f7e7d3f602d135e25d17d}{%
+           family={Rofes},
+           familyi={R\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=903392766f9806c03f29315ee75df17a}{%
+           family={Simonsen},
+           familyi={S\bibinitperiod},
+           given={H\bibnamedelima G},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=0c5b7b5a7cbfe48e3bb1ccde3350640c}{%
+           family={Bjekić},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c8856b746d4a880fbe9c034284ef0470}{%
+           family={Gavarró},
+           familyi={G\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4d0b83b1e7d945e3efbbf16de8e40d06}{%
+           family={Kraljević},
+           familyi={K\bibinitperiod},
+           given={J\bibnamedelima Kuvač},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=ba2bf8d1acbb7147111edfc72de30e24}{%
+           family={Martínez-Ferreiro},
+           familyi={M\bibinithyphendelim F\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6cba3416a7ee9f5f8283975d980be842}{%
+           family={Munarriz},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=186ad8e5d8f93a16ece3681376fd5a63}{%
+           family={Pourquie},
+           familyi={P\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0de356b941018408c8266f47dd436baa}{%
+           family={Vuksanović},
+           familyi={V\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=88bc32234f5d62d4cfb4488683366280}{%
+           family={Zakariás},
+           familyi={Z\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fb72e25260acf24c44ddf00e255c9ec7}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e79922c52405ee7adb05deabb12dbc21}
+      \strng{fullhash}{3ceda8dd03d4b28658ad75d6cd4a6a6a}
+      \strng{bibnamehash}{3ceda8dd03d4b28658ad75d6cd4a6a6a}
+      \strng{authorbibnamehash}{3ceda8dd03d4b28658ad75d6cd4a6a6a}
+      \strng{authornamehash}{e79922c52405ee7adb05deabb12dbc21}
+      \strng{authorfullhash}{3ceda8dd03d4b28658ad75d6cd4a6a6a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical Linguistics and Phonetics}
+      \field{number}{7-9}
+      \field{title}{Cross-linguistic adaptations of The Comprehensive Aphasia Test: Challenges and solutions.}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{pages}{697\bibrangedash 710}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/02699206.2017.1310299
+      \endverb
+    \endentry
+    \entry{Geemen2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f96298aea7d25bc49bbb823a689463a1}{%
+           family={Geemen},
+           familyi={G\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=53219a1f9fa31496239da19bc979cf0c}{%
+           family={Herbert},
+           familyi={H\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=26eea7d9f1220e2bb524c1d9af2ed4d8}{%
+           family={Moritz-Gasser},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{7016d94bcb6b132bf533aff001e98d03}
+      \strng{fullhash}{31718d64006586d4c405d28a82516397}
+      \strng{bibnamehash}{31718d64006586d4c405d28a82516397}
+      \strng{authorbibnamehash}{31718d64006586d4c405d28a82516397}
+      \strng{authornamehash}{7016d94bcb6b132bf533aff001e98d03}
+      \strng{authorfullhash}{31718d64006586d4c405d28a82516397}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human brain mapping}
+      \field{number}{4}
+      \field{title}{Limited Plastic Potential of the Left Ventral Premotor Cortex in Speech Articulation : Evidence From Intraoperative Awake Mapping in Glioma Patients.}
+      \field{volume}{35}
+      \field{year}{2014}
+      \field{pages}{1587\bibrangedash 1596}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/hbm.22275
+      \endverb
+    \endentry
+    \entry{Gill2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3d325f2a8fff62f3d52e90b91c287bc7}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={D\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d5062c46f3e8acafec45d7e632f3a5c9}{%
+           family={Damann},
+           familyi={D\bibinitperiod},
+           given={K\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{09535f963e600a6193f244eed453c855}
+      \strng{fullhash}{09535f963e600a6193f244eed453c855}
+      \strng{bibnamehash}{09535f963e600a6193f244eed453c855}
+      \strng{authorbibnamehash}{09535f963e600a6193f244eed453c855}
+      \strng{authornamehash}{09535f963e600a6193f244eed453c855}
+      \strng{authorfullhash}{09535f963e600a6193f244eed453c855}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Continuum}
+      \field{title}{Language dysfunction.}
+      \field{year}{2015}
+      \field{pages}{627\bibrangedash 645}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1212/01.con.0000466657.97531.af
+      \endverb
+    \endentry
+    \entry{Goodglass2001}{book}{}
+      \name{author}{3}{}{%
+        {{hash=30274376e95c92c3fd6d64ee4c1886ff}{%
+           family={Goodglass},
+           familyi={G\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cbb81bd11259ec616a80411ae65ccf62}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6a986c38ecf018aa8d0e69cd38c92087}{%
+           family={Barresi},
+           familyi={B\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{623fdbdb86aee7c55ca2538bb931168e}
+      \strng{fullhash}{7b70a0df0e24039154414b0877e8843c}
+      \strng{bibnamehash}{7b70a0df0e24039154414b0877e8843c}
+      \strng{authorbibnamehash}{7b70a0df0e24039154414b0877e8843c}
+      \strng{authornamehash}{623fdbdb86aee7c55ca2538bb931168e}
+      \strng{authorfullhash}{7b70a0df0e24039154414b0877e8843c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{The assessment of aphasia and related disorders}
+      \field{year}{2001}
+    \endentry
+    \entry{Hickok2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3ae5badef69173f7d4ea621eba20a366}{%
+           family={Hickok},
+           familyi={H\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ae5badef69173f7d4ea621eba20a366}
+      \strng{fullhash}{3ae5badef69173f7d4ea621eba20a366}
+      \strng{bibnamehash}{3ae5badef69173f7d4ea621eba20a366}
+      \strng{authorbibnamehash}{3ae5badef69173f7d4ea621eba20a366}
+      \strng{authornamehash}{3ae5badef69173f7d4ea621eba20a366}
+      \strng{authorfullhash}{3ae5badef69173f7d4ea621eba20a366}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Communication Disorders}
+      \field{number}{6}
+      \field{title}{The cortical organization of speech processing: Feedback control and predictive coding the context of a dual-stream model.}
+      \field{volume}{45}
+      \field{year}{2012}
+      \field{pages}{393\bibrangedash 402}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.jcomdis.2012.06.004
+      \endverb
+    \endentry
+    \entry{Hosomi2009}{article}{}
+      \name{author}{7}{}{%
+        {{hash=962798813115b0d8d564f5ed22c90f18}{%
+           family={Hosomi},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=80cbdcf45b8458b7d5b65f514f459f1d}{%
+           family={Nagakane},
+           familyi={N\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f8d386bd533a50057734b62a68e29532}{%
+           family={Yamada},
+           familyi={Y\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=115ae466c664315d7950194039d5ee3f}{%
+           family={Kuriyama},
+           familyi={K\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6ce376bd034be5053131189e76e69a26}{%
+           family={Mizuno},
+           familyi={M\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1d7d79dd148e2e251bce34c4efad46d2}{%
+           family={Nishimura},
+           familyi={N\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=761f370c8ec42cee1c27455af9207478}{%
+           family={Nakagawa},
+           familyi={N\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e343903051741d4cec1f7446b0aec04}
+      \strng{fullhash}{fddf5653d5f57650364916e746b7a092}
+      \strng{bibnamehash}{fddf5653d5f57650364916e746b7a092}
+      \strng{authorbibnamehash}{fddf5653d5f57650364916e746b7a092}
+      \strng{authornamehash}{9e343903051741d4cec1f7446b0aec04}
+      \strng{authorfullhash}{fddf5653d5f57650364916e746b7a092}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuroradiology}
+      \field{number}{9}
+      \field{title}{Assessment of arcuate fasciculus with diffusion-tensor tractography may predict the prognosis of aphasia in patients with left middle cerebral artery infarcts.}
+      \field{volume}{51}
+      \field{year}{2009}
+      \field{pages}{549\bibrangedash 555}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s00234-009-0534-7
+      \endverb
+    \endentry
+    \entry{Huth2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=57ff49f5cfeab832526d60a4d1f8af52}{%
+           family={Huth},
+           familyi={H\bibinitperiod},
+           given={A\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=2169a1b89e9e7c92a22ba4e8ce3d8008}{%
+           family={Heer},
+           familyi={H\bibinitperiod},
+           given={W\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=0f5c12d534808c0fb8f2f616a419f211}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={T\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a43f569c886c0f4f534a5d82258c330a}{%
+           family={Theunissen},
+           familyi={T\bibinitperiod},
+           given={F\bibnamedelima E},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3bcc402d48adf8fa554afaa851d96688}{%
+           family={Gallant},
+           familyi={G\bibinitperiod},
+           given={J\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fa171aa8299b7b0739c6b27bfbc848f}
+      \strng{fullhash}{94c5a407560064b87828f695da10d087}
+      \strng{bibnamehash}{94c5a407560064b87828f695da10d087}
+      \strng{authorbibnamehash}{94c5a407560064b87828f695da10d087}
+      \strng{authornamehash}{0fa171aa8299b7b0739c6b27bfbc848f}
+      \strng{authorfullhash}{94c5a407560064b87828f695da10d087}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Natural speech reveals the semantic maps that tile human cerebral cortex.}
+      \field{volume}{532}
+      \field{year}{2016}
+      \field{pages}{453\bibrangedash 458}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature17637
+      \endverb
+    \endentry
+    \entry{Leitao2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=472e24049cf703733a4f917fad940f87}{%
+           family={Leitão},
+           familyi={L\bibinitperiod},
+           given={J\bibnamedelima A\bibnamedelima G},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=2092cf9915cc3821fae5c4e142d39034}{%
+           family={Figueira},
+           familyi={F\bibinitperiod},
+           given={A\bibnamedelima P\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0f08c25456292df0511d61b6491df804}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={A\bibnamedelima C\bibnamedelima F},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{cca991d9d699f78f347b8c4c6cbe8f65}
+      \strng{fullhash}{1896e40dc36d3ed5f81d5532ad4e3789}
+      \strng{bibnamehash}{1896e40dc36d3ed5f81d5532ad4e3789}
+      \strng{authorbibnamehash}{1896e40dc36d3ed5f81d5532ad4e3789}
+      \strng{authornamehash}{cca991d9d699f78f347b8c4c6cbe8f65}
+      \strng{authorfullhash}{1896e40dc36d3ed5f81d5532ad4e3789}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Laboratório de Psicologia}
+      \field{number}{1}
+      \field{title}{Normas de imaginabilidade, familiaridade e idade de aquisição para 252 nomes comuns.}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{pages}{101\bibrangedash 119}
+      \range{pages}{19}
+    \endentry
+    \entry{Lubrano2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2227935b9bb66f1f8549751d7cbc50dc}{%
+           family={Lubrano},
+           familyi={L\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2e1ef1ab4afae6af016e1906754d8f57}{%
+           family={Filleron},
+           familyi={F\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=25260bbcf6ca6f52f3a35f578847ad74}{%
+           family={Démonet},
+           familyi={D\bibinitperiod},
+           given={J\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=4283ff8edb209aa505971b217ed69de3}{%
+           family={Roux},
+           familyi={R\bibinitperiod},
+           given={F\bibnamedelima E},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5590f56096f60b4d77d1cd490a85e55}
+      \strng{fullhash}{9779feab16b3f178dc2487968904b152}
+      \strng{bibnamehash}{9779feab16b3f178dc2487968904b152}
+      \strng{authorbibnamehash}{9779feab16b3f178dc2487968904b152}
+      \strng{authornamehash}{a5590f56096f60b4d77d1cd490a85e55}
+      \strng{authorfullhash}{9779feab16b3f178dc2487968904b152}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Brain Mapping}
+      \field{number}{2}
+      \field{title}{Anatomical correlates for category-specific naming of objects and actions: A brain stimulation mapping study.}
+      \field{volume}{35}
+      \field{year}{2014}
+      \field{pages}{429\bibrangedash 443}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1002/hbm.22189
+      \endverb
+    \endentry
+    \entry{Maldonado2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0741e3a1877a8d67e8431c79415317af}{%
+           family={Maldonado},
+           familyi={M\bibinitperiod},
+           given={I\bibnamedelima L},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=26eea7d9f1220e2bb524c1d9af2ed4d8}{%
+           family={Moritz-Gasser},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5d168746704ffce4e85e097b26b92f7}
+      \strng{fullhash}{4c91499a571bf216ef0be56bfe978557}
+      \strng{bibnamehash}{4c91499a571bf216ef0be56bfe978557}
+      \strng{authorbibnamehash}{4c91499a571bf216ef0be56bfe978557}
+      \strng{authornamehash}{c5d168746704ffce4e85e097b26b92f7}
+      \strng{authorfullhash}{4c91499a571bf216ef0be56bfe978557}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain Structure and Function}
+      \field{number}{3}
+      \field{title}{Does the left superior longitudinal fascicle subserve language semantics? A brain electrostimulation study.}
+      \field{volume}{216}
+      \field{year}{2011}
+      \field{pages}{263\bibrangedash 274}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s00429-011-0309-x
+      \endverb
+    \endentry
+    \entry{Mandonnet2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2b28bad6551bf3752babd9e71c0f663f}{%
+           family={Mandonnet},
+           familyi={M\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1c4d07ee7f2c5f80096acd6a9eed6a9c}{%
+           family={Winkler},
+           familyi={W\bibinitperiod},
+           given={P\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{b32d7685700c3e614e45805c2584a202}
+      \strng{fullhash}{85141a150d983aafca5a7e9c9f65f637}
+      \strng{bibnamehash}{85141a150d983aafca5a7e9c9f65f637}
+      \strng{authorbibnamehash}{85141a150d983aafca5a7e9c9f65f637}
+      \strng{authornamehash}{b32d7685700c3e614e45805c2584a202}
+      \strng{authorfullhash}{85141a150d983aafca5a7e9c9f65f637}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Neurochirurgica}
+      \field{number}{2}
+      \field{title}{Direct electrical stimulation as an input gate into brain functional networks: Principles, advantages and limitations.}
+      \field{volume}{152}
+      \field{year}{2010}
+      \field{pages}{185\bibrangedash 193}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s00701-009-0469-0
+      \endverb
+    \endentry
+    \entry{Matchin2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a94db68d9707e4c019eaecb827378140}{%
+           family={Matchin},
+           familyi={M\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=bf4373a4dbc8480cfc579089d0254937}{%
+           family={Brodbeck},
+           familyi={B\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5dcb484ab5eb6f1c78c57d0934f5e6d0}{%
+           family={Hammerly},
+           familyi={H\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2e945cf30aaf8934d0d633c9caa4104e}{%
+           family={Lau},
+           familyi={L\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{76dda5714842aa80750da43cfe1e8970}
+      \strng{fullhash}{1aa05203ab0d62f3279daaec41527923}
+      \strng{bibnamehash}{1aa05203ab0d62f3279daaec41527923}
+      \strng{authorbibnamehash}{1aa05203ab0d62f3279daaec41527923}
+      \strng{authornamehash}{76dda5714842aa80750da43cfe1e8970}
+      \strng{authorfullhash}{1aa05203ab0d62f3279daaec41527923}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Brain Mapping}
+      \field{number}{2}
+      \field{title}{The temporal dynamics of structure and content in sentence comprehension: Evidence from fMRI‐constrained MEG.}
+      \field{volume}{40}
+      \field{year}{2019}
+      \field{pages}{663\bibrangedash 678}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/hbm.24403
+      \endverb
+    \endentry
+    \entry{Matos2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=91627aba6e2a62e30c95d0d7bdec8592}{%
+           family={Matos},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ad353f72744034ba2facf337450a3078}{%
+           family={Brito},
+           familyi={B\bibinitperiod},
+           given={A\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{210f519d03e257b2f2d734d12b648612}
+      \strng{fullhash}{210f519d03e257b2f2d734d12b648612}
+      \strng{bibnamehash}{210f519d03e257b2f2d734d12b648612}
+      \strng{authorbibnamehash}{210f519d03e257b2f2d734d12b648612}
+      \strng{authornamehash}{210f519d03e257b2f2d734d12b648612}
+      \strng{authorfullhash}{210f519d03e257b2f2d734d12b648612}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Portuguese Linguistics}
+      \field{number}{1}
+      \field{title}{On the syntax of canonical comparatives in European Portuguese.}
+      \field{volume}{1}
+      \field{year}{2002}
+      \field{pages}{41\bibrangedash 81}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.5334/jpl.48
+      \endverb
+    \endentry
+    \entry{Miotto2011}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2bde71853490a7308000626b48c1b15d}{%
+           family={Miotto},
+           familyi={M\bibinitperiod},
+           given={E\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=76359ae432624ffa9d7bc9e2947a8936}{%
+           family={Junior},
+           familyi={J\bibinitperiod},
+           given={A\bibnamedelima Silva},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=71d9437cc56ec7e28bbfabca564249c1}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={C\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=5e0fae1cd61a46f491e33a5e395273d5}{%
+           family={Cabrera},
+           familyi={C\bibinitperiod},
+           given={H\bibnamedelima N},
+           giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=dc96198a0f2ed1763c8cdb7dfeb99011}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b2ed2bc5841cb76583a4666b9bb0b73b}{%
+           family={Benute},
+           familyi={B\bibinitperiod},
+           given={G\bibnamedelima R},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8dd5c29647470dc8ba47235a9c17949c}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={M\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{633ddd52a17ca6cab77844b95a1c4d08}
+      \strng{fullhash}{91e7df5173afc50564fe72ec1da38e43}
+      \strng{bibnamehash}{91e7df5173afc50564fe72ec1da38e43}
+      \strng{authorbibnamehash}{91e7df5173afc50564fe72ec1da38e43}
+      \strng{authornamehash}{633ddd52a17ca6cab77844b95a1c4d08}
+      \strng{authorfullhash}{91e7df5173afc50564fe72ec1da38e43}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arquivos de Neuro-Psiquiatria}
+      \field{number}{4}
+      \field{title}{Cognitive impairments in patients with low grade gliomas and high grade gliomas.}
+      \field{volume}{69}
+      \field{year}{2011}
+      \field{pages}{596\bibrangedash 601}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1590/s0004-282x2011000500005
+      \endverb
+    \endentry
+    \entry{Monsell1989}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0628cf1447584790b8e42932336834d3}{%
+           family={Monsell},
+           familyi={M\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f32a05a476025cef91e167d2d84c19e9}{%
+           family={Doyle},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=5d570a3b53e368e1a3073c7b42b11f0f}{%
+           family={Haggard},
+           familyi={H\bibinitperiod},
+           given={P\bibnamedelima N},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b68babd84a7511b731832f5e5767ad6e}
+      \strng{fullhash}{374668143f05cd10d611dabbbc3fd0b5}
+      \strng{bibnamehash}{374668143f05cd10d611dabbbc3fd0b5}
+      \strng{authorbibnamehash}{374668143f05cd10d611dabbbc3fd0b5}
+      \strng{authornamehash}{b68babd84a7511b731832f5e5767ad6e}
+      \strng{authorfullhash}{374668143f05cd10d611dabbbc3fd0b5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{number}{1}
+      \field{title}{Effects of frequency on visual word recognition tasks: Where are they?}
+      \field{volume}{118}
+      \field{year}{1989}
+      \field{pages}{43\bibrangedash 71}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1037/0096-3445.118.1.43
+      \endverb
+    \endentry
+    \entry{MoritzGasser2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=26eea7d9f1220e2bb524c1d9af2ed4d8}{%
+           family={Moritz-Gasser},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4519b6be1dbe97d74ff204334c7dbb5}
+      \strng{fullhash}{f4519b6be1dbe97d74ff204334c7dbb5}
+      \strng{bibnamehash}{f4519b6be1dbe97d74ff204334c7dbb5}
+      \strng{authorbibnamehash}{f4519b6be1dbe97d74ff204334c7dbb5}
+      \strng{authornamehash}{f4519b6be1dbe97d74ff204334c7dbb5}
+      \strng{authorfullhash}{f4519b6be1dbe97d74ff204334c7dbb5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Neuroscience}
+      \field{title}{The anatomo-functional connectivity of word repetition : insights provided by awake brain tumor surgery.}
+      \field{volume}{7}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.3389/fnhum.2013.00405
+      \endverb
+    \endentry
+    \entry{MoritzGasser2013a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=26eea7d9f1220e2bb524c1d9af2ed4d8}{%
+           family={Moritz-Gasser},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=317b9f8c69af23dc32907b1f2ea868cb}{%
+           family={Herbet},
+           familyi={H\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{616a374e7ed89430ad5d1d19aaccf75d}
+      \strng{fullhash}{892177a8fbe91315f48fad4c80edcd8a}
+      \strng{bibnamehash}{892177a8fbe91315f48fad4c80edcd8a}
+      \strng{authorbibnamehash}{892177a8fbe91315f48fad4c80edcd8a}
+      \strng{authornamehash}{616a374e7ed89430ad5d1d19aaccf75d}
+      \strng{authorfullhash}{892177a8fbe91315f48fad4c80edcd8a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuropsychologia}
+      \field{number}{10}
+      \field{title}{Mapping the connectivity underlying multimodal (verbal and non-verbal) semantic processing: A brain electrostimulation study.}
+      \field{volume}{51}
+      \field{year}{2013}
+      \field{pages}{1814\bibrangedash 1822}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.neuropsychologia.2013.06.007
+      \endverb
+    \endentry
+    \entry{Patterson2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=46f8fce872f7659ddc424db95bd20764}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9cedff2cb9141a57c36c545bdd855be3}{%
+           family={Nestor},
+           familyi={N\bibinitperiod},
+           given={P\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=830d3a663d94fa9198881b5ab1006ad7}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={T\bibnamedelima T},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a01ee911fcf97c536de5326c5d88d498}
+      \strng{fullhash}{9eb0a667dc358b22b1f20cab53dece81}
+      \strng{bibnamehash}{9eb0a667dc358b22b1f20cab53dece81}
+      \strng{authorbibnamehash}{9eb0a667dc358b22b1f20cab53dece81}
+      \strng{authornamehash}{a01ee911fcf97c536de5326c5d88d498}
+      \strng{authorfullhash}{9eb0a667dc358b22b1f20cab53dece81}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Neuroscience}
+      \field{number}{12}
+      \field{title}{Where do you know what you know? The representation of semantic knowledge in the human brain.}
+      \field{volume}{8}
+      \field{year}{2007}
+      \field{pages}{976\bibrangedash 987}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1038/nrn2277
+      \endverb
+    \endentry
+    \entry{Pereira2009}{article}{}
+      \name{author}{6}{}{%
+        {{hash=089ef3c195ac641c15fdce2ba39c7052}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={L\bibnamedelima C\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8b4e8a3df18cedbf64447a54b0572774}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={K\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7cc7e7de9ad81ed2752c4a428b18ee7a}{%
+           family={L'Abbate},
+           familyi={L\bibinitperiod},
+           given={G\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c3edf508fa4106a1e9224dd99f882dad}{%
+           family={Sugai},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=881da96c044f97520ce1720b72de0b46}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={J\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6f9f7917257066281307077335d3d2b9}{%
+           family={Motta},
+           familyi={M\bibinitperiod},
+           given={L\bibnamedelima A\bibnamedelima {da}},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{e55c22701bfa2f7a27578a73a5414f69}
+      \strng{fullhash}{58c5bd69d9707785728b70981f8d503d}
+      \strng{bibnamehash}{58c5bd69d9707785728b70981f8d503d}
+      \strng{authorbibnamehash}{58c5bd69d9707785728b70981f8d503d}
+      \strng{authornamehash}{e55c22701bfa2f7a27578a73a5414f69}
+      \strng{authorfullhash}{58c5bd69d9707785728b70981f8d503d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Neurochirurgica}
+      \field{number}{10}
+      \field{title}{Outcome of fully awake craniotomy for lesions near the eloquent cortex: Analysis of a prospective surgical series of 79 supratentorial primary brain tumors with long follow-up.}
+      \field{volume}{151}
+      \field{year}{2009}
+      \field{pages}{1215\bibrangedash 1230}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s00701-009-0363-9
+      \endverb
+    \endentry
+    \entry{Radanovic2004}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e25fa5029c0c530aaf4e350ed0699cb9}{%
+           family={Radanovic},
+           familyi={R\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=415b9eaa7432956ce467f89b7c4bce65}{%
+           family={Mansur},
+           familyi={M\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ee553fbc0a00d9c3dc46d015b135463a}{%
+           family={Azambuja},
+           familyi={A\bibinitperiod},
+           given={M\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e130a7cb0f01c3db3bedfd11f51d618e}{%
+           family={Porto},
+           familyi={P\bibinitperiod},
+           given={C\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=48ea3e805de5f2278d89c4047e148855}{%
+           family={Scaff},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3fb49bfc30c8f011dc5f110496479c45}
+      \strng{fullhash}{fc98cb2b6a693f71028003c668bca4da}
+      \strng{bibnamehash}{fc98cb2b6a693f71028003c668bca4da}
+      \strng{authorbibnamehash}{fc98cb2b6a693f71028003c668bca4da}
+      \strng{authornamehash}{3fb49bfc30c8f011dc5f110496479c45}
+      \strng{authorfullhash}{fc98cb2b6a693f71028003c668bca4da}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arquivos de Neuro-Psiquiatria}
+      \field{number}{1}
+      \field{title}{Contribution to the evaluation of language disturbances in subcortical lesions: a piloty study.}
+      \field{volume}{62}
+      \field{year}{2004}
+      \field{pages}{51\bibrangedash 57}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1590/s0004-282x2004000100009
+      \endverb
+    \endentry
+    \entry{Richardson2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=4937b47153e3a665167114e1047e4652}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={F\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=aa0f3ab69c31f967152a5ed9c6590dbe}{%
+           family={Seghier},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d082586d8f3ef9d44bfc2e1e1b51d9ed}{%
+           family={Leff},
+           familyi={L\bibinitperiod},
+           given={A\bibnamedelima P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e67b51bddd74670dfc7db0ee6bb13b9f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={M\bibnamedelima S\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=39c4e40e8ba836f03ae431a94b9df6d9}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={C\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffe10dd7c3e23e05692aeb4a74d15590}
+      \strng{fullhash}{d091ddb01c6250c01e342e5b3845bb50}
+      \strng{bibnamehash}{d091ddb01c6250c01e342e5b3845bb50}
+      \strng{authorbibnamehash}{d091ddb01c6250c01e342e5b3845bb50}
+      \strng{authornamehash}{ffe10dd7c3e23e05692aeb4a74d15590}
+      \strng{authorfullhash}{d091ddb01c6250c01e342e5b3845bb50}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{number}{22}
+      \field{title}{Multiple Routes from Occipital to Temporal Cortices during Reading.}
+      \field{volume}{31}
+      \field{year}{2011}
+      \field{pages}{8239\bibrangedash 8247}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1523/jneurosci.6519-10.2011
+      \endverb
+    \endentry
+    \entry{Ries2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=00b7615fdd19e1b5bfdb85b83f87b2f1}{%
+           family={Ries},
+           familyi={R\bibinitperiod},
+           given={S\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a5592f8c399e400a8295d3db7f006334}{%
+           family={Piai},
+           familyi={P\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7ee6f8f6f638a8fd43434f1e0f64bd2b}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=50002b7b722b4960bff21e5806434a12}{%
+           family={Griffin},
+           familyi={G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c81cfbe422ba6aa25dbd86d730e694a6}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0f8a7858b4cfb520ae2c256cef83cd20}{%
+           family={Henry},
+           familyi={H\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d41d8cd98f00b204e9800998ecf8427e}{%
+           family={...},
+           familyi={.\bibinitperiod}}}%
+        {{hash=a3c837156f4c967594e8cbd1299e22db}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={M\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a63f3a889fe7e2c148fac844ee66d7a4}
+      \strng{fullhash}{95013a0e204b5637069e1664d34a90f7}
+      \strng{bibnamehash}{95013a0e204b5637069e1664d34a90f7}
+      \strng{authorbibnamehash}{95013a0e204b5637069e1664d34a90f7}
+      \strng{authornamehash}{a63f3a889fe7e2c148fac844ee66d7a4}
+      \strng{authorfullhash}{95013a0e204b5637069e1664d34a90f7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain and Language}
+      \field{title}{Roles of ventral versus dorsal pathways in language production: An awake language mapping study.}
+      \field{volume}{191}
+      \field{year}{2019}
+      \field{pages}{17\bibrangedash 27}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.bandl.2019.01.001
+      \endverb
+    \endentry
+    \entry{Rofes2017}{article}{}
+      \name{author}{21}{}{%
+        {{hash=f476482df68f7e7d3f602d135e25d17d}{%
+           family={Rofes},
+           familyi={R\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2b28bad6551bf3752babd9e71c0f663f}{%
+           family={Mandonnet},
+           familyi={M\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=99b9c38bb91218d08af0c6f303209fde}{%
+           family={Godden},
+           familyi={G\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3efa85051e0302e58b0adddeca2d1201}{%
+           family={Baron},
+           familyi={B\bibinitperiod},
+           given={M\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=3d057ebfafc5c37269564b32f88a299c}{%
+           family={Colle},
+           familyi={C\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=69d656c43fe06cf5ee1c622840dd4f4e}{%
+           family={Darlix},
+           familyi={D\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=140be04a0533d14549d42cd6f90674ad}{%
+           family={Aguiar},
+           familyi={A\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=317b9f8c69af23dc32907b1f2ea868cb}{%
+           family={Herbet},
+           familyi={H\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2c65881ec3173d814ec79b85ebbbab6c}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2227935b9bb66f1f8549751d7cbc50dc}{%
+           family={Lubrano},
+           familyi={L\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=44f9e056e9e5c621eea227c691edac05}{%
+           family={Martino},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c6034f3edb60451945f61e4ab190fe5b}{%
+           family={Mathew},
+           familyi={M\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bd4cdba7bda26d1c518eb88cdf4b3593}{%
+           family={Miceli},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=26eea7d9f1220e2bb524c1d9af2ed4d8}{%
+           family={Moritz-Gasser},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=337117fe4c13b2f07569f92595d18c63}{%
+           family={Pallud},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dd3cdca096819faabeb46ecc3abaa461}{%
+           family={Papagno},
+           familyi={P\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=273e6b64f814e0e399f8ab3422c5b744}{%
+           family={Rech},
+           familyi={R\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=882f4aea713d1fbc8c2f2013d03996b4}{%
+           family={Robert},
+           familyi={R\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d41d8cd98f00b204e9800998ecf8427e}{%
+           family={...},
+           familyi={.\bibinitperiod}}}%
+        {{hash=c678346006c3ffecb92558187ed8a2c0}{%
+           family={Wager},
+           familyi={W\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{26f34394688f8ffca9a8c9e998e38a77}
+      \strng{fullhash}{f59db3f50c3f53fa4068dac801b4084f}
+      \strng{bibnamehash}{f59db3f50c3f53fa4068dac801b4084f}
+      \strng{authorbibnamehash}{f59db3f50c3f53fa4068dac801b4084f}
+      \strng{authornamehash}{26f34394688f8ffca9a8c9e998e38a77}
+      \strng{authorfullhash}{f59db3f50c3f53fa4068dac801b4084f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Neurochirurgica}
+      \field{number}{7}
+      \field{title}{Survey on current cognitive practices within the European Low-Grade Glioma Network: towards a European assessment protocol.}
+      \field{volume}{159}
+      \field{year}{2017}
+      \field{pages}{1167\bibrangedash 1178}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s00701-017-3192-2
+      \endverb
+    \endentry
+    \entry{Schlaug2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7a4790a26a4764d0bd9a50b5f09befe1}{%
+           family={Schlaug},
+           familyi={S\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3fbe6216bcb9eb6d9230c7cc104b0264}{%
+           family={Marchina},
+           familyi={M\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a3c16cdafbed0d3ea2b18b9a1ca4c316}{%
+           family={Norton},
+           familyi={N\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{96e6b9a2f2047dba12cfb0de9b472acb}
+      \strng{fullhash}{e677a453670cfcb7359cdf7f95264716}
+      \strng{bibnamehash}{e677a453670cfcb7359cdf7f95264716}
+      \strng{authorbibnamehash}{e677a453670cfcb7359cdf7f95264716}
+      \strng{authornamehash}{96e6b9a2f2047dba12cfb0de9b472acb}
+      \strng{authorfullhash}{e677a453670cfcb7359cdf7f95264716}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of the New York Academy of Sciences}
+      \field{title}{Evidence for plasticity in white-matter tracts of patients with chronic broca’s aphasia undergoing intense intonation-based speech therapy.}
+      \field{volume}{1169}
+      \field{year}{2009}
+      \field{pages}{385\bibrangedash 394}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1749-6632.2009.04587.x
+      \endverb
+    \endentry
+    \entry{Snodgrass1980}{article}{}
+      \name{author}{2}{}{%
+        {{hash=022ba2660bde0d304e25ffc00909050e}{%
+           family={Snodgrass},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d96b46ad7d4d7ae8357856c200ab8522}{%
+           family={Vanderwart},
+           familyi={V\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c20d8fb2571ba69da80189a8b5e8f4e7}
+      \strng{fullhash}{c20d8fb2571ba69da80189a8b5e8f4e7}
+      \strng{bibnamehash}{c20d8fb2571ba69da80189a8b5e8f4e7}
+      \strng{authorbibnamehash}{c20d8fb2571ba69da80189a8b5e8f4e7}
+      \strng{authornamehash}{c20d8fb2571ba69da80189a8b5e8f4e7}
+      \strng{authorfullhash}{c20d8fb2571ba69da80189a8b5e8f4e7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Human Learning and Memory}
+      \field{number}{2}
+      \field{title}{A standardized set of 260 pictures: norms for name agreement, image agreement, familiarity and visual complexity.}
+      \field{volume}{6}
+      \field{year}{1980}
+      \field{pages}{174}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1037/0278-7393.6.2.174
+      \endverb
+    \endentry
+    \entry{Spezzano2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=503ce7cbf6d9d24051e4920b40aee472}{%
+           family={Spezzano},
+           familyi={S\bibinitperiod},
+           given={L\bibnamedelima C},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=e25fa5029c0c530aaf4e350ed0699cb9}{%
+           family={Radanovic},
+           familyi={R\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{22080e678d8f62e843ec2c9c9095803b}
+      \strng{fullhash}{22080e678d8f62e843ec2c9c9095803b}
+      \strng{bibnamehash}{22080e678d8f62e843ec2c9c9095803b}
+      \strng{authorbibnamehash}{22080e678d8f62e843ec2c9c9095803b}
+      \strng{authornamehash}{22080e678d8f62e843ec2c9c9095803b}
+      \strng{authorfullhash}{22080e678d8f62e843ec2c9c9095803b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dementia \& Neuropsychologia}
+      \field{number}{4}
+      \field{title}{Naming abilities: Differentiation between objects and verbs in aphasia.}
+      \field{volume}{4}
+      \field{year}{2010}
+      \field{pages}{287}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1590/s1980-57642010dn40400006
+      \endverb
+    \endentry
+    \entry{Stemmer2008}{book}{}
+      \name{author}{2}{}{%
+        {{hash=24621d021b17ff5ade961c2cecedb731}{%
+           family={Stemmer},
+           familyi={S\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=43c651c7954d1f370cec4a2504b3fc41}{%
+           family={Whitaker},
+           familyi={W\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{71e990ee3cd5fa8797c351c9b6bd97e3}
+      \strng{fullhash}{71e990ee3cd5fa8797c351c9b6bd97e3}
+      \strng{bibnamehash}{71e990ee3cd5fa8797c351c9b6bd97e3}
+      \strng{authorbibnamehash}{71e990ee3cd5fa8797c351c9b6bd97e3}
+      \strng{authornamehash}{71e990ee3cd5fa8797c351c9b6bd97e3}
+      \strng{authorfullhash}{71e990ee3cd5fa8797c351c9b6bd97e3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbook of the Neuroscience of Language.}
+      \field{year}{2008}
+    \endentry
+    \entry{Strijkers2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=58a573ebbe8244ac0a5217e351a53d4a}{%
+           family={Strijkers},
+           familyi={S\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e6a4feb14dc6dfa34fb925388375e20a}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8bd214ce23f9ddc132dede290b9f27f}{%
+           family={Pulvermüller},
+           familyi={P\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc737a06e07ed48dae72c73e59341792}
+      \strng{fullhash}{24492a855155c0186fe9a3d9b5de0c63}
+      \strng{bibnamehash}{24492a855155c0186fe9a3d9b5de0c63}
+      \strng{authorbibnamehash}{24492a855155c0186fe9a3d9b5de0c63}
+      \strng{authornamehash}{dc737a06e07ed48dae72c73e59341792}
+      \strng{authorfullhash}{24492a855155c0186fe9a3d9b5de0c63}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NeuroImage}
+      \field{title}{The cortical dynamics of speaking: Lexical and phonological knowledge simultaneously recruit the frontal and temporal cortex within 200 ms.}
+      \field{volume}{163}
+      \field{year}{2017}
+      \field{pages}{206\bibrangedash 219}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2017.09.041
+      \endverb
+    \endentry
+    \entry{Szelenyi2010}{article}{}
+      \name{author}{9}{}{%
+        {{hash=f65982061cb5c6a5ea93189e215f88e0}{%
+           family={Szelényi},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ff7aa49f1d3d0841d7050274699836e9}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=211d6b9a1144804dc19bb0d291078574}{%
+           family={Duffau},
+           familyi={D\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a430cdb0919fa45048d019928dfbd1f5}{%
+           family={Fava},
+           familyi={F\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d5353f33d2e4fdfc40424d7cbfd23aca}{%
+           family={Feigl},
+           familyi={F\bibinitperiod},
+           given={G\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f4f66885fc5b6ed49d94ae4d38106dde}{%
+           family={Galanda},
+           familyi={G\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a7eb07236094435b9f593c16d1f67bf9}{%
+           family={Neuloh},
+           familyi={N\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c974db2b26717e99c46308988cbee4fd}{%
+           family={Signorelli},
+           familyi={S\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8a7a11b2b22e88a0655970fc4ac28af8}{%
+           family={Sala},
+           familyi={S\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{401e6025d93121e1fd243fbacda8b669}
+      \strng{fullhash}{d014e9dc6de6493877e0f77b42ad9602}
+      \strng{bibnamehash}{d014e9dc6de6493877e0f77b42ad9602}
+      \strng{authorbibnamehash}{d014e9dc6de6493877e0f77b42ad9602}
+      \strng{authornamehash}{401e6025d93121e1fd243fbacda8b669}
+      \strng{authorfullhash}{d014e9dc6de6493877e0f77b42ad9602}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurosurgical Focus}
+      \field{number}{2}
+      \field{title}{Intraoperative electrical stimulation in awake craniotomy: methodological aspects of current practice.}
+      \field{volume}{28}
+      \field{year}{2010}
+      \field{pages}{E7}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.3171/2009.12.focus09237
+      \endverb
+    \endentry
+    \entry{Thothathiri2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=66fd215b7bfcdbb4b4e176455d8e3548}{%
+           family={Thothathiri},
+           familyi={T\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a3de47952d82668617331279e46493a9}{%
+           family={Kimberg},
+           familyi={K\bibinitperiod},
+           given={D\bibnamedelima Y},
+           giveni={D\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=c707238206715bce20bb24bbe8878b64}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9f2d84967d33c80597a4a61bdce9494}
+      \strng{fullhash}{f2ced7c7df16e68db8c28c6fb1b55906}
+      \strng{bibnamehash}{f2ced7c7df16e68db8c28c6fb1b55906}
+      \strng{authorbibnamehash}{f2ced7c7df16e68db8c28c6fb1b55906}
+      \strng{authornamehash}{b9f2d84967d33c80597a4a61bdce9494}
+      \strng{authorfullhash}{f2ced7c7df16e68db8c28c6fb1b55906}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cognitive Neuroscience}
+      \field{number}{1}
+      \field{title}{The neural basis of reversible sentence comprehension: evidence from voxel-based lesion symptom mapping in aphasia.}
+      \field{volume}{24}
+      \field{year}{2012}
+      \field{pages}{212\bibrangedash 222}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1162/jocn_a_00118
+      \endverb
+    \endentry
+    \entry{DenBent2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f89eb074b14a2c9e9ab9c0e8215d14c9}{%
+           family={Den\bibnamedelima Bent},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={M\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=abd8b4a5836918f8afb19a5a2f5bf4f8}{%
+           family={Snijders},
+           familyi={S\bibinitperiod},
+           given={T\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4dc94232eafb41bb8f4074116d5b2bb5}{%
+           family={Bromberg},
+           familyi={B\bibinitperiod},
+           given={J\bibnamedelima E\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{587de8c878295794e822ba4c466dccce}
+      \strng{fullhash}{902a4f00b177565e9cca4836bef749c4}
+      \strng{bibnamehash}{902a4f00b177565e9cca4836bef749c4}
+      \strng{authorbibnamehash}{902a4f00b177565e9cca4836bef749c4}
+      \strng{authornamehash}{587de8c878295794e822ba4c466dccce}
+      \strng{authorfullhash}{902a4f00b177565e9cca4836bef749c4}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Memo - Magazine of European Medical Oncology}
+      \field{number}{3}
+      \field{title}{Current treatment of low grade gliomas.}
+      \field{volume}{5}
+      \field{year}{2012}
+      \field{pages}{223\bibrangedash 227}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1007/s12254-012-0014-3
+      \endverb
+    \endentry
+    \entry{Ventura2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2ca730907db21900ba87dbef78fa0cb1}{%
+           family={Ventura},
+           familyi={V\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ca730907db21900ba87dbef78fa0cb1}
+      \strng{fullhash}{2ca730907db21900ba87dbef78fa0cb1}
+      \strng{bibnamehash}{2ca730907db21900ba87dbef78fa0cb1}
+      \strng{authorbibnamehash}{2ca730907db21900ba87dbef78fa0cb1}
+      \strng{authornamehash}{2ca730907db21900ba87dbef78fa0cb1}
+      \strng{authorfullhash}{2ca730907db21900ba87dbef78fa0cb1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Laboratório de Psicologia}
+      \field{number}{1}
+      \field{title}{Normas para figuras do corpus de Snodgrass e Vanderwart (1980).}
+      \field{volume}{1}
+      \field{year}{2003}
+      \field{pages}{5\bibrangedash 19}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.14417/lp.769
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

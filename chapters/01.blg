@@ -1,0 +1,18 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is '01.blg'
+[62] biber:340> INFO - === Thu May  5, 2022, 14:28:01
+[74] Biber.pm:415> INFO - Reading '01.bcf'
+[140] Biber.pm:952> INFO - Found 69 citekeys in bib section 0
+[151] Biber.pm:4340> INFO - Processing section 0
+[161] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography_.bib' for section 0
+[195] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1206] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography_.bib'
+[1216] Utils.pm:395> WARN - Possible typo (case mismatch) between datasource keys: 'McLeod2017' and 'Mcleod2017' in file '../localbibliography_.bib'
+[1631] Utils.pm:395> WARN - I didn't find a database entry for 'McLeod2017a' (section 0)
+[1715] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1716] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1716] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1716] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1797] bbl.pm:654> INFO - Writing '01.bbl' with encoding 'UTF-8'
+[1833] bbl.pm:757> INFO - Output to 01.bbl
+[1834] Biber.pm:128> INFO - WARNINGS: 2
